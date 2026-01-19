@@ -1,0 +1,592 @@
+% ============================================
+% EBOOK: JAK NAPISAĆ PRACĘ LICENCJACKĄ
+% Styl akademicki, paleta uniwersytecka
+% ============================================
+
+\usepackage{etoolbox}
+\usepackage{tikz}
+\usetikzlibrary{calc,positioning,shapes.geometric}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{tcolorbox}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{tikzsymbols}
+\tcbuselibrary{skins,breakable,hooks}
+
+% ============================================
+% PALETA KOLOROW - AKADEMICKA
+% ============================================
+
+% Kolory główne
+\definecolor{acadnavy}{RGB}{24,54,87}
+\definecolor{acadgold}{RGB}{184,144,48}
+\definecolor{acadburgundy}{RGB}{120,47,64}
+\definecolor{acadforest}{RGB}{45,87,64}
+\definecolor{acadslate}{RGB}{68,78,88}
+\definecolor{acadcopper}{RGB}{156,96,56}
+\definecolor{acadplum}{RGB}{88,56,96}
+\definecolor{acadteal}{RGB}{40,88,96}
+
+% Kolory jasne (tła)
+\definecolor{acadlightnavy}{RGB}{235,240,248}
+\definecolor{acadlightgold}{RGB}{255,250,235}
+\definecolor{acadlightburgundy}{RGB}{252,240,242}
+\definecolor{acadlightforest}{RGB}{238,248,242}
+\definecolor{acadlightslate}{RGB}{244,246,248}
+\definecolor{acadlightcopper}{RGB}{255,248,240}
+\definecolor{acadlightplum}{RGB}{248,242,250}
+\definecolor{acadlightteal}{RGB}{238,248,250}
+
+% Aliasy główne
+\colorlet{maincolor}{acadnavy}
+\colorlet{accentcolor}{acadgold}
+\colorlet{warncolor}{acadburgundy}
+\colorlet{successcolor}{acadforest}
+\colorlet{neutralcolor}{acadslate}
+
+% ============================================
+% USUNIECIE STRONY TYTULOWEJ
+% ============================================
+\AtBeginDocument{\let\maketitle\relax}
+
+% ============================================
+% SPIS TRESCI
+% ============================================
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadslate] ([yshift=-12mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-6mm]current page.north east) {Spis tre\'sci};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadslate] ([yshift=12mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+\pretocmd{\tableofcontents}{\pagestyle{plain}\pagenumbering{gobble}}{}{}
+\apptocmd{\tableofcontents}{\clearpage\pagenumbering{arabic}\setcounter{page}{1}\pagestyle{main}}{}{}
+
+\renewcommand{\cleardoublepage}{\clearpage}
+\KOMAoptions{open=any}
+
+\RedeclareSectionCommand[
+  beforeskip=0pt,
+  afterskip=1em
+]{chapter}
+
+% ============================================
+% MARGINESY
+% ============================================
+\setlength{\headheight}{14mm}
+\setlength{\headsep}{4mm}
+\setlength{\footskip}{16mm}
+
+% ============================================
+% STYLE NAGLOWKOW I STOPEK
+% ============================================
+
+% Styl główny
+\fancypagestyle{main}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadnavy] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=acadgold, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{graduation-cap}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Jak napisa\'c prac\k{e} licencjack\k{a}};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadnavy] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[acadgold] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadnavy, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Wstęp i podstawy
+\fancypagestyle{wstep}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadslate] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{book-open}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Wprowadzenie};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadslate] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[white] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadslate, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Struktura pracy
+\fancypagestyle{struktura}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadnavy] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=acadgold, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{sitemap}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Struktura pracy};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadnavy] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[acadgold] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadnavy, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Źródła i bibliografia
+\fancypagestyle{zrodla}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadforest] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{book}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {\'Zr\'od\l a i bibliografia};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadforest] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[white] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadforest, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Pisanie i redakcja
+\fancypagestyle{pisanie}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadcopper] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{pen-fancy}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Pisanie i redakcja};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadcopper] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[white] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadcopper, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Formatowanie
+\fancypagestyle{formatowanie}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadplum] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{align-left}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Formatowanie};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadplum] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[white] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadplum, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% Styl: Obrona
+\fancypagestyle{obrona}{
+  \fancyhf{}
+  \fancyhead[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadteal] ([yshift=-14mm]current page.north west) rectangle ([yshift=0mm]current page.north east);
+      \node[text=white, anchor=west, font=\small] at ([xshift=15mm, yshift=-7mm]current page.north west) {\faIcon{user-graduate}};
+      \node[text=white, anchor=east, font=\bfseries\small] at ([xshift=-15mm, yshift=-7mm]current page.north east) {Obrona pracy};
+    \end{tikzpicture}
+  }
+  \fancyfoot[C]{
+    \begin{tikzpicture}[remember picture, overlay]
+      \fill[acadteal] ([yshift=14mm]current page.south west) rectangle ([yshift=0mm]current page.south east);
+      \fill[white] ([xshift=-20mm,yshift=5mm]current page.south) circle (4mm);
+      \node[text=acadteal, font=\bfseries\small] at ([xshift=-20mm,yshift=5mm]current page.south) {\thepage};
+    \end{tikzpicture}
+  }
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+}
+
+% ============================================
+% NAGLOWEK SEKCJI Z IKONA
+% ============================================
+\newcommand{\coloredsection}[3]{%
+  \begin{tikzpicture}
+    \node[
+      fill=#1,
+      text=white,
+      font=\bfseries\large,
+      minimum width=\textwidth,
+      minimum height=11mm,
+      inner sep=6pt
+    ] (box) {#3};
+    \node[text=white, anchor=west, font=\normalsize] at ([xshift=5mm]box.west) {#2};
+  \end{tikzpicture}
+  \vspace{4mm}
+}
+
+\newcommand{\sectionheader}[2]{%
+  \begin{tikzpicture}
+    \node[
+      fill=#1,
+      text=white,
+      font=\bfseries\large,
+      minimum width=\textwidth,
+      minimum height=10mm,
+      inner sep=5pt
+    ] {#2};
+  \end{tikzpicture}
+  \vspace{3mm}
+}
+
+% ============================================
+% BOX: DEFINICJA
+% ============================================
+\newtcolorbox{definicja}[1][]{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightnavy,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadnavy},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadnavy}{\faIcon{bookmark}~\bfseries Definicja\ifx&#1&\else: #1\fi}},
+  coltitle=acadnavy,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightnavy,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: PRZYKŁAD
+% ============================================
+\newtcolorbox{przyklad}[1][]{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightforest,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadforest},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadforest}{\faIcon{lightbulb}~\bfseries Przyk\l ad\ifx&#1&\else: #1\fi}},
+  coltitle=acadforest,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightforest,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: ZASADA
+% ============================================
+\newtcolorbox{zasada}[1][]{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightgold,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadgold},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadgold!80!black}{\faIcon{star}~\bfseries Zasada\ifx&#1&\else: #1\fi}},
+  coltitle=acadgold!80!black,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightgold,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: BŁĄD DO UNIKANIA
+% ============================================
+\newtcolorbox{blad}{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightburgundy,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadburgundy},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadburgundy}{\faIcon{exclamation-triangle}~\bfseries Cz\k{e}sty b\l\k{a}d}},
+  coltitle=acadburgundy,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightburgundy,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: WSKAZÓWKA
+% ============================================
+\newtcolorbox{wskazowka}{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightteal,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadteal},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadteal}{\faIcon{info-circle}~\bfseries Wskaz\'owka}},
+  coltitle=acadteal,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightteal,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: WAŻNE
+% ============================================
+\newtcolorbox{wazne}{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightcopper,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{acadcopper},
+  arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small,
+  title={\textcolor{acadcopper}{\faIcon{exclamation-circle}~\bfseries Wa\.zne}},
+  coltitle=acadcopper,
+  attach boxed title to top left={yshift=-2mm,xshift=4mm},
+  boxed title style={colback=acadlightcopper,colframe=white,boxrule=0pt}
+}
+
+% ============================================
+% BOX: KROK (NUMEROWANY)
+% ============================================
+\newcounter{stepcount}
+\newcommand{\resetsteps}{\setcounter{stepcount}{0}}
+\newtcolorbox{krok}[2][acadnavy]{%
+  enhanced,
+  before skip=4mm,
+  after skip=4mm,
+  colback=white,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={4pt}{0pt}{#1},
+  arc=0pt,
+  outer arc=0pt,
+  left=6mm,
+  right=5mm,
+  top=4mm,
+  bottom=4mm,
+  fonttitle=\bfseries\color{black},
+  title={\stepcounter{stepcount}\textcolor{#1}{\faIcon{chevron-right}}~Krok \thestepcount: #2},
+  attach boxed title to top left={yshift=-2mm, xshift=0mm},
+  boxed title style={colback=white,colframe=white,boxrule=0pt,left=0pt,right=0pt}
+}
+
+% ============================================
+% BOX: CYTAT
+% ============================================
+\newtcolorbox{cytat}{%
+  enhanced,
+  breakable,
+  before skip=4mm,
+  after skip=4mm,
+  colback=acadlightslate,
+  colframe=white,
+  boxrule=0pt,
+  borderline west={3pt}{0pt}{acadslate},
+  borderline east={3pt}{0pt}{acadslate},
+  arc=0pt,
+  left=8mm,
+  right=8mm,
+  top=4mm,
+  bottom=4mm,
+  fontupper=\small\itshape
+}
+
+% ============================================
+% LISTY
+% ============================================
+\newlist{navylist}{enumerate}{1}
+\setlist[navylist]{
+  label={\textcolor{acadnavy}{\bfseries\arabic*.}},
+  leftmargin=*,
+  itemsep=3pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+\newlist{goldlist}{itemize}{1}
+\setlist[goldlist]{
+  label={\textcolor{acadgold}{$\blacktriangleright$}},
+  leftmargin=*,
+  itemsep=3pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+\newlist{forestlist}{itemize}{1}
+\setlist[forestlist]{
+  label={\textcolor{acadforest}{\faIcon{check}}},
+  leftmargin=*,
+  itemsep=3pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+\newlist{burgundylist}{itemize}{1}
+\setlist[burgundylist]{
+  label={\textcolor{acadburgundy}{\faIcon{times}}},
+  leftmargin=*,
+  itemsep=3pt,
+  topsep=3pt,
+  parsep=0pt
+}
+
+% ============================================
+% TABELA - STYLE
+% ============================================
+\newcommand{\tableheadercolor}{acadnavy}
+\newcolumntype{H}{>{\columncolor{\tableheadercolor}\color{white}\bfseries}c}
+\newcolumntype{L}{>{\columncolor{\tableheadercolor}\color{white}\bfseries}l}
+
+% ============================================
+% PLACEHOLDER NA OBRAZEK
+% ============================================
+\newcommand{\screenshotplaceholder}[1]{%
+  \begin{center}
+  \begin{tikzpicture}
+    \node[
+      draw=acadslate!50,
+      dashed,
+      line width=1pt,
+      minimum width=0.7\textwidth,
+      minimum height=3.5cm,
+      fill=acadlightslate
+    ] {\textcolor{acadslate}{\textit{#1}}};
+  \end{tikzpicture}
+  \end{center}
+}
+
+\newcommand{\diagramplaceholder}[1]{%
+  \begin{center}
+  \begin{tikzpicture}
+    \node[
+      draw=acadnavy!50,
+      dashed,
+      line width=1pt,
+      minimum width=0.65\textwidth,
+      minimum height=4cm,
+      fill=acadlightnavy
+    ] {\textcolor{acadnavy}{\faIcon{project-diagram}~\textit{#1}}};
+  \end{tikzpicture}
+  \end{center}
+}
+
+% ============================================
+% WSTAWIANIE OBRAZOW
+% ============================================
+\newcommand{\screenshot}[1]{%
+  \begin{center}
+  \includegraphics[width=0.75\textwidth]{#1}
+  \end{center}
+}
+
+\newcommand{\screenshotcaption}[2]{%
+  \begin{center}
+  \includegraphics[width=0.75\textwidth]{#1}\\[2mm]
+  \textcolor{acadslate}{\small\textit{#2}}
+  \end{center}
+}
+
+% ============================================
+% SEPARATOR SEKCJI
+% ============================================
+\newcommand{\sectionbreak}{%
+  \begin{center}
+  \vspace{2mm}
+  \textcolor{acadgold}{$\blacklozenge$\hspace{3mm}$\blacklozenge$\hspace{3mm}$\blacklozenge$}
+  \vspace{2mm}
+  \end{center}
+}
+
+% ============================================
+% IKONY STATUSU
+% ============================================
+\newcommand{\statusok}{\textcolor{acadforest}{\faIcon{check-circle}}}
+\newcommand{\statuswarn}{\textcolor{acadgold}{\faIcon{exclamation-circle}}}
+\newcommand{\statuserror}{\textcolor{acadburgundy}{\faIcon{times-circle}}}
+
+% ============================================
+% TYPOGRAFIA
+% ============================================
+\hyphenpenalty=5000
+\exhyphenpenalty=5000
+\tolerance=2000
+\raggedbottom
+\hypersetup{pdfnewwindow=true}
+
+\pagestyle{main}

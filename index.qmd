@@ -1,0 +1,50 @@
+---
+pagetitle: "Wstęp"
+---
+
+\pagestyle{wstep}
+\thispagestyle{wstep}
+
+# O tym przewodniku {.unnumbered}
+
+Niniejszy ebook powstał z myślą o studentach, którzy stoją przed wyzwaniem napisania swojej pierwszej pracy licencjackiej. Proces ten może wydawać się przytłaczający, jednak przy odpowiednim podejściu i znajomości podstawowych zasad, każdy jest w stanie przygotować wartościową pracę dyplomową.
+
+\begin{zasada}[Kluczowa myśl]
+Praca licencjacka to nie tylko wymóg formalny --- to szansa na pogłębienie wiedzy w interesującym Cię obszarze i rozwinięcie umiejętności badawczych, które będą procentować przez całe życie zawodowe.
+\end{zasada}
+
+## Dla kogo jest ten przewodnik? {.unnumbered}
+
+Przewodnik jest przeznaczony dla studentów wszystkich kierunków, którzy przygotowują się do napisania pracy licencjackiej. Niezależnie od tego, czy Twoja praca będzie miała charakter teoretyczny, empiryczny czy projektowy, znajdziesz tutaj uniwersalne wskazówki dotyczące:
+
+\begin{goldlist}
+\item wyboru i sformułowania tematu pracy,
+\item planowania i organizacji procesu pisania,
+\item poszukiwania i wykorzystywania źródeł naukowych,
+\item struktury i formatowania pracy,
+\item przygotowania do obrony.
+\end{goldlist}
+
+## Jak korzystać z tego ebooka? {.unnumbered}
+
+Każdy rozdział jest samodzielną całością, jednak zalecamy lekturę po kolei, szczególnie jeśli dopiero zaczynasz pracę nad licencjatem. W tekście znajdziesz specjalne ramki wyróżniające najważniejsze informacje:
+
+\begin{definicja}
+Ramki definicji wyjaśniają kluczowe pojęcia i terminy, które musisz znać.
+\end{definicja}
+
+\begin{przyklad}
+Ramki z przykładami pokazują konkretne zastosowania omawianych zasad.
+\end{przyklad}
+
+\begin{blad}
+Ramki z częstymi błędami pomogą Ci uniknąć typowych pułapek.
+\end{blad}
+
+\begin{wskazowka}
+Ramki ze wskazówkami zawierają praktyczne porady przyspieszające pracę.
+\end{wskazowka}
+
+\sectionbreak
+
+Powodzenia w pisaniu pracy licencjackiej!

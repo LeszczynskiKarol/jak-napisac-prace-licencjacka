@@ -1,0 +1,47 @@
+project:
+  type: book
+  output-dir: _output
+
+book:
+  title: "Jak napisać pracę licencjacką"
+  subtitle: "Kompletny przewodnik dla studentów"
+  author: "Smart-Edu"
+  date: today
+  date-format: "DD.MM.YYYY"
+
+  chapters:
+    - index.qmd
+    - chapters/01-wprowadzenie.qmd
+    - chapters/02-wybor-tematu.qmd
+
+format:
+  pdf:
+    documentclass: scrbook
+    classoption:
+      - open=any
+      - numbers=endperiod
+    papersize: a4
+    fontsize: 11pt
+    geometry:
+      - top=18mm
+      - bottom=18mm
+      - left=22mm
+      - right=22mm
+      - includehead
+      - includefoot
+    mainfont: "Be Vietnam Pro"
+    sansfont: "Be Vietnam Pro"
+    monofont: "DejaVu Sans Mono"
+    lang: pl
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    number-depth: 3
+    colorlinks: true
+    linkcolor: "black"
+    urlcolor: "acadnavy"
+    fig-pos: "H"
+    include-in-header: _header.tex
+    include-before-body:
+      text: |
+        \pagenumbering{gobble}

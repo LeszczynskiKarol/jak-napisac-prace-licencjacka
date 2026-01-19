@@ -1,0 +1,430 @@
+---
+pagetitle: "Wybór tematu"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Wybór tematu pracy licencjackiej
+
+\sectionheader{acadnavy}{Fundament całej pracy}
+
+Wybór tematu to jedna z najważniejszych decyzji, jaką podejmiesz w całym procesie pisania pracy licencjackiej. Dobry temat to połowa sukcesu --- motywuje do pracy, ułatwia znalezienie literatury i pozwala na napisanie spójnej, wartościowej rozprawy. Zły wybór może zamienić kolejne miesiące w gehennę.
+
+W tym rozdziale przeprowadzimy Cię przez cały proces: od pierwszych pomysłów, przez weryfikację i zawężanie tematu, aż po oficjalne zgłoszenie i akceptację przez promotora.
+
+\begin{zasada}[Złota zasada wyboru tematu]
+Temat musi spełniać trzy warunki jednocześnie: (1) musi Cię \textbf{interesować} --- będziesz nad nim pracować kilka miesięcy, (2) musi być \textbf{realny do wykonania} --- w ramach dostępnego czasu i zasobów, (3) musi być \textbf{akceptowalny naukowo} --- mieścić się w profilu kierunku i mieć oparcie w literaturze.
+\end{zasada}
+
+## Skąd brać pomysły na temat?
+
+Wielu studentów przychodzi na pierwsze seminarium dyplomowe z pustką w głowie. To normalne --- nie martw się. Istnieje wiele sprawdzonych sposobów na znalezienie interesującego tematu.
+
+\sectionheader{acadforest}{Źródła inspiracji}
+
+\begin{navylist}
+\item \textbf{Przedmioty ze studiów} --- Który kurs był dla Ciebie najciekawszy? Jaki problem omawiany na zajęciach intrygował Cię najbardziej? Czy jakiś wykładowca poruszał tematy, o których chciałbyś wiedzieć więcej?
+
+\item \textbf{Doświadczenie zawodowe} --- Jeśli pracujesz lub odbywałeś praktyki, jakie problemy zauważyłeś w firmie? Co można byłoby zbadać lub usprawnić? Prace oparte na realnych przypadkach są często bardzo wartościowe.
+
+\item \textbf{Aktualne wydarzenia} --- Czy w mediach pojawiają się tematy związane z Twoim kierunkiem studiów? Nowe regulacje prawne, trendy rynkowe, zjawiska społeczne?
+
+\item \textbf{Lektura naukowa} --- Przeglądaj najnowsze numery czasopism naukowych z Twojej dziedziny. Autorzy często wskazują w zakończeniach artykułów ``kierunki dalszych badań'' --- to gotowe pomysły na prace.
+
+\item \textbf{Prace innych studentów} --- Przejrzyj tematy prac obronionych w ostatnich latach na Twoim wydziale. Możesz znaleźć inspirację lub odkryć niszę, która nie została jeszcze zbadana.
+
+\item \textbf{Rozmowy z promotorem} --- Doświadczeni naukowcy często mają ``bank tematów'', które chcieliby, żeby ktoś opracował. Zapytaj wprost.
+\end{navylist}
+
+\begin{wskazowka}
+Zanim pójdziesz do promotora, przygotuj listę 3--5 obszarów tematycznych, które Cię interesują. Nie musisz mieć gotowego tytułu --- wystarczy ogólny kierunek. Promotor pomoże Ci go doprecyzować.
+\end{wskazowka}
+
+## Pytania, które musisz sobie zadać
+
+Zanim zdecydujesz się na konkretny temat, uczciwie odpowiedz sobie na poniższe pytania. Jeśli na którekolwiek odpowiesz ``nie'' lub ``nie wiem'', wróć do etapu poszukiwań.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Pytanie}} & \textcolor{white}{\textbf{Dlaczego to ważne?}} \\
+Czy ten temat mnie interesuje? & Bez motywacji wewnętrznej trudno utrzymać zapał przez kilka miesięcy \\
+\rowcolor{acadlightnavy} Czy rozumiem, o czym chcę pisać? & Musisz wiedzieć, co badasz, zanim zaczniesz pisać \\
+Czy istnieje literatura na ten temat? & Bez źródeł nie napiszesz części teoretycznej \\
+\rowcolor{acadlightnavy} Czy temat nie jest zbyt szeroki? & Szeroki temat = powierzchowna praca \\
+Czy temat nie jest zbyt wąski? & Zbyt wąski = brak materiału na 40 stron \\
+\rowcolor{acadlightnavy} Czy mam dostęp do danych/respondentów? & Bez danych nie przeprowadzisz badań empirycznych \\
+Czy zdążę w terminie? & Niektóre badania wymagają miesięcy przygotowań \\
+\rowcolor{acadlightnavy} Czy promotor zna się na tym temacie? & Lepsze wsparcie merytoryczne = lepsza praca \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Autodiagnoza studenta]
+Anna rozważa temat ``Wpływ mediów społecznościowych na zachowania konsumenckie''. Zadaje sobie pytania:
+\begin{goldlist}
+\item Czy mnie interesuje? \statusok~Tak, sama dużo kupuję przez Instagram
+\item Czy rozumiem temat? \statusok~Ogólnie tak, ale muszę doczytać o modelach zachowań konsumenckich
+\item Czy jest literatura? \statusok~Tak, sprawdziłam w Google Scholar --- setki artykułów
+\item Czy nie za szeroki? \statuserror~Chyba tak... muszę zawęzić
+\item Czy mam dostęp do danych? \statuswarn~Mogę zrobić ankietę wśród znajomych, ale czy to wystarczy?
+\end{goldlist}
+Wniosek: temat obiecujący, ale wymaga zawężenia (np. do konkretnej branży lub grupy wiekowej).
+\end{przyklad}
+
+\sectionbreak
+
+## Kryteria dobrego tematu
+
+Dobry temat pracy licencjackiej musi spełniać określone kryteria. Przeanalizujmy je szczegółowo.
+
+\sectionheader{acadnavy}{Kryterium 1: Odpowiednia szerokość}
+
+Najczęstszym błędem studentów jest wybór tematu zbyt szerokiego. Pamiętaj: masz do dyspozycji około 40--50 stron tekstu głównego. To za mało, żeby omówić ``całą historię marketingu'' czy ``wszystkie aspekty zarządzania zasobami ludzkimi''.
+
+\begin{blad}
+\textbf{Temat zbyt szeroki:} ``Zarządzanie zasobami ludzkimi w przedsiębiorstwach''
+
+Problem: To temat na podręcznik akademicki (500+ stron), nie na pracę licencjacką. Student albo napisze bardzo powierzchownie o wszystkim, albo zgubi się w materiale.
+\end{blad}
+
+\begin{przyklad}[Zawężanie tematu --- krok po kroku]
+Zobaczmy, jak można zawęzić zbyt szeroki temat:
+
+\begin{navylist}
+\item \textbf{Poziom 0 (za szeroki):} Zarządzanie zasobami ludzkimi
+\item \textbf{Poziom 1:} Zarządzanie zasobami ludzkimi w sektorze IT
+\item \textbf{Poziom 2:} Rekrutacja pracowników w sektorze IT
+\item \textbf{Poziom 3:} Wykorzystanie LinkedIn w rekrutacji programistów
+\item \textbf{Poziom 4 (odpowiedni):} Skuteczność employer brandingu na LinkedIn w rekrutacji programistów Java --- studium przypadku firmy X
+\end{navylist}
+
+Widzisz różnicę? Temat z poziomu 4 jest konkretny, mierzalny i możliwy do zbadania w ramach pracy licencjackiej.
+\end{przyklad}
+
+Z drugiej strony, temat nie może być zbyt wąski --- musisz mieć o czym pisać.
+
+\begin{blad}
+\textbf{Temat zbyt wąski:} ``Analiza kolorystyki logo firmy XYZ w latach 2020--2021''
+
+Problem: To temat na esej (5--10 stron), nie na pracę licencjacką. Nie ma wystarczającej literatury ani materiału badawczego.
+\end{blad}
+
+\begin{definicja}[Test odpowiedniej szerokości]
+Dobry temat powinien pozwalać na napisanie 2--3 rozdziałów teoretycznych (po ok. 10--15 stron każdy) oraz 1--2 rozdziałów analitycznych/badawczych. Jeśli widzisz, że jeden rozdział ``rozlewa się'' na 30 stron, a inny ma tylko 5 --- temat jest źle zbalansowany.
+\end{definicja}
+
+\sectionheader{acadnavy}{Kryterium 2: Realność wykonania}
+
+Zanim zakochasz się w temacie, sprawdź, czy jesteś w stanie go zrealizować.
+
+\begin{tcolorbox}[enhanced, colback=acadlightburgundy, colframe=acadburgundy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Pytania kontrolne --- realność wykonania:}
+\begin{burgundylist}
+\item Czy mam dostęp do niezbędnych danych lub respondentów?
+\item Czy potrzebuję zgody jakiejś instytucji na przeprowadzenie badań?
+\item Czy badania wymagają specjalistycznego sprzętu lub oprogramowania?
+\item Czy czas potrzebny na zebranie danych mieści się w moim harmonogramie?
+\item Czy moje umiejętności metodologiczne są wystarczające?
+\item Czy koszty badań (np. druk ankiet, dojazdy) są dla mnie akceptowalne?
+\end{burgundylist}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Temat nierealistyczny:} ``Analiza strategii cenowych 100 największych firm w Polsce''
+
+Problem: Skąd student weźmie poufne dane o strategiach cenowych 100 firm? Takie dane nie są publicznie dostępne. Temat brzmi ambitnie, ale jest niewykonalny.
+\end{blad}
+
+\begin{wskazowka}
+Jeśli planujesz badania ankietowe, upewnij się, że masz dostęp do wystarczającej liczby respondentów. Pytanie ``Jak firmy z listy Fortune 500 podejmują decyzje inwestycyjne?'' brzmi ciekawie, ale dotarcie do CEO tych firm jest praktycznie niemożliwe dla studenta.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Kryterium 3: Dostępność literatury}
+
+Praca licencjacka wymaga solidnej podstawy teoretycznej. Jeśli na dany temat nie ma literatury naukowej, nie napiszesz części teoretycznej.
+
+\begin{wazne}
+Zanim ostatecznie zdecydujesz się na temat, przeprowadź wstępną kwerendę bibliograficzną. Sprawdź w Google Scholar, JSTOR, BazEkon lub innych bazach naukowych, czy istnieją publikacje na Twój temat. Minimum to 15--20 pozycji, z których możesz skorzystać.
+\end{wazne}
+
+\begin{blad}
+\textbf{Temat bez literatury:} ``Wykorzystanie technologii blockchain w branży florystycznej w Polsce''
+
+Problem: Temat brzmi nowocześnie, ale prawdopodobnie nie istnieje literatura naukowa na tak wąski i specyficzny temat. Student będzie musiał ``na siłę'' łączyć ogólne artykuły o blockchain z ogólnymi o florystyce, co da niespójną pracę.
+\end{blad}
+
+\resetsteps
+
+\begin{krok}[acadforest]{Wstępna kwerenda bibliograficzna}
+Wpisz słowa kluczowe związane z Twoim tematem w Google Scholar lub inną bazę naukową. Sprawdź, ile wyników otrzymujesz.
+\end{krok}
+
+\begin{krok}[acadforest]{Ocena jakości wyników}
+Czy wśród wyników są artykuły z recenzowanych czasopism? Książki uznanych autorów? Czy publikacje są w języku, który rozumiesz?
+\end{krok}
+
+\begin{krok}[acadforest]{Sprawdzenie aktualności}
+Czy są publikacje z ostatnich 5--10 lat? Jeśli wszystkie źródła są sprzed 20 lat, temat może być ``martwy'' naukowo lub wymagać aktualizacji.
+\end{krok}
+
+\begin{krok}[acadforest]{Wstępna lista źródeł}
+Zapisz 15--20 najbardziej obiecujących pozycji. Jeśli nie jesteś w stanie znaleźć tylu, rozważ modyfikację tematu.
+\end{krok}
+
+\sectionheader{acadnavy}{Kryterium 4: Zgodność z kierunkiem studiów}
+
+Temat musi mieścić się w profilu Twojego kierunku studiów. Praca z zarządzania nie może być czysto informatyczna, a praca z filologii nie może być czysto psychologiczna.
+
+\begin{przyklad}[Interdyscyplinarność a zgodność z kierunkiem]
+Student zarządzania chce pisać o algorytmach sztucznej inteligencji. Sam temat ``Algorytmy uczenia maszynowego'' nie pasuje do kierunku. Ale ``Wykorzystanie narzędzi AI w zarządzaniu obsługą klienta --- studium przypadku firmy X'' --- jak najbardziej. Kluczem jest odpowiednie ujęcie tematu.
+\end{przyklad}
+
+\begin{wskazowka}
+Sprawdź, jakie prace były już bronione na Twoim kierunku. To pokaże Ci, jaki zakres tematyczny jest akceptowany. Listę tematów znajdziesz często w dziekanacie lub w uczelnianym repozytorium prac dyplomowych.
+\end{wskazowka}
+
+\sectionbreak
+
+## Jak sprawdzić, czy temat nie jest ``przerobiony''?
+
+Niektórzy studenci boją się, że ich temat został już ``wykorzystany'' przez kogoś innego. To naturalna obawa, ale często przesadzona.
+
+\begin{zasada}[Oryginalność w pracy licencjackiej]
+Od pracy licencjackiej \textbf{nie wymaga się oryginalności naukowej} w sensie odkrywania czegoś nowego dla nauki. Wymaga się samodzielności --- Twoja praca musi być Twoim własnym dziełem, a nie kopią czyjejś pracy. Możesz pisać na temat, który był już badany, o ile Twoje ujęcie, dane lub perspektywa są inne.
+\end{zasada}
+
+\begin{przyklad}[Ten sam temat, różne prace]
+Dziesięć osób może pisać o ``motywacji pracowników w firmach IT'', a każda praca będzie inna:
+\begin{goldlist}
+\item Osoba A bada firmę X w Warszawie
+\item Osoba B bada firmy w Krakowie
+\item Osoba C porównuje startupy i korporacje
+\item Osoba D skupia się na programistach, E na testerach
+\item Osoba F analizuje motywację finansową, G --- pozafinansową
+\end{goldlist}
+Wszystkie te prace są wartościowe i oryginalne, mimo podobnego tematu ogólnego.
+\end{przyklad}
+
+\begin{wazne}
+To, co \textbf{nie jest} dopuszczalne, to skopiowanie struktury, argumentacji lub fragmentów tekstu z czyjejś pracy. System antyplagiatowy to wykryje, a konsekwencje są poważne --- od niezaliczenia po skreślenie z listy studentów.
+\end{wazne}
+
+## Od obszaru zainteresowań do tytułu pracy
+
+Proces dochodzenia do ostatecznego tytułu pracy jest stopniowy. Nie musisz od razu znać dokładnego brzmienia --- tytuł często doprecyzowuje się dopiero po napisaniu części pracy.
+
+\diagramplaceholder{Diagram: Od obszaru do tytułu --- proces zawężania}
+
+\resetsteps
+
+\begin{krok}[acadnavy]{Określ obszar zainteresowań}
+Przykład: ``Interesuje mnie marketing cyfrowy''
+\end{krok}
+
+\begin{krok}[acadnavy]{Zawęź do konkretnego zagadnienia}
+Przykład: ``A konkretnie --- marketing w mediach społecznościowych''
+\end{krok}
+
+\begin{krok}[acadnavy]{Dodaj perspektywę/kontekst}
+Przykład: ``Marketing w mediach społecznościowych dla małych firm''
+\end{krok}
+
+\begin{krok}[acadnavy]{Sformułuj problem badawczy}
+Przykład: ``Czy małe firmy efektywnie wykorzystują Instagram do pozyskiwania klientów?''
+\end{krok}
+
+\begin{krok}[acadnavy]{Przeformułuj na tytuł pracy}
+Przykład: ``Wykorzystanie Instagrama jako narzędzia pozyskiwania klientów przez małe firmy usługowe --- analiza na przykładzie branży beauty w Krakowie''
+\end{krok}
+
+## Cechy dobrego tytułu
+
+Tytuł pracy to jej wizytówka. Na tytuł zwracamy uwagę w pierwszej kolejności --- podobnie jak na pierwsze wrażenie, które wywieramy swoim wyglądem.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Cecha}} & \textcolor{white}{\textbf{Wyjaśnienie}} \\
+Precyzyjny & Jasno określa, o czym jest praca; unika wieloznaczności \\
+\rowcolor{acadlightforest} Niezbyt długi & Optymalnie 10--15 słów; max. 2 linijki na stronie tytułowej \\
+Zgodny z treścią & Obiecuje dokładnie to, co praca zawiera --- nie więcej, nie mniej \\
+\rowcolor{acadlightforest} Jednoznaczny & Nie używa słów, które można różnie interpretować \\
+Poprawny językowo & Zero błędów ortograficznych i stylistycznych \\
+\rowcolor{acadlightforest} Informatywny & Czytelnik po przeczytaniu tytułu wie, czego się spodziewać \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Zły tytuł:} ``Analiza wybranych aspektów zarządzania''
+
+Problemy: (1) zbyt ogólny --- jakie aspekty? jakiego zarządzania? (2) ``wybrane'' sugeruje przypadkowość, (3) po przeczytaniu nie wiadomo, o czym jest praca.
+\end{blad}
+
+\begin{blad}
+\textbf{Zły tytuł:} ``Kompleksowa, wielowymiarowa analiza strategicznych aspektów implementacji innowacyjnych rozwiązań w zakresie zrównoważonego rozwoju w kontekście współczesnych wyzwań sektora MŚP''
+
+Problemy: (1) za długi --- 25 słów, (2) przeładowany modnymi słowami, (3) niejasny --- co konkretnie będzie badane?
+\end{blad}
+
+\begin{przyklad}[Dobre tytuły]
+\begin{forestlist}
+\item ``Motywacja pozafinansowa pracowników działów IT --- badanie na przykładzie firmy XYZ''
+\item ``Wpływ pandemii COVID-19 na zachowania zakupowe pokolenia Z w branży odzieżowej''
+\item ``Employer branding w mediach społecznościowych jako narzędzie rekrutacji programistów''
+\item ``Analiza efektywności kampanii remarketingowych w e-commerce --- studium przypadku sklepu ABC''
+\end{forestlist}
+\end{przyklad}
+
+\begin{wskazowka}
+Tytuł może zawierać dwukropek, który oddziela część ogólną od szczegółowej, np.: ``Marketing szeptany w erze cyfrowej: analiza kampanii influencerów na TikToku''. To elegancki sposób na połączenie szerszego kontekstu z konkretnym zakresem badań.
+\end{wskazowka}
+
+\sectionbreak
+
+## Rozmowa z promotorem o temacie
+
+Pierwsza rozmowa z promotorem na temat Twojej pracy licencjackiej jest kluczowa. Dobre przygotowanie zwiększy szanse na owocną dyskusję i szybką akceptację tematu.
+
+\sectionheader{acadnavy}{Jak przygotować się do rozmowy?}
+
+\begin{navylist}
+\item \textbf{Przygotuj listę 2--3 potencjalnych tematów} --- nie przychodź z pustymi rękami, ale też nie zamykaj się na jeden pomysł.
+
+\item \textbf{Dla każdego tematu przygotuj:}
+  \begin{goldlist}
+  \item wstępne sformułowanie problemu badawczego
+  \item uzasadnienie, dlaczego temat Cię interesuje
+  \item 5--10 pozycji bibliograficznych, które już znalazłeś
+  \item wstępny pomysł na strukturę pracy (rozdziały)
+  \end{goldlist}
+
+\item \textbf{Przemyśl pytania do promotora:}
+  \begin{goldlist}
+  \item Czy temat jest odpowiedni dla pracy licencjackiej?
+  \item Czy nie jest za szeroki/za wąski?
+  \item Jaką literaturę Pan/Pani poleca na początek?
+  \item Czy widzi Pan/Pani jakieś potencjalne problemy?
+  \end{goldlist}
+
+\item \textbf{Zapoznaj się z publikacjami promotora} --- być może Twój temat łączy się z jego zainteresowaniami badawczymi, co ułatwi współpracę.
+\end{navylist}
+
+\begin{zasada}[Otwartość na sugestie]
+Bądź otwarty na sugestie promotora, nawet jeśli oznaczają zmianę Twojego pierwotnego pomysłu. Promotor ma doświadczenie i widzi rzeczy, których Ty możesz nie zauważyć. Jednocześnie masz prawo bronić swojego pomysłu, jeśli uważasz, że promotor go nie zrozumiał --- przedstaw dodatkowe argumenty.
+\end{zasada}
+
+\begin{przyklad}[Scenariusz rozmowy z promotorem]
+\textbf{Student:} Chciałbym pisać o wykorzystaniu sztucznej inteligencji w marketingu. Interesuje mnie, jak firmy używają chatbotów do obsługi klienta.
+
+\textbf{Promotor:} Temat ciekawy, ale bardzo szeroki. Czy myślałeś o konkretnej branży?
+
+\textbf{Student:} Myślałem o e-commerce, bo sam dużo kupuję online i często rozmawiam z chatbotami.
+
+\textbf{Promotor:} Dobrze. A jakie pytanie badawcze chciałbyś postawić?
+
+\textbf{Student:} Czy chatboty zwiększają satysfakcję klienta? Albo może --- czy klienci preferują chatboty od tradycyjnej obsługi?
+
+\textbf{Promotor:} Drugie pytanie jest ciekawsze i łatwiejsze do zbadania ankietą. Zawęźmy jeszcze bardziej --- może pokolenie Z? Oni są przyzwyczajeni do technologii.
+
+\textbf{Student:} Świetny pomysł! Czyli tytuł mógłby brzmieć: ``Preferencje pokolenia Z dotyczące chatbotów w obsłudze klienta sklepów internetowych''?
+
+\textbf{Promotor:} Tak, to dobry kierunek. Poszukaj literatury o chatbotach, o pokoleniu Z jako konsumentach i o obsłudze klienta w e-commerce. Spotkajmy się za dwa tygodnie z bibliografią i konspektem.
+\end{przyklad}
+
+## Formularz zgłoszenia tematu
+
+Po uzgodnieniu tematu z promotorem musisz go oficjalnie zgłosić. Każda uczelnia ma własną procedurę i formularz.
+
+\begin{wazne}
+Sprawdź termin składania formularzy zgłoszenia tematu na swojej uczelni. Zwykle jest to kilka miesięcy przed planowaną obroną. Przegapienie terminu może oznaczać przesunięcie obrony o semestr.
+\end{wazne}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Element formularza}} & \textcolor{white}{\textbf{Na co zwrócić uwagę}} \\
+Tytuł pracy & Dokładnie taki, jak uzgodniony z promotorem; sprawdź pisownię \\
+\rowcolor{acadlightcopper} Imię i nazwisko promotora & Sprawdź poprawny tytuł naukowy (dr, dr hab., prof.) \\
+Zakres pracy / słowa kluczowe & Krótki opis tego, co praca będzie zawierać \\
+\rowcolor{acadlightcopper} Podpis promotora & Formularz bez podpisu nie jest ważny \\
+Podpis studenta & Data i czytelny podpis \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Zanim złożysz formularz, wyślij go mailem do promotora z prośbą o weryfikację. Lepiej poprawić literówkę przed złożeniem niż składać korektę.
+\end{wskazowka}
+
+## Czy można zmienić temat?
+
+Tak, zmiana tematu jest możliwa, ale wiąże się z formalnościami i utratą czasu. Im później zmienisz temat, tym więcej pracy stracisz.
+
+\begin{tcolorbox}[enhanced, colback=acadlightburgundy, colframe=acadburgundy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kiedy zmiana tematu jest uzasadniona:}
+\begin{navylist}
+\item Okazało się, że brak dostępu do niezbędnych danych
+\item Temat jest znacznie szerszy/węższy niż zakładano
+\item Brak wystarczającej literatury naukowej
+\item Zmiana promotora (np. urlop, odejście z uczelni)
+\item Fundamentalna zmiana zainteresowań studenta
+\end{navylist}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Zła przyczyna zmiany tematu:} ``Zacząłem pisać i okazało się, że to trudne''
+
+Pisanie pracy \textit{jest} trudne. Zmiana tematu nie sprawi, że stanie się łatwe. Jeśli zmieniasz temat co miesiąc, nigdy nie ukończysz pracy.
+\end{blad}
+
+\begin{zasada}[Zasada 80\%]
+Jeśli napisałeś już więcej niż 20--30\% pracy, zmiana tematu jest zwykle nieopłacalna. Lepiej dostosować istniejący temat lub zmienić jego ujęcie niż zaczynać od zera.
+\end{zasada}
+
+\sectionbreak
+
+## Najczęstsze błędy przy wyborze tematu
+
+Podsumujmy typowe błędy, które studenci popełniają przy wyborze tematu:
+
+\begin{blad}
+\textbf{Wybór ``modnego'' tematu bez zrozumienia} --- ``AI'', ``blockchain'', ``zrównoważony rozwój'' brzmią nowocześnie, ale jeśli nie rozumiesz tematu, nie napiszesz dobrej pracy.
+\end{blad}
+
+\begin{blad}
+\textbf{Wybór tematu ``pod promotora''} --- pisanie o czymś, co interesuje promotora, ale zupełnie nie interesuje Ciebie, to przepis na frustrację.
+\end{blad}
+
+\begin{blad}
+\textbf{Kopiowanie tematu kolegi} --- nawet jeśli zmienisz kilka słów, promotor i recenzent to zauważą. Poza tym --- co jeśli kolega też nie miał dobrego tematu?
+\end{blad}
+
+\begin{blad}
+\textbf{Brak weryfikacji dostępności danych} --- zakochanie się w temacie bez sprawdzenia, czy da się go zbadać empirycznie.
+\end{blad}
+
+\begin{blad}
+\textbf{Zbyt późny wybór tematu} --- odkładanie decyzji ``na później'' skraca czas na pisanie i zwiększa stres.
+\end{blad}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy szczegółowo proces wyboru tematu pracy licencjackiej: źródła inspiracji, kryteria dobrego tematu, zasady formułowania tytułu oraz formalności związane ze zgłoszeniem.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Dobry temat musi Cię interesować, być realny do wykonania i akceptowalny naukowo
+\item Najczęstszy błąd to temat zbyt szeroki --- zawężaj, aż dojdziesz do konkretnego, mierzalnego problemu
+\item Przed wyborem tematu przeprowadź wstępną kwerendę bibliograficzną (min. 15--20 pozycji)
+\item Tytuł powinien być precyzyjny, niezbyt długi i zgodny z treścią pracy
+\item Na rozmowę z promotorem przygotuj 2--3 propozycje tematów z uzasadnieniem i wstępną bibliografią
+\item Zmiana tematu jest możliwa, ale kosztowna czasowo --- lepiej dobrze wybrać za pierwszym razem
+\item Sprawdź termin zgłoszenia tematu na swojej uczelni i nie przegap go
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Wykonaj teraz ćwiczenie: weź jeden z tematów, które rozważasz, i przeprowadź go przez ``test odpowiedniej szerokości''. Czy możesz go zawęzić? Spróbuj sformułować 3 wersje tego samego tematu --- od bardzo szerokiej do bardzo wąskiej. Która wydaje się optymalna dla pracy licencjackiej?
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się przeglądem literatury --- dowiesz się, gdzie szukać źródeł naukowych, jak je oceniać i jak efektywnie robić notatki.
