@@ -1,0 +1,419 @@
+---
+pagetitle: "Zakończenie pracy"
+---
+
+\pagestyle{pisanie}
+\thispagestyle{pisanie}
+
+# Zakończenie pracy licencjackiej
+
+\sectionheader{acadcopper}{Zwieńczenie Twojego wysiłku badawczego}
+
+Zakończenie to ostatnia część merytoryczna pracy licencjackiej, która pozostaje w pamięci czytelnika. To nie miejsce na nowe informacje czy teorie --- to przestrzeń na syntezę, refleksję i domknięcie całego wywodu. Dobrze napisane zakończenie pokazuje, że potrafisz spojrzeć na swoją pracę z dystansu i ocenić, co udało się osiągnąć.
+
+Zakończenie pełni kilka istotnych funkcji: pokazuje, że zrealizowałeś założone cele, odpowiada na pytania badawcze postawione we wstępie, prezentuje główne wnioski płynące z badań oraz wskazuje na wartość i ograniczenia przeprowadzonych analiz. Jest to także miejsce, w którym możesz zasugerować kierunki dalszych badań.
+
+\begin{wazne}
+Zakończenie pisze się \textbf{po napisaniu całej pracy}, ale \textbf{przed ostateczną redakcją wstępu}. Dzięki temu możesz upewnić się, że wstęp i zakończenie są ze sobą spójne --- cele zadeklarowane na początku znajdują swoje odzwierciedlenie w końcowych wnioskach.
+\end{wazne}
+
+## Zakończenie vs podsumowanie — różnica
+
+Studenci często mylą zakończenie z podsumowaniem, traktując te terminy zamiennie. Tymczasem są to dwa różne elementy, choć zakończenie może (i często powinno) zawierać element podsumowujący.
+
+\sectionheader{acadnavy}{Czym jest podsumowanie?}
+
+\begin{definicja}[Podsumowanie]
+Podsumowanie to syntetyczne streszczenie najważniejszych ustaleń z poszczególnych rozdziałów pracy. Ma charakter \textbf{opisowy} i \textbf{retrospektywny} --- informuje, co zostało omówione i jakie fakty ustalono. Podsumowanie może występować na końcu każdego rozdziału lub jako element zakończenia.
+\end{definicja}
+
+Podsumowanie odpowiada na pytanie: \textit{Co zostało przedstawione w pracy?} Jest to skrótowe przypomnienie treści, które czytelnik już poznał. Samo w sobie nie wnosi nowej wartości poznawczej --- porządkuje i kondensuje to, co już powiedziano.
+
+\sectionheader{acadnavy}{Czym jest zakończenie?}
+
+\begin{definicja}[Zakończenie]
+Zakończenie to kompleksowa część pracy, która wykracza poza samo streszczenie treści. Obejmuje \textbf{ocenę realizacji celów}, \textbf{weryfikację hipotez}, \textbf{syntezę wniosków}, \textbf{refleksję nad procesem badawczym} oraz \textbf{wskazanie perspektyw}. Ma charakter \textbf{analityczny} i \textbf{ewaluacyjny}.
+\end{definicja}
+
+Zakończenie odpowiada na pytania: \textit{Czy osiągnąłem to, co zamierzałem? Jakie wnioski płyną z mojej pracy? Co było trudne? Co można zbadać w przyszłości?}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Aspekt}} & \textcolor{white}{\textbf{Podsumowanie vs Zakończenie}} \\
+Cel & Podsumowanie: streszcza treść; Zakończenie: ocenia i wnioskuje \\
+\rowcolor{acadlightnavy} Charakter & Podsumowanie: opisowy; Zakończenie: analityczny, refleksyjny \\
+Pytanie & Podsumowanie: Co napisałem?; Zakończenie: Co z tego wynika? \\
+\rowcolor{acadlightnavy} Nowa wartość & Podsumowanie: brak; Zakończenie: synteza, ocena, perspektywy \\
+Obowiązkowość & Podsumowanie: opcjonalne; Zakończenie: wymagane \\
+\rowcolor{acadlightnavy} Położenie & Podsumowanie: koniec rozdziałów lub część zakończenia; Zakończenie: ostatni rozdział \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Podsumowanie vs zakończenie --- ten sam temat]
+\textbf{Temat pracy:} Wpływ mediów społecznościowych na relacje rówieśnicze młodzieży gimnazjalnej
+
+\textbf{Fragment podsumowania:}
+``W rozdziale pierwszym przedstawiono definicje mediów społecznościowych oraz ich klasyfikację. Rozdział drugi zawierał charakterystykę relacji rówieśniczych w okresie adolescencji. W rozdziale trzecim opisano metodologię badań własnych, natomiast rozdział czwarty prezentował wyniki ankiety przeprowadzonej wśród 150 uczniów.''
+
+\textbf{Fragment zakończenia:}
+``Przeprowadzone badania pozwoliły zrealizować założony cel pracy, jakim było określenie wpływu mediów społecznościowych na jakość relacji rówieśniczych. Hipoteza główna, zakładająca negatywny wpływ intensywnego korzystania z mediów społecznościowych na bezpośrednie kontakty z rówieśnikami, została częściowo potwierdzona. Wyniki wskazują, że zależność ta jest bardziej złożona niż początkowo zakładano --- kluczowym czynnikiem okazał się nie sam czas spędzany online, ale sposób korzystania z platform.''
+\end{przyklad}
+
+\begin{zasada}[Struktura zakończenia]
+Dobre zakończenie zawiera elementy podsumowujące, ale nie ogranicza się do nich. Powinna to być struktura:
+\begin{navylist}
+\item Krótkie przypomnienie problemu badawczego i celów (1--2 zdania)
+\item Ocena realizacji celów i weryfikacja hipotez
+\item Synteza najważniejszych wniosków
+\item Omówienie trudności i ograniczeń badań
+\item Wskazanie perspektyw dalszych badań
+\item Ewentualnie: implikacje praktyczne
+\end{navylist}
+\end{zasada}
+
+\sectionbreak
+
+## Jak odnieść się do celów z wstępu?
+
+Zakończenie musi korespondować ze wstępem --- to podstawowa zasada spójności pracy. Cele i pytania badawcze zadeklarowane na początku muszą znaleźć swoje rozstrzygnięcie w zakończeniu.
+
+\sectionheader{acadforest}{Powrót do celów badawczych}
+
+We wstępie sformułowałeś cel główny i cele szczegółowe. W zakończeniu musisz jasno stwierdzić, czy i w jakim stopniu zostały one zrealizowane. Nie wystarczy napisać ``cele zostały zrealizowane'' --- należy pokazać, \textbf{jak} i \textbf{dzięki czemu}.
+
+\begin{krok}[acadforest]{Przypomnij cel główny}
+Rozpocznij od krótkiego przypomnienia, jaki był główny cel pracy. Nie przepisuj dosłownie ze wstępu --- przeformułuj, używając czasu przeszłego.
+\end{krok}
+
+\begin{krok}[acadforest]{Oceń realizację celu głównego}
+Napisz wprost, czy cel został osiągnięty. Jeśli tak --- wskaż, jakie ustalenia to potwierdzają. Jeśli częściowo --- wyjaśnij, co się udało, a co nie i dlaczego.
+\end{krok}
+
+\begin{krok}[acadforest]{Odnieś się do celów szczegółowych}
+Każdy cel szczegółowy powinien znaleźć swoje rozstrzygnięcie. Możesz to zrobić zbiorczo lub punkt po punkcie, w zależności od ich liczby i złożoności.
+\end{krok}
+
+\begin{przyklad}[Odniesienie do celów]
+\textbf{We wstępie napisano:}
+``Celem głównym pracy jest analiza skuteczności programów profilaktyki uzależnień realizowanych w szkołach ponadpodstawowych województwa dolnośląskiego.''
+
+\textbf{W zakończeniu:}
+``Główny cel pracy, jakim była analiza skuteczności programów profilaktyki uzależnień w szkołach ponadpodstawowych województwa dolnośląskiego, został zrealizowany. Przeprowadzone badania ankietowe wśród 320 uczniów oraz wywiady z 15 pedagogami szkolnymi pozwoliły na wieloaspektową ocenę funkcjonujących programów. Ustalono, że programy oparte na metodach aktywizujących wykazują wyższą skuteczność niż tradycyjne formy wykładowe.''
+\end{przyklad}
+
+\sectionheader{acadforest}{Weryfikacja hipotez badawczych}
+
+Jeśli w pracy postawiono hipotezy, zakończenie jest miejscem ich weryfikacji. Każda hipoteza musi zostać rozstrzygnięta --- potwierdzona, odrzucona lub częściowo potwierdzona.
+
+\begin{wazne}
+Odrzucenie hipotezy \textbf{nie jest} porażką badawczą! W nauce równie wartościowe jest wykazanie, że dana zależność nie występuje, jak potwierdzenie jej istnienia. Ważne jest rzetelne przedstawienie wyników, niezależnie od tego, czy są zgodne z oczekiwaniami.
+\end{wazne}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Status hipotezy}} & \textcolor{white}{\textbf{Jak sformułować w zakończeniu}} \\
+Potwierdzona & ``Hipoteza H1 została potwierdzona. Wyniki badań wskazują, że...'' \\
+\rowcolor{acadlightforest} Odrzucona & ``Hipoteza H2 nie znalazła potwierdzenia w przeprowadzonych badaniach. Analiza wykazała, że...'' \\
+Częściowo potwierdzona & ``Hipoteza H3 została częściowo potwierdzona. O ile zależność X potwierdziła się, o tyle...'' \\
+\rowcolor{acadlightforest} Wymaga dalszych badań & ``Zebrany materiał nie pozwala na jednoznaczną weryfikację hipotezy H4. Konieczne są dalsze badania...'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Weryfikacja hipotezy]
+\textbf{Hipoteza z pracy:}
+``Poziom stresu egzaminacyjnego jest wyższy wśród studentów pierwszego roku niż wśród studentów lat wyższych.''
+
+\textbf{Weryfikacja w zakończeniu:}
+``Hipoteza zakładająca wyższy poziom stresu egzaminacyjnego wśród studentów pierwszego roku została potwierdzona. Średni wynik w skali PSS-10 dla studentów I roku wyniósł 24,3 punktu, podczas gdy dla studentów III roku --- 18,7 punktu (różnica istotna statystycznie, p < 0,01). Wyniki te są zgodne z ustaleniami Kowalskiego (2019), który wskazywał na adaptacyjny charakter pierwszego roku studiów jako czynnika stresogennego.''
+\end{przyklad}
+
+\sectionheader{acadforest}{Odpowiedzi na pytania badawcze}
+
+Jeśli zamiast hipotez (lub obok nich) sformułowałeś pytania badawcze, w zakończeniu musisz udzielić na nie odpowiedzi. Odpowiedzi powinny być konkretne i poparte wynikami badań.
+
+\begin{blad}
+\textbf{Błąd:} Unikanie jednoznacznych odpowiedzi na pytania badawcze.
+
+``Badania dostarczyły interesujących danych na temat wpływu reklam na zachowania konsumentów. Wyniki są złożone i wymagają dalszej analizy.''
+
+Problem: Czytelnik nie dowiaduje się, jaka jest odpowiedź na pytanie badawcze. Zakończenie powinno jasno komunikować ustalenia, nawet jeśli są złożone.
+\end{blad}
+
+\begin{zasada}[Odpowiadanie na pytania badawcze]
+Na każde pytanie badawcze udziel jasnej odpowiedzi, stosując schemat:
+\begin{forestlist}
+\item Przywołaj pytanie (przeformułowane)
+\item Podaj odpowiedź wynikającą z badań
+\item Wskaż dane/wyniki, które ją uzasadniają
+\item Ewentualnie odnieś się do literatury
+\end{forestlist}
+\end{zasada}
+
+\sectionbreak
+
+## Trudności napotkane w badaniach
+
+Każde badanie naukowe napotyka pewne trudności i ograniczenia. Umiejętność ich zidentyfikowania i rzetelnego opisania świadczy o dojrzałości badawczej autora. Nie jest to przyznanie się do porażki --- to wyraz naukowej uczciwości.
+
+\sectionheader{acadburgundy}{Dlaczego warto pisać o trudnościach?}
+
+Opisanie trudności i ograniczeń badań pełni kilka ważnych funkcji:
+
+\begin{navylist}
+\item \textbf{Zwiększa wiarygodność} --- pokazujesz, że zdajesz sobie sprawę z ograniczeń swojej pracy
+\item \textbf{Chroni przed nadinterpretacją} --- określasz zakres, w jakim wnioski są uprawnione
+\item \textbf{Pomaga przyszłym badaczom} --- wskazujesz, czego unikać lub co poprawić
+\item \textbf{Świadczy o refleksyjności} --- demonstrujesz krytyczne podejście do własnej pracy
+\end{navylist}
+
+\sectionheader{acadburgundy}{Typowe trudności i ograniczenia}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Kategoria}} & \textcolor{white}{\textbf{Przykłady trudności}} \\
+Dobór próby & Ograniczona liczebność, niereprezentatywność, trudności z rekrutacją \\
+\rowcolor{acadlightburgundy} Dostęp do danych & Odmowy uczestnictwa, niekompletne dane, brak dostępu do dokumentów \\
+Narzędzia badawcze & Ograniczenia kwestionariusza, subiektywność ocen, brak walidacji \\
+\rowcolor{acadlightburgundy} Czas i zasoby & Ograniczony czas na badania, brak środków na szersze badanie \\
+Czynniki zewnętrzne & Pandemia, zmiany prawne, sytuacje losowe \\
+\rowcolor{acadlightburgundy} Metodologiczne & Brak grupy kontrolnej, trudności z operacjonalizacją zmiennych \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Opisanie trudności w zakończeniu]
+``Przeprowadzone badania obarczone są pewnymi ograniczeniami, które należy uwzględnić przy interpretacji wyników. Po pierwsze, próba badawcza (n=87) była stosunkowo nieliczna i obejmowała wyłącznie studentów jednej uczelni, co ogranicza możliwość generalizacji wniosków na całą populację studentów w Polsce. Po drugie, zastosowany kwestionariusz ankiety opierał się na samoocenie respondentów, co może prowadzić do zniekształceń wynikających z tendencji do społecznie pożądanych odpowiedzi. Po trzecie, badania miały charakter przekrojowy, co uniemożliwia wnioskowanie o związkach przyczynowo-skutkowych między analizowanymi zmiennymi.''
+\end{przyklad}
+
+\begin{wskazowka}
+Opisując trudności, zachowaj umiar. Nie deprecjonuj swojej pracy nadmiernie, ale też nie bagatelizuj rzeczywistych ograniczeń. Złota zasada: opisz 2--4 najważniejsze ograniczenia i krótko wyjaśnij, jak mogły wpłynąć na wyniki.
+\end{wskazowka}
+
+\sectionheader{acadburgundy}{Jak konstruktywnie pisać o ograniczeniach}
+
+Samo wymienienie trudności to nie wszystko. Wartością dodaną jest wskazanie, jak można by je przezwyciężyć w przyszłych badaniach.
+
+\begin{zasada}[Formuła opisu ograniczeń]
+Stosuj formułę: \textbf{Ograniczenie → Konsekwencja → Rekomendacja}
+\begin{goldlist}
+\item \textbf{Ograniczenie:} Czym było ograniczenie?
+\item \textbf{Konsekwencja:} Jak mogło wpłynąć na wyniki?
+\item \textbf{Rekomendacja:} Jak można by to rozwiązać w przyszłości?
+\end{goldlist}
+\end{zasada}
+
+\begin{przyklad}[Konstruktywny opis ograniczenia]
+``Istotnym ograniczeniem badań był brak możliwości przeprowadzenia badań podłużnych. \textit{(Ograniczenie)} Przyjęty model przekrojowy pozwala jedynie na stwierdzenie współwystępowania zjawisk, nie zaś na wnioskowanie o kierunku zależności przyczynowych. \textit{(Konsekwencja)} W przyszłych badaniach rekomendowane byłoby zastosowanie podejścia longitudinalnego z co najmniej dwukrotnym pomiarem w odstępie kilku miesięcy, co pozwoliłoby na głębsze zrozumienie dynamiki badanych procesów. \textit{(Rekomendacja)}''
+\end{przyklad}
+
+\sectionbreak
+
+## Perspektywy dalszych badań
+
+Każda praca naukowa, nawet najbardziej wyczerpująca, pozostawia pewne pytania bez odpowiedzi i otwiera nowe obszary do eksploracji. Wskazanie perspektyw dalszych badań jest cennym elementem zakończenia, który pokazuje Twoje zrozumienie szerszego kontekstu naukowego.
+
+\sectionheader{acadteal}{Skąd brać pomysły na dalsze badania?}
+
+Perspektywy dalszych badań mogą wynikać z różnych źródeł:
+
+\begin{forestlist}
+\item \textbf{Ograniczenia własnych badań} --- co można by zbadać lepiej, szerzej, głębiej?
+\item \textbf{Nieoczekiwane wyniki} --- jakie nowe pytania pojawiły się w trakcie analizy?
+\item \textbf{Luki zidentyfikowane w literaturze} --- co pozostaje niezbadane?
+\item \textbf{Zmieniający się kontekst} --- jakie nowe zjawiska wymagają badania?
+\item \textbf{Implikacje praktyczne} --- jakie badania pomogłyby wdrożyć wnioski?
+\end{forestlist}
+
+\sectionheader{acadteal}{Jak formułować perspektywy?}
+
+\begin{wazne}
+Perspektywy dalszych badań powinny być \textbf{konkretne} i \textbf{realistyczne}. Unikaj ogólników typu ``temat wymaga dalszych badań''. Wskaż \textbf{co} konkretnie warto zbadać, \textbf{jak} i \textbf{dlaczego}.
+\end{wazne}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadteal, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadteal}\textcolor{white}{\textbf{Źle}} & \textcolor{white}{\textbf{Dobrze}} \\
+``Temat wymaga dalszych badań.'' & ``Wartościowe byłoby zbadanie, czy zaobserwowana zależność występuje również w grupie osób starszych (65+).'' \\
+\rowcolor{acadlightteal} ``Badania powinny być kontynuowane.'' & ``W przyszłych badaniach warto rozszerzyć analizę o czynniki kulturowe, przeprowadzając badania porównawcze w różnych regionach Polski.'' \\
+``Problem jest złożony i wymaga uwagi.'' & ``Interesujące poznawczo byłoby zastosowanie metod jakościowych (wywiady pogłębione) w celu lepszego zrozumienia motywacji badanych osób.'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Perspektywy dalszych badań]
+``Przeprowadzone badania otwierają kilka interesujących kierunków dalszych eksploracji. Po pierwsze, wartościowe byłoby powtórzenie badań na większej, reprezentatywnej próbie ogólnopolskiej, co pozwoliłoby na weryfikację uzyskanych wyników i ich generalizację. Po drugie, zaobserwowana w badaniach silna korelacja między wsparciem społecznym a radzeniem sobie ze stresem akademickim sugeruje potrzebę badań interwencyjnych --- sprawdzających skuteczność programów wzmacniania sieci wsparcia wśród studentów. Po trzecie, interesującym uzupełnieniem byłoby zastosowanie metodologii jakościowej (np. wywiadów narracyjnych), która pozwoliłaby na głębsze zrozumienie subiektywnych doświadczeń studentów związanych z badanymi zjawiskami.''
+\end{przyklad}
+
+\begin{wskazowka}
+Nie pisz więcej niż 2--4 konkretne propozycje dalszych badań. Zbyt długa lista sugeruje, że Twoja praca niewiele ustaliła. Wybierz te kierunki, które są najbardziej obiecujące poznawczo i realistyczne metodologicznie.
+\end{wskazowka}
+
+\sectionbreak
+
+## Czas przeszły — zasada pisania zakończenia
+
+Zakończenie opisuje to, co zostało zrobione i co ustalono, dlatego piszemy je w \textbf{czasie przeszłym}. To odróżnia je od wstępu, który często używa czasu przyszłego (``celem pracy będzie...'') lub teraźniejszego.
+
+\sectionheader{acadnavy}{Zasady użycia czasów w zakończeniu}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Właściwy czas}} \\
+Cele i hipotezy & Czas przeszły: ``Celem pracy była analiza...'', ``Hipoteza zakładała...'' \\
+\rowcolor{acadlightnavy} Przebieg badań & Czas przeszły: ``Przeprowadzono badania...'', ``Zebrano dane...'' \\
+Wyniki & Czas przeszły: ``Wyniki wykazały...'', ``Analiza ujawniła...'' \\
+\rowcolor{acadlightnavy} Wnioski ogólne & Czas teraźniejszy: ``Wyniki wskazują, że...'', ``Można stwierdzić...'' \\
+Perspektywy & Tryb warunkowy/przyszły: ``Warto byłoby zbadać...'', ``W przyszłości można...'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Błąd:} Mieszanie czasów w zakończeniu.
+
+``Celem pracy jest analiza wpływu mediów na młodzież. Przeprowadzono badania ankietowe. Hipoteza będzie zweryfikowana pozytywnie.''
+
+Problem: Niespójność czasowa dezorientuje czytelnika i świadczy o niedbałości. W zakończeniu dominuje czas przeszły, bo opisujemy to, co \textbf{zostało} zrobione.
+\end{blad}
+
+\begin{przyklad}[Poprawne użycie czasów w zakończeniu]
+``Głównym celem pracy \textbf{była} analiza wpływu mediów społecznościowych na jakość snu studentów. \textit{(czas przeszły --- cel)} W ramach realizacji celu \textbf{przeprowadzono} badania ankietowe na próbie 200 studentów. \textit{(czas przeszły --- przebieg)} Wyniki \textbf{wykazały} istotną negatywną korelację między czasem spędzanym w mediach społecznościowych przed snem a jakością snu. \textit{(czas przeszły --- wyniki)} Uzyskane rezultaty \textbf{wskazują}, że edukacja dotycząca higieny cyfrowej \textbf{może być} skutecznym narzędziem profilaktyki zaburzeń snu. \textit{(czas teraźniejszy --- wnioski ogólne)} W przyszłych badaniach \textbf{warto byłoby} zastosować obiektywne metody pomiaru snu. \textit{(tryb warunkowy --- perspektywy)}''
+\end{przyklad}
+
+\sectionheader{acadnavy}{Forma osobowa w zakończeniu}
+
+W polskich pracach dyplomowych przyjęto konwencję unikania pierwszej osoby liczby pojedynczej na rzecz form bezosobowych lub pierwszej osoby liczby mnogiej (autorskie ``my'').
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Formy zalecane w zakończeniu:}
+\begin{goldlist}
+\item Forma bezosobowa: ``Przeprowadzono analizę...'', ``Ustalono, że...'', ``Wykazano...''
+\item Autorskie ``my'': ``Przeprowadziliśmy badania...'', ``Ustaliliśmy...'' (rzadziej stosowane)
+\item Strona bierna: ``Cel został zrealizowany...'', ``Hipoteza została potwierdzona...''
+\end{goldlist}
+
+\textbf{Formy do unikania:}
+\begin{burgundylist}
+\item ``Ja przeprowadziłem badania...''
+\item ``Moim zdaniem wyniki wskazują...''
+\item ``Według mnie hipoteza jest słuszna...''
+\end{burgundylist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Struktura i objętość zakończenia
+
+\sectionheader{acadgold}{Jak zbudować zakończenie?}
+
+Zakończenie powinno mieć logiczną strukturę, która prowadzi czytelnika od przypomnienia celów, przez wnioski, do refleksji nad pracą.
+
+\resetsteps
+
+\begin{krok}[acadgold]{Otwarcie --- przypomnienie problemu}
+1--2 zdania przypominające temat i główny cel pracy. Nie kopiuj ze wstępu --- przeformułuj i użyj czasu przeszłego.
+\end{krok}
+
+\begin{krok}[acadgold]{Ocena realizacji celów}
+Odnieś się do celu głównego i celów szczegółowych. Jasno napisz, czy zostały osiągnięte.
+\end{krok}
+
+\begin{krok}[acadgold]{Weryfikacja hipotez}
+Jeśli praca zawierała hipotezy --- zweryfikuj każdą z nich, wskazując na potwierdzenie lub odrzucenie.
+\end{krok}
+
+\begin{krok}[acadgold]{Synteza najważniejszych wniosków}
+Przedstaw 3--5 najważniejszych ustaleń wynikających z pracy. To nie streszczenie rozdziałów, ale esencja Twoich odkryć.
+\end{krok}
+
+\begin{krok}[acadgold]{Trudności i ograniczenia}
+Omów 2--4 najważniejsze ograniczenia badań i ich potencjalny wpływ na wyniki.
+\end{krok}
+
+\begin{krok}[acadgold]{Perspektywy i rekomendacje}
+Wskaż kierunki dalszych badań i ewentualne implikacje praktyczne.
+\end{krok}
+
+\begin{krok}[acadgold]{Zamknięcie}
+1--2 zdania zamykające całą pracę --- może to być ogólna refleksja lub podkreślenie znaczenia tematu.
+\end{krok}
+
+\sectionheader{acadgold}{Objętość zakończenia}
+
+\begin{zasada}[Długość zakończenia]
+Zakończenie pracy licencjackiej powinno mieć \textbf{1,5--3 strony} znormalizowanego tekstu. Jest to orientacyjna wartość --- niektóre uczelnie podają konkretne wymagania. Zakończenie nie powinno być ani zbyt krótkie (sugeruje brak refleksji), ani zbyt długie (staje się powtórzeniem rozdziałów).
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadgold, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadgold}\textcolor{white}{\textbf{Element zakończenia}} & \textcolor{white}{\textbf{Orientacyjna objętość}} \\
+Otwarcie (przypomnienie celu) & 2--3 zdania \\
+\rowcolor{acadlightgold} Ocena realizacji celów & 0,5--1 strony \\
+Weryfikacja hipotez & 0,5 strony (jeśli dotyczy) \\
+\rowcolor{acadlightgold} Synteza wniosków & 0,5--1 strony \\
+Trudności i ograniczenia & 0,5 strony \\
+\rowcolor{acadlightgold} Perspektywy dalszych badań & 0,5 strony \\
+Zamknięcie & 1--2 zdania \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Czego unikać w zakończeniu
+
+\sectionheader{acadburgundy}{Typowe błędy w zakończeniach}
+
+\begin{blad}
+\textbf{Błąd 1: Wprowadzanie nowych informacji}
+
+Zakończenie nie jest miejscem na nowe teorie, dane czy argumenty. Wszystko, co pojawia się w zakończeniu, musi mieć podstawę w poprzednich rozdziałach.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 2: Kopiowanie fragmentów z innych części pracy}
+
+Zakończenie powinno syntetyzować, nie powtarzać. Unikaj dosłownego przepisywania zdań ze wstępu czy rozdziałów.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 3: Nadmierne usprawiedliwianie się}
+
+Pisanie o trudnościach jest właściwe, ale nie zamieniaj zakończenia w listę przeprosin. Zachowaj umiar i równowagę między samokrytyką a uznaniem wartości pracy.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 4: Brak jasnych wniosków}
+
+Zakończenie musi dawać czytelnikowi jasną odpowiedź na pytanie: ``Co z tego wynika?''. Unikaj wymijających sformułowań i mglistych konkluzji.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 5: Osobiste wyznania i dygresje}
+
+Zakończenie to część naukowa, nie miejsce na osobiste refleksje typu ``Pisanie tej pracy było dla mnie fascynującym doświadczeniem''. Ewentualne podziękowania umieszcza się w osobnej sekcji.
+\end{blad}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie aspekty pisania zakończenia pracy licencjackiej: różnicę między zakończeniem a podsumowaniem, sposób odniesienia się do celów i hipotez, opisywanie trudności, formułowanie perspektyw oraz zasady stylistyczne.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Zakończenie to nie tylko podsumowanie --- to synteza, ocena i refleksja
+\item Musisz jasno odnieść się do celów zadeklarowanych we wstępie i zweryfikować hipotezy
+\item Każda hipoteza wymaga rozstrzygnięcia: potwierdzona, odrzucona lub częściowo potwierdzona
+\item Opisanie trudności i ograniczeń badań świadczy o dojrzałości naukowej, nie o słabości
+\item Perspektywy dalszych badań powinny być konkretne, nie ogólnikowe
+\item W zakończeniu dominuje czas przeszły, ale wnioski ogólne można formułować w czasie teraźniejszym
+\item Unikaj form pierwszej osoby liczby pojedynczej --- stosuj formy bezosobowe
+\item Zakończenie nie jest miejscem na nowe informacje ani osobiste wyznania
+\item Optymalna objętość to 1,5--3 strony
+\item Pisz zakończenie po ukończeniu całej pracy, ale przed ostateczną redakcją wstępu
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Po napisaniu zakończenia, porównaj je ze wstępem. Sprawdź, czy każdy cel znalazł swoje rozstrzygnięcie, każda hipoteza została zweryfikowana, a każde pytanie badawcze --- odpowiedziane. Ta ``lustrzana kontrola'' pozwoli upewnić się o spójności Twojej pracy.
+\end{wskazowka}
+
+W kolejnych rozdziałach zajmiemy się współpracą z promotorem oraz przygotowaniem do obrony pracy --- ostatnimi etapami na drodze do uzyskania tytułu licencjata.

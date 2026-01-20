@@ -1,0 +1,553 @@
+---
+pagetitle: "Plan pracy"
+---
+
+\pagestyle{wstep}
+\thispagestyle{wstep}
+
+# Plan pracy i harmonogram
+
+\sectionheader{acadslate}{Mapa Twojej drogi do dyplomu}
+
+Konspekt pracy licencjackiej to szczegółowy plan tego, co napiszesz. To Twoja mapa drogowa --- bez niej łatwo się zgubić w materiale, stracić wątek i napisać pracę niespójną. Harmonogram natomiast określa, kiedy poszczególne elementy zostaną ukończone. Razem tworzą fundament skutecznego zarządzania projektem, jakim jest napisanie pracy dyplomowej.
+
+W tym rozdziale nauczysz się tworzyć profesjonalny konspekt i realistyczny harmonogram, który pozwoli Ci ukończyć pracę bez stresu i w terminie.
+
+\begin{zasada}[Planuj, zanim zaczniesz pisać]
+Rozpoczęcie pisania bez planu to jak wyruszenie w podróż bez mapy. Możesz dotrzeć do celu, ale stracisz mnóstwo czasu na błądzenie. Dobrze przygotowany konspekt zaoszczędzi Ci godzin frustracji i wielokrotnego przepisywania.
+\end{zasada}
+
+## Po co Ci konspekt?
+
+Konspekt to nie biurokratyczny wymóg promotora --- to narzędzie, które realnie pomoże Ci napisać lepszą pracę.
+
+\begin{navylist}
+\item \textbf{Porządkuje myślenie} --- zmusza do przemyślenia struktury argumentacji, zanim zaczniesz pisać
+\item \textbf{Ułatwia konsultacje} --- promotor może ocenić Twój plan i zasugerować zmiany na wczesnym etapie
+\item \textbf{Zapobiega powtórzeniom} --- widzisz, co gdzie umieścić, i unikasz pisania tego samego dwa razy
+\item \textbf{Pomaga w proporcjach} --- możesz oszacować objętość poszczególnych części i zbalansować pracę
+\item \textbf{Motywuje} --- odhaczanie kolejnych punktów daje poczucie postępu
+\item \textbf{Ratuje w kryzysie} --- gdy utkniesz, konspekt pokazuje, co jeszcze możesz napisać
+\end{navylist}
+
+\begin{wazne}
+Konspekt nie jest wyrytym w kamieniu dokumentem. To żywy plan, który może ewoluować w miarę pisania. Jeśli w trakcie pracy odkryjesz, że coś trzeba zmienić --- zmień. Ale zawsze miej aktualny plan.
+\end{wazne}
+
+## Elementy konspektu
+
+Profesjonalny konspekt pracy licencjackiej powinien zawierać następujące elementy:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Opis}} \\
+Tytuł roboczy & Wstępne sformułowanie tematu (może się zmienić) \\
+\rowcolor{acadlightnavy} Cel pracy & Co chcesz osiągnąć? Jaki problem rozwiązać? \\
+Pytania badawcze & Konkretne pytania, na które praca ma odpowiedzieć \\
+\rowcolor{acadlightnavy} Hipotezy (jeśli dotyczy) & Przypuszczenia, które zweryfikujesz badaniami \\
+Struktura rozdziałów & Tytuły rozdziałów i podrozdziałów z krótkim opisem treści \\
+\rowcolor{acadlightnavy} Planowana metodologia & Jak zamierzasz zbadać problem? \\
+Wstępna bibliografia & Lista źródeł, które już zidentyfikowałeś \\
+\rowcolor{acadlightnavy} Harmonogram & Terminy realizacji poszczególnych etapów \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{definicja}[Pytanie badawcze vs hipoteza]
+\textbf{Pytanie badawcze} to pytanie, na które Twoja praca ma odpowiedzieć. Może być otwarte (``Jakie czynniki wpływają na X?'') lub zamknięte (``Czy X wpływa na Y?''). \textbf{Hipoteza} to Twoja wstępna odpowiedź na pytanie badawcze --- przypuszczenie, które weryfikujesz. Nie każda praca musi mieć hipotezy (prace opisowe i teoretyczne często ich nie mają), ale każda musi mieć pytania badawcze.
+\end{definicja}
+
+\sectionbreak
+
+## Jak zbudować strukturę rozdziałów?
+
+Struktura pracy licencjackiej jest w dużej mierze standardowa. Typowa praca składa się z 3--4 rozdziałów głównych (plus wstęp i zakończenie). Poniżej przedstawiamy najczęstsze modele struktury.
+
+\sectionheader{acadnavy}{Model 1: Praca teoretyczno-empiryczna (najczęstsza)}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wstęp} (2--4 strony)
+
+\textbf{Rozdział 1: Teoretyczne podstawy [tematu]} (12--18 stron)
+\begin{goldlist}
+\item 1.1. Definicje i pojęcia kluczowe
+\item 1.2. Przegląd teorii i koncepcji
+\item 1.3. Dotychczasowe badania w obszarze
+\end{goldlist}
+
+\textbf{Rozdział 2: [Kontekst/obszar badań]} (10--15 stron)
+\begin{goldlist}
+\item 2.1. Charakterystyka branży/środowiska/zjawiska
+\item 2.2. Specyfika badanego obszaru
+\item 2.3. Przesłanki do badań własnych
+\end{goldlist}
+
+\textbf{Rozdział 3: Metodologia i wyniki badań własnych} (15--20 stron)
+\begin{goldlist}
+\item 3.1. Cel i pytania/hipotezy badawcze
+\item 3.2. Metody, techniki i narzędzia badawcze
+\item 3.3. Charakterystyka próby badawczej
+\item 3.4. Prezentacja i analiza wyników
+\item 3.5. Weryfikacja hipotez / odpowiedzi na pytania
+\end{goldlist}
+
+\textbf{Zakończenie} (2--4 strony)
+
+\textbf{Bibliografia}
+
+\textbf{Załączniki} (kwestionariusz ankiety, tabele pomocnicze itp.)
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Model 2: Praca czysto teoretyczna}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wstęp}
+
+\textbf{Rozdział 1: [Temat A --- fundament teoretyczny]}
+\begin{goldlist}
+\item 1.1. Geneza i rozwój koncepcji
+\item 1.2. Główne podejścia teoretyczne
+\item 1.3. Krytyka i ograniczenia
+\end{goldlist}
+
+\textbf{Rozdział 2: [Temat B --- drugi obszar teoretyczny]}
+\begin{goldlist}
+\item 2.1. Definicje i zakres pojęcia
+\item 2.2. Modele i typologie
+\item 2.3. Związki z tematem A
+\end{goldlist}
+
+\textbf{Rozdział 3: [Synteza i analiza porównawcza]}
+\begin{goldlist}
+\item 3.1. Porównanie podejść
+\item 3.2. Analiza krytyczna
+\item 3.3. Wnioski teoretyczne
+\end{goldlist}
+
+\textbf{Zakończenie}
+
+\textbf{Bibliografia}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Model 3: Studium przypadku (case study)}
+
+\begin{tcolorbox}[enhanced, colback=acadlightcopper, colframe=acadcopper, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wstęp}
+
+\textbf{Rozdział 1: Podstawy teoretyczne}
+\begin{goldlist}
+\item 1.1. Definicje i ramy pojęciowe
+\item 1.2. Przegląd literatury przedmiotu
+\item 1.3. Model analizy / kryteria oceny
+\end{goldlist}
+
+\textbf{Rozdział 2: Charakterystyka podmiotu badań}
+\begin{goldlist}
+\item 2.1. Prezentacja firmy / organizacji / przypadku
+\item 2.2. Historia i kontekst działania
+\item 2.3. Uzasadnienie wyboru przypadku
+\end{goldlist}
+
+\textbf{Rozdział 3: Analiza przypadku}
+\begin{goldlist}
+\item 3.1. Metodologia badania
+\item 3.2. Szczegółowa analiza według przyjętych kryteriów
+\item 3.3. Identyfikacja problemów / sukcesów
+\item 3.4. Rekomendacje
+\end{goldlist}
+
+\textbf{Zakończenie}
+
+\textbf{Bibliografia}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Skonsultuj strukturę z promotorem, zanim zaczniesz pisać. Różne uczelnie i kierunki mogą mieć różne oczekiwania. Promotor może też zasugerować dostosowanie struktury do specyfiki Twojego tematu.
+\end{wskazowka}
+
+\sectionbreak
+
+## Proporcje między rozdziałami
+
+Jednym z częstych błędów jest nierównomierna objętość rozdziałów. Praca, w której rozdział teoretyczny ma 30 stron, a analityczny 8, jest źle zbalansowana.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadslate, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadslate}\textcolor{white}{\textbf{Element pracy}} & \textcolor{white}{\textbf{Orientacyjny udział}} \\
+Wstęp & 5--8\% (2--4 strony przy pracy 50-stronicowej) \\
+\rowcolor{acadlightslate} Rozdziały teoretyczne (łącznie) & 40--50\% \\
+Rozdział metodologiczny (jeśli osobny) & 10--15\% \\
+\rowcolor{acadlightslate} Rozdziały analityczne / badawcze & 30--40\% \\
+Zakończenie & 5--8\% (2--4 strony) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Równowaga teorii i praktyki]
+W pracy licencjackiej część teoretyczna i część analityczna/badawcza powinny być w przybliżeniu równe objętościowo. Jeśli teoria dominuje, praca staje się kompilacją. Jeśli dominuje analiza bez teorii, brakuje fundamentu naukowego.
+\end{zasada}
+
+\begin{blad}
+\textbf{Błąd:} Rozdział 1 ma 25 stron, Rozdział 2 ma 22 strony, Rozdział 3 (badawczy) ma 8 stron.
+
+Problem: Praca jest teoretyczna z doczepioną na siłę częścią badawczą. Student prawdopodobnie nie zostawił wystarczająco czasu na badania lub nie zebrał wystarczających danych.
+\end{blad}
+
+\begin{przyklad}[Dobrze zbalansowana praca 50-stronicowa]
+\begin{navylist}
+\item Wstęp: 3 strony
+\item Rozdział 1 (teoria): 14 stron
+\item Rozdział 2 (kontekst / teoria szczegółowa): 12 stron
+\item Rozdział 3 (metodologia i badania): 17 stron
+\item Zakończenie: 4 strony
+\end{navylist}
+Razem: 50 stron tekstu głównego. Proporcja teoria:badania wynosi około 50:50.
+\end{przyklad}
+
+## Formułowanie pytań badawczych
+
+Pytania badawcze to serce Twojej pracy. Cała praca jest w istocie odpowiedzią na te pytania. Dlatego muszą być dobrze sformułowane.
+
+\sectionheader{acadnavy}{Rodzaje pytań badawczych}
+
+\begin{definicja}[Pytania rozstrzygnięcia]
+\textbf{Pytania rozstrzygnięcia} (zamknięte) wymagają odpowiedzi ``tak'' lub ``nie''. Przykład: ``Czy istnieje związek między satysfakcją z pracy a rotacją pracowników?'' Na takie pytania odpowiada się, weryfikując hipotezę.
+\end{definicja}
+
+\begin{definicja}[Pytania dopełnienia]
+\textbf{Pytania dopełnienia} (otwarte) wymagają rozbudowanej odpowiedzi. Zaczynają się od: jak, dlaczego, jakie, w jaki sposób. Przykład: ``Jakie czynniki wpływają na motywację pracowników IT?'' Takie pytania prowadzą do eksploracji i opisu zjawiska.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Cecha dobrego pytania}} & \textcolor{white}{\textbf{Wyjaśnienie}} \\
+Konkretność & Pytanie jest precyzyjne, nie ogólnikowe \\
+\rowcolor{acadlightnavy} Mierzalność & Można na nie odpowiedzieć na podstawie danych \\
+Wykonalność & Odpowiedź jest możliwa do uzyskania w ramach pracy lic. \\
+\rowcolor{acadlightnavy} Relewantność & Pytanie jest istotne dla tematu i dziedziny \\
+Niebanalność & Odpowiedź nie jest oczywista (wymaga badania) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Złe pytanie badawcze:} ``Czy marketing jest ważny?''
+
+Problemy: (1) zbyt ogólne --- jaki marketing? dla kogo ważny? (2) banalne --- odpowiedź jest oczywista (tak), (3) niemierzalne --- jak zdefiniować ``ważność''?
+\end{blad}
+
+\begin{przyklad}[Dobre pytania badawcze]
+\begin{forestlist}
+\item ``Jakie czynniki motywacji pozafinansowej są najważniejsze dla programistów w firmach typu startup?''
+\item ``Czy kampanie influencer marketingowe generują wyższy zwrot z inwestycji niż tradycyjne reklamy display w branży kosmetycznej?''
+\item ``W jaki sposób pandemia COVID-19 wpłynęła na zachowania zakupowe pokolenia Z w segmencie odzieżowym?''
+\item ``Jakie są główne bariery wdrożenia pracy zdalnej w polskich urzędach administracji publicznej?''
+\end{forestlist}
+\end{przyklad}
+
+\begin{wskazowka}
+Ogranicz liczbę głównych pytań badawczych do 2--4. Więcej pytań oznacza, że albo temat jest za szeroki, albo pytania są zbyt szczegółowe. Każde pytanie powinno wymagać osobnej analizy.
+\end{wskazowka}
+
+\sectionbreak
+
+## Formułowanie hipotez
+
+Hipoteza to Twoje przypuszczenie dotyczące odpowiedzi na pytanie badawcze. Nie wszystkie prace muszą mieć hipotezy, ale prace empiryczne (szczególnie ilościowe) zazwyczaj je zawierają.
+
+\begin{definicja}[Hipoteza badawcza]
+\textbf{Hipoteza} to przypuszczenie o związku między zmiennymi, sformułowane w sposób umożliwiający jego weryfikację empiryczną. Hipoteza musi być falsyfikowalna --- musi istnieć możliwość jej obalenia na podstawie danych.
+\end{definicja}
+
+\begin{zasada}[Struktura hipotezy]
+Dobrze sformułowana hipoteza zawiera: (1) \textbf{zmienną niezależną} (przyczynę), (2) \textbf{zmienną zależną} (skutek), (3) \textbf{przewidywany kierunek związku} (pozytywny, negatywny lub jego brak).
+\end{zasada}
+
+\begin{przyklad}[Przekształcenie pytania w hipotezę]
+\textbf{Pytanie badawcze:} ``Czy istnieje związek między autonomią w pracy a satysfakcją zawodową programistów?''
+
+\textbf{Hipoteza:} ``Wyższy poziom autonomii w pracy jest pozytywnie skorelowany z satysfakcją zawodową programistów.''
+
+\begin{goldlist}
+\item Zmienna niezależna: poziom autonomii w pracy
+\item Zmienna zależna: satysfakcja zawodowa
+\item Kierunek związku: pozytywny (wyższa autonomia → wyższa satysfakcja)
+\end{goldlist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Zła hipoteza:} ``Marketing jest skuteczny.''
+
+Problemy: (1) brak zmiennych, (2) niemierzalne --- co znaczy ``skuteczny''? (3) niefalsyfikowalna w tej formie.
+\end{blad}
+
+\begin{przyklad}[Dobre hipotezy]
+\begin{forestlist}
+\item H1: ``Pracownicy korzystający z elastycznego czasu pracy wykazują wyższy poziom zaangażowania niż pracownicy pracujący w sztywnych godzinach.''
+\item H2: ``Firmy prowadzące aktywną komunikację w mediach społecznościowych mają wyższy wskaźnik rozpoznawalności marki niż firmy nieobecne w social media.''
+\item H3: ``Studenci uczęszczający na zajęcia stacjonarnie osiągają wyższe wyniki egzaminacyjne niż studenci uczący się wyłącznie zdalnie.''
+\end{forestlist}
+\end{przyklad}
+
+\begin{wazne}
+Hipoteza może zostać potwierdzona lub obalona --- oba wyniki są wartościowe naukowo. Nie ``dopasowuj'' danych do hipotezy i nie ukrywaj wyników, które jej nie potwierdzają. Uczciwe obalenie hipotezy to też wynik badawczy.
+\end{wazne}
+
+\sectionbreak
+
+## Tworzenie harmonogramu
+
+Harmonogram to rozkład pracy w czasie. Realistyczny harmonogram jest kluczowy dla ukończenia pracy bez stresu.
+
+\sectionheader{acadnavy}{Ile czasu potrzebujesz?}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Etap}} & \textcolor{white}{\textbf{Orientacyjny czas}} \\
+Wybór tematu i akceptacja & 2--4 tygodnie \\
+\rowcolor{acadlightcopper} Przegląd literatury i konspekt & 4--6 tygodni \\
+Napisanie rozdziału teoretycznego 1 & 3--4 tygodnie \\
+\rowcolor{acadlightcopper} Napisanie rozdziału teoretycznego 2 & 2--3 tygodnie \\
+Przygotowanie i przeprowadzenie badań & 3--6 tygodni \\
+\rowcolor{acadlightcopper} Napisanie rozdziału badawczego & 3--4 tygodnie \\
+Napisanie wstępu i zakończenia & 1--2 tygodnie \\
+\rowcolor{acadlightcopper} Redakcja i korekta & 2--3 tygodnie \\
+Formatowanie i formalności & 1--2 tygodnie \\
+\rowcolor{acadcopper}\textcolor{white}{\textbf{RAZEM}} & \textcolor{white}{\textbf{5--7 miesięcy}} \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Powyższe czasy zakładają regularną pracę (kilka godzin tygodniowo). Jeśli masz mniej czasu, musisz intensyfikować pracę. Jeśli planujesz badania ankietowe, dolicz czas na zebranie odpowiedzi --- to często trwa dłużej, niż myślisz.
+\end{wazne}
+
+\sectionheader{acadnavy}{Planowanie wstecz}
+
+Najskuteczniejsza metoda tworzenia harmonogramu to \textbf{planowanie wstecz} --- zaczynasz od terminu oddania i cofasz się, wyznaczając deadline'y dla kolejnych etapów.
+
+\resetsteps
+
+\begin{krok}[acadnavy]{Ustal datę końcową}
+Sprawdź regulamin: kiedy najpóźniej musisz złożyć pracę? Odejmij 2 tygodnie na nieprzewidziane problemy --- to Twój ``prawdziwy'' termin.
+\end{krok}
+
+\begin{krok}[acadnavy]{Zaplanuj ostatnie etapy}
+Formatowanie i formalności: 1--2 tygodnie przed terminem. Redakcja i korekta: 3--4 tygodnie przed terminem.
+\end{krok}
+
+\begin{krok}[acadnavy]{Zaplanuj pisanie}
+Wstęp i zakończenie: po napisaniu wszystkich rozdziałów. Rozdziały: od najtrudniejszego lub najłatwiejszego (wybierz strategię, która Ci odpowiada).
+\end{krok}
+
+\begin{krok}[acadnavy]{Zaplanuj badania}
+Jeśli prowadzisz badania empiryczne, zaplanuj: przygotowanie narzędzia → pilotaż → zbieranie danych → analiza. Każdy etap wymaga czasu.
+\end{krok}
+
+\begin{krok}[acadnavy]{Dodaj bufory}
+Życie jest nieprzewidywalne. Dodaj 20--30\% czasu jako bufor na choroby, awarie, opóźnienia respondentów i inne niespodzianki.
+\end{krok}
+
+\begin{przyklad}[Harmonogram z datami (termin: 30 czerwca)]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\begin{navylist}
+\item \textbf{15 stycznia:} Temat zatwierdzony, konspekt gotowy
+\item \textbf{15 lutego:} Rozdział 1 (teoria) --- pierwsza wersja do promotora
+\item \textbf{1 marca:} Rozdział 1 po poprawkach, początek rozdziału 2
+\item \textbf{15 marca:} Rozdział 2 --- pierwsza wersja do promotora
+\item \textbf{1 kwietnia:} Kwestionariusz ankiety gotowy, pilotaż
+\item \textbf{15 kwietnia:} Rozpoczęcie zbierania danych
+\item \textbf{1 maja:} Zakończenie zbierania danych, początek analizy
+\item \textbf{15 maja:} Rozdział 3 (badania) --- pierwsza wersja
+\item \textbf{1 czerwca:} Wstęp i zakończenie, kompletna pierwsza wersja pracy
+\item \textbf{10 czerwca:} Praca po poprawkach promotora
+\item \textbf{15 czerwca:} Korekta językowa zakończona
+\item \textbf{20 czerwca:} Formatowanie, sprawdzenie antyplagiatowe
+\item \textbf{25 czerwca:} Złożenie pracy (5 dni przed terminem --- bufor)
+\end{navylist}
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+Wpisz deadline'y do kalendarza z przypomnieniami. Ustaw przypomnienie tydzień przed każdym terminem. Traktuj te daty poważnie --- przesuwanie ``o jeden tydzień'' szybko zamienia się w przesuwanie ``o miesiąc''.
+\end{wskazowka}
+
+\sectionbreak
+
+## Narzędzia do zarządzania projektem
+
+Nie musisz zarządzać pisaniem pracy w głowie. Istnieją narzędzia, które pomogą Ci śledzić postępy.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Narzędzie}} & \textcolor{white}{\textbf{Zastosowanie}} \\
+Kalendarz (Google/Outlook) & Deadline'y i przypomnienia \\
+\rowcolor{acadlightforest} Trello / Notion / Asana & Tablice kanban, listy zadań, śledzenie postępów \\
+Arkusz kalkulacyjny & Prosty harmonogram z datami i statusem \\
+\rowcolor{acadlightforest} Todoist / Microsoft To Do & Lista zadań z terminami \\
+Papierowy planer & Dla osób preferujących analogowe metody \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Prosta tablica Trello dla pracy licencjackiej]
+Kolumny:
+\begin{navylist}
+\item \textbf{Do zrobienia} --- zadania zaplanowane
+\item \textbf{W trakcie} --- nad czym aktualnie pracujesz
+\item \textbf{Do sprawdzenia} --- czeka na feedback promotora
+\item \textbf{Zrobione} --- ukończone elementy
+\end{navylist}
+
+Karty (przykładowe):
+\begin{goldlist}
+\item ``Napisać podrozdział 1.1'' → termin: 20.01
+\item ``Znaleźć 10 artykułów o motywacji'' → termin: 25.01
+\item ``Przygotować kwestionariusz ankiety'' → termin: 15.03
+\end{goldlist}
+\end{przyklad}
+
+\begin{wskazowka}
+Podziel duże zadania (``napisać rozdział'') na mniejsze (``napisać podrozdział 1.1'', ``napisać podrozdział 1.2''). Małe zadania łatwiej zacząć i dają częstsze poczucie sukcesu przy odhaczaniu.
+\end{wskazowka}
+
+## Radzenie sobie z prokrastynacją
+
+Nawet z najlepszym planem możesz utknąć. Prokrastynacja to naturalny wróg każdego piszącego pracę dyplomową.
+
+\sectionheader{acadburgundy}{Dlaczego odkładamy pisanie?}
+
+\begin{burgundylist}
+\item \textbf{Perfekcjonizm} --- czekanie, aż będzie ``idealnie'', zanim zaczniemy
+\item \textbf{Lęk przed oceną} --- strach, że praca będzie słaba
+\item \textbf{Przytłoczenie} --- zadanie wydaje się zbyt duże
+\item \textbf{Brak jasności} --- nie wiemy, od czego zacząć
+\item \textbf{Rozproszenia} --- telefon, social media, Netflix
+\end{burgundylist}
+
+\sectionheader{acadforest}{Strategie antyprokrastynacyjne}
+
+\begin{forestlist}
+\item \textbf{Technika Pomodoro} --- pracuj 25 minut, przerwa 5 minut, powtórz. Co 4 cykle dłuższa przerwa.
+\item \textbf{Zasada 2 minut} --- jeśli zadanie zajmie mniej niż 2 minuty, zrób je od razu.
+\item \textbf{Zjedzenie żaby} --- zacznij dzień od najtrudniejszego zadania.
+\item \textbf{Blokowanie czasu} --- zarezerwuj w kalendarzu konkretne bloki na pisanie (np. wtorek i czwartek 18:00--20:00).
+\item \textbf{Środowisko} --- wyłącz powiadomienia, użyj trybu samolotowego, idź do biblioteki.
+\item \textbf{Odpowiedzialność} --- umów się z kolegą na wspólne sesje pisania lub regularne raportowanie postępów.
+\item \textbf{Nagrody} --- po ukończeniu etapu pozwól sobie na coś przyjemnego.
+\end{forestlist}
+
+\begin{cytat}
+``Nie musisz być w nastroju do pisania. Nastrój przyjdzie, gdy zaczniesz.''
+
+--- William Faulkner (sparafrazowane)
+\end{cytat}
+
+\begin{wskazowka}
+Jeśli nie możesz zacząć pisać, zacznij od czegokolwiek związanego z pracą: uporządkuj notatki, sformatuj bibliografię, przeczytaj jeden artykuł. Często samo ``wejście w temat'' uruchamia produktywność.
+\end{wskazowka}
+
+\sectionbreak
+
+## Wzór konspektu do wypełnienia
+
+Poniżej znajduje się wzór konspektu, który możesz wykorzystać jako punkt wyjścia:
+
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{KONSPEKT PRACY LICENCJACKIEJ}
+
+\textbf{Tytuł roboczy:} .......................................................................................
+
+\textbf{Promotor:} .......................................................................................
+
+\textbf{Kierunek / specjalność:} .......................................................................................
+
+\vspace{3mm}
+\textbf{Cel pracy:}
+
+.......................................................................................
+
+.......................................................................................
+
+\vspace{3mm}
+\textbf{Pytania badawcze:}
+
+1. .......................................................................................
+
+2. .......................................................................................
+
+3. .......................................................................................
+
+\vspace{3mm}
+\textbf{Hipotezy (jeśli dotyczy):}
+
+H1: .......................................................................................
+
+H2: .......................................................................................
+
+\vspace{3mm}
+\textbf{Planowana metodologia:}
+
+.......................................................................................
+
+\vspace{3mm}
+\textbf{Struktura pracy:}
+
+Wstęp
+
+Rozdział 1: .......................................................................................
+
+\hspace{5mm}1.1. .......................................................................................
+
+\hspace{5mm}1.2. .......................................................................................
+
+Rozdział 2: .......................................................................................
+
+\hspace{5mm}2.1. .......................................................................................
+
+\hspace{5mm}2.2. .......................................................................................
+
+Rozdział 3: .......................................................................................
+
+\hspace{5mm}3.1. .......................................................................................
+
+\hspace{5mm}3.2. .......................................................................................
+
+Zakończenie
+
+Bibliografia
+
+Załączniki
+
+\vspace{3mm}
+\textbf{Wstępna bibliografia (min. 10 pozycji):}
+
+1. .......................................................................................
+
+2. .......................................................................................
+
+3. .......................................................................................
+
+(...)
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy tworzenie konspektu i harmonogramu pracy licencjackiej: elementy profesjonalnego planu, modele struktury, formułowanie pytań badawczych i hipotez oraz strategie zarządzania czasem.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Konspekt to mapa Twojej pracy --- zaoszczędzi czas i zapobiegnie chaosowi
+\item Typowa praca licencjacka ma 3--4 rozdziały z zachowaniem równowagi teoria/badania
+\item Pytania badawcze muszą być konkretne, mierzalne i wykonalne
+\item Hipoteza to przypuszczenie o związku między zmiennymi, które można zweryfikować
+\item Planuj wstecz od terminu oddania, dodając bufory na nieprzewidziane sytuacje
+\item Na napisanie pracy potrzebujesz 5--7 miesięcy regularnej pracy
+\item Używaj narzędzi do zarządzania projektem i dziel duże zadania na mniejsze
+\item Prokrastynacja jest normalna --- miej strategie, żeby ją pokonać
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Stwórz teraz swój własny konspekt, korzystając z wzoru powyżej. Wypełnij wszystkie pola, nawet jeśli na razie są to tylko wstępne pomysły. Pokaż konspekt promotorowi na najbliższych konsultacjach.
+\end{wskazowka}
+
+W kolejnym rozdziale przejdziemy do konkretów --- omówimy wymagania formalne dotyczące strony tytułowej i innych elementów ``technicznych'' pracy.

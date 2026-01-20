@@ -1,0 +1,468 @@
+---
+pagetitle: "Strona tytułowa i wymagania formalne"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Strona tytułowa i wymagania formalne
+
+\sectionheader{acadnavy}{Pierwsze wrażenie ma znaczenie}
+
+Strona tytułowa to wizytówka Twojej pracy. To pierwsza rzecz, którą zobaczy promotor, recenzent i komisja egzaminacyjna. Choć jej przygotowanie wydaje się proste, studenci popełniają zaskakująco dużo błędów --- od literówek w nazwisku promotora po niepoprawne tytuły naukowe. W tym rozdziale omówimy wszystkie elementy formalne, które musi zawierać Twoja praca, zaczynając od strony tytułowej.
+
+\begin{zasada}[Zgodność z wymogami uczelni]
+Każda uczelnia ma własne wytyczne dotyczące strony tytułowej i formatowania pracy. \textbf{Zawsze} sprawdź aktualne wymagania na stronie swojego wydziału lub w dziekanacie. Wzory w tym rozdziale są orientacyjne --- Twoja uczelnia może wymagać innego układu lub dodatkowych elementów.
+\end{zasada}
+
+## Elementy strony tytułowej
+
+Typowa strona tytułowa pracy licencjackiej zawiera następujące elementy, ułożone w określonej kolejności:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Opis i uwagi}} \\
+Nazwa uczelni & Pełna, oficjalna nazwa (np. ``Uniwersytet Warszawski'') \\
+\rowcolor{acadlightnavy} Nazwa wydziału & Pełna nazwa wydziału (np. ``Wydział Zarządzania'') \\
+Kierunek studiów & Czasem też specjalność \\
+\rowcolor{acadlightnavy} Imię i nazwisko autora & Twoje dane; niektóre uczelnie wymagają też numeru albumu \\
+Tytuł pracy & Dokładnie taki, jak zatwierdzony; wyróżniony graficznie \\
+\rowcolor{acadlightnavy} Rodzaj pracy & ``Praca licencjacka'' lub ``Praca dyplomowa'' \\
+Dane promotora & Tytuł naukowy, imię i nazwisko (w odpowiedniej formie) \\
+\rowcolor{acadlightnavy} Miejsce i rok & Miasto siedziby uczelni i rok złożenia pracy \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Na stronie tytułowej \textbf{nie umieszcza się} numeru strony. Numeracja zaczyna się od następnej strony (spis treści) lub dopiero od wstępu --- zależy od wymagań uczelni.
+\end{wazne}
+
+\sectionbreak
+
+## Tytuły naukowe promotora --- jak pisać poprawnie?
+
+To jeden z najczęstszych problemów studentów. Tytuły naukowe w języku polskim odmieniają się przez przypadki, a na stronie tytułowej używamy formy dopełniacza (``pod kierunkiem kogo?'').
+
+\sectionheader{acadnavy}{Podstawowe tytuły i stopnie naukowe}
+
+\begin{definicja}[Tytuł vs stopień naukowy]
+\textbf{Stopnie naukowe} to: doktor (dr) i doktor habilitowany (dr hab.). Uzyskuje się je po obronie rozprawy. \textbf{Tytuł naukowy} to profesor (prof.) --- nadawany przez Prezydenta RP. Potocznie mówimy ``tytuł doktora'', ale formalnie doktor to stopień, nie tytuł.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Stopień/tytuł}} & \textcolor{white}{\textbf{Skrót i znaczenie}} \\
+mgr & magister --- absolwent studiów magisterskich \\
+\rowcolor{acadlightforest} dr & doktor --- po obronie doktoratu \\
+dr hab. & doktor habilitowany --- po habilitacji \\
+\rowcolor{acadlightforest} prof. ucz. & profesor uczelni --- stanowisko (nie tytuł naukowy) \\
+prof. dr hab. & profesor z tytułem naukowym \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Odmiana tytułów przez przypadki}
+
+Na stronie tytułowej piszemy ``pod kierunkiem'' + dopełniacz. Tu pojawia się problem: jak odmienić skrót ``dr''?
+
+\begin{zasada}[Dwie poprawne formy]
+W języku polskim istnieją \textbf{dwie poprawne formy} zapisu tytułu ``doktor'' w dopełniaczu:
+\begin{navylist}
+\item \textbf{dra} (bez kropki) --- gdy odmieniamy skrót jak pełne słowo
+\item \textbf{dr} (z kropką lub bez) --- gdy traktujemy skrót jako nieodmienny
+\end{navylist}
+Obie formy są akceptowalne, ale w obrębie jednej pracy musisz być konsekwentny!
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Mianownik (kto?)}} & \textcolor{white}{\textbf{Dopełniacz (kogo?) --- na stronie tytułowej}} \\
+dr Jan Kowalski & dra Jana Kowalskiego \textit{lub} dr. Jana Kowalskiego \\
+\rowcolor{acadlightnavy} dr hab. Anna Nowak & dr hab. Anny Nowak \textit{lub} dr. hab. Anny Nowak \\
+prof. dr hab. Piotr Wiśniewski & prof. dra hab. Piotra Wiśniewskiego \\
+\rowcolor{acadlightnavy} dr inż. Maria Zielińska & dr inż. Marii Zielińskiej \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Zwróć uwagę na różnicę między formą męską i żeńską: ``doktor'' odmienia się dla mężczyzn (dra), ale dla kobiet pozostaje nieodmienione (dr), ponieważ słowo ``doktor'' w odniesieniu do kobiet nie odmienia się w polszczyźnie potocznej. Możesz też użyć formy ``pani doktor'' --- ``pani doktor Anny Nowak''.
+\end{wazne}
+
+\begin{przyklad}[Poprawne zapisy na stronie tytułowej]
+\begin{forestlist}
+\item pod kierunkiem dra Jana Kowalskiego
+\item pod kierunkiem dr. Jana Kowalskiego
+\item pod kierunkiem dr hab. Anny Nowak
+\item pod kierunkiem prof. dra hab. Piotra Wiśniewskiego
+\item pod kierunkiem dr inż. Marii Zielińskiej
+\item Promotor: dr hab. Anna Nowak, prof. ucz.
+\end{forestlist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błędne zapisy:}
+\begin{burgundylist}
+\item ``dr'a'' (apostrof jest niepotrzebny)
+\item ``Dr.'' (wielka litera --- tytuły piszemy małą)
+\item ``doktora hab.'' (mieszanie pełnej formy ze skrótem)
+\item ``prof. zw.'' (tytuł ``profesor zwyczajny'' już nie istnieje)
+\item ``dra Anny Nowak'' (dla kobiet nie odmieniamy)
+\end{burgundylist}
+\end{blad}
+
+\begin{wskazowka}
+Nie wiesz, jaki tytuł ma Twój promotor? Sprawdź na stronie internetowej uczelni lub w systemie POLON (polon.nauka.gov.pl). Możesz też po prostu zapytać promotora, jak chce być zapisany na stronie tytułowej.
+\end{wskazowka}
+
+\sectionbreak
+
+## Wzór strony tytułowej
+
+Poniżej przedstawiamy typowy układ strony tytułowej. Pamiętaj, że Twoja uczelnia może wymagać innego formatu.
+
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=6mm, right=6mm, top=5mm, bottom=5mm]
+\begin{center}
+\textbf{UNIWERSYTET WARSZAWSKI}
+
+\textbf{WYDZIAŁ ZARZĄDZANIA}
+
+\vspace{3mm}
+Kierunek: Zarządzanie
+
+Specjalność: Zarządzanie zasobami ludzkimi
+
+\vspace{8mm}
+\textbf{Jan Kowalski}
+
+Nr albumu: 123456
+
+\vspace{10mm}
+{\large \textbf{MOTYWACJA POZAFINANSOWA PRACOWNIKÓW}}
+
+{\large \textbf{W FIRMACH SEKTORA IT}}
+
+{\large \textbf{--- STUDIUM PRZYPADKU FIRMY XYZ}}
+
+\vspace{10mm}
+Praca licencjacka
+
+napisana pod kierunkiem
+
+dra hab. Adama Nowaka
+
+\vspace{\fill}
+Warszawa 2025
+\end{center}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Pobierz oficjalny szablon strony tytułowej ze strony swojego wydziału. Jeśli taki szablon nie istnieje, poproś o wzór w dziekanacie lub zapytaj promotora. Lepiej użyć sprawdzonego wzoru niż tworzyć własny i ryzykować błędy.
+\end{wskazowka}
+
+## Pozostałe strony formalne
+
+Oprócz strony tytułowej, praca licencjacka zawiera kilka innych elementów formalnych. Ich kolejność jest zazwyczaj następująca:
+
+\resetsteps
+
+\begin{krok}[acadnavy]{Strona tytułowa}
+Pierwsza strona pracy, bez numeru.
+\end{krok}
+
+\begin{krok}[acadnavy]{Oświadczenie o samodzielności}
+Deklaracja, że praca jest Twoim samodzielnym dziełem i nie narusza praw autorskich. Wzór zazwyczaj dostarcza uczelnia. Wymaga podpisu odręcznego.
+\end{krok}
+
+\begin{krok}[acadnavy]{Spis treści}
+Automatycznie generowany wykaz rozdziałów i podrozdziałów z numerami stron.
+\end{krok}
+
+\begin{krok}[acadnavy]{Wstęp}
+Wprowadzenie do pracy --- tu zaczyna się właściwa treść.
+\end{krok}
+
+\begin{krok}[acadnavy]{Rozdziały główne}
+Część teoretyczna i badawcza pracy.
+\end{krok}
+
+\begin{krok}[acadnavy]{Zakończenie}
+Podsumowanie i wnioski.
+\end{krok}
+
+\begin{krok}[acadnavy]{Bibliografia}
+Wykaz wszystkich cytowanych źródeł.
+\end{krok}
+
+\begin{krok}[acadnavy]{Spisy (jeśli dotyczy)}
+Spis tabel, wykresów, rysunków --- jeśli w pracy występują.
+\end{krok}
+
+\begin{krok}[acadnavy]{Załączniki (jeśli dotyczy)}
+Kwestionariusze, dokumenty źródłowe, obszerne tabele danych itp.
+\end{krok}
+
+\begin{krok}[acadnavy]{Streszczenie / Abstract}
+Niektóre uczelnie wymagają streszczenia w języku polskim i/lub angielskim. Umieszczane na końcu lub na początku pracy.
+\end{krok}
+
+\sectionbreak
+
+## Oświadczenie o samodzielności
+
+Każda praca dyplomowa musi zawierać oświadczenie autora o samodzielnym jej napisaniu. To wymóg prawny związany z przeciwdziałaniem plagiatowi.
+
+\begin{przyklad}[Typowa treść oświadczenia]
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{OŚWIADCZENIE}
+
+Ja, niżej podpisany/a .................................., student/ka Wydziału ................................. Uniwersytetu .................................., oświadczam, że przedkładaną pracę licencjacką pt. ``................................. '' napisałem/am samodzielnie.
+
+Oświadczam, że praca nie narusza praw autorskich w rozumieniu ustawy z dnia 4 lutego 1994 roku o prawie autorskim i prawach pokrewnych oraz dóbr osobistych chronionych prawem.
+
+Oświadczam także, że praca nie zawiera danych i informacji, które uzyskałem/am w sposób niedozwolony.
+
+Stwierdzam, że przedstawiona praca nie była wcześniej przedmiotem procedur związanych z uzyskaniem dyplomu lub tytułu zawodowego w wyższej uczelni.
+
+Oświadczam również, że wersja pracy złożona w formie elektronicznej jest identyczna z wersją drukowaną.
+
+\vspace{5mm}
+\hfill ........................................
+
+\hfill (podpis autora)
+
+\vspace{3mm}
+\hfill ........................................
+
+\hfill (miejscowość, data)
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wazne}
+Oświadczenie wymaga \textbf{odręcznego podpisu}. Nie wstawiaj podpisu elektronicznego ani zeskanowanego --- musi być napisany długopisem na wydrukowanym egzemplarzu.
+\end{wazne}
+
+## Spis treści
+
+Spis treści to wykaz wszystkich części pracy z numerami stron. Powinien być generowany automatycznie przez edytor tekstu (Word, LibreOffice, LaTeX) --- nigdy nie twórz go ręcznie!
+
+\sectionheader{acadnavy}{Zasady tworzenia spisu treści}
+
+\begin{forestlist}
+\item Spis treści generuj automatycznie na podstawie stylów nagłówków
+\item Pokazuj rozdziały i podrozdziały (zazwyczaj do poziomu 2 lub 3)
+\item Numery stron muszą być aktualne --- odświeżaj spis przed wydrukiem
+\item Wstęp i zakończenie mogą być numerowane lub nie (zależy od uczelni)
+\item Bibliografia, spisy i załączniki są wymienione, ale zwykle nienumerowane jako rozdziały
+\end{forestlist}
+
+\begin{przyklad}[Przykładowy spis treści]
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{SPIS TREŚCI}
+
+\vspace{2mm}
+Wstęp \dotfill 3
+
+\textbf{Rozdział 1. Teoretyczne podstawy motywacji pracowników} \dotfill 6
+
+\hspace{5mm}1.1. Pojęcie i istota motywacji \dotfill 6
+
+\hspace{5mm}1.2. Klasyczne teorie motywacji \dotfill 10
+
+\hspace{5mm}1.3. Współczesne podejścia do motywowania \dotfill 15
+
+\textbf{Rozdział 2. Specyfika branży IT jako środowiska pracy} \dotfill 20
+
+\hspace{5mm}2.1. Charakterystyka sektora IT w Polsce \dotfill 20
+
+\hspace{5mm}2.2. Profil pracownika branży technologicznej \dotfill 24
+
+\hspace{5mm}2.3. Wyzwania w zarządzaniu zespołami IT \dotfill 28
+
+\textbf{Rozdział 3. Badania własne} \dotfill 33
+
+\hspace{5mm}3.1. Metodologia badań \dotfill 33
+
+\hspace{5mm}3.2. Prezentacja wyników \dotfill 38
+
+\hspace{5mm}3.3. Analiza i wnioski \dotfill 45
+
+Zakończenie \dotfill 50
+
+Bibliografia \dotfill 53
+
+Spis tabel \dotfill 56
+
+Spis rysunków \dotfill 57
+
+Załączniki \dotfill 58
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Typowy błąd:} Ręczne wpisywanie numerów stron w spisie treści.
+
+Problem: Po każdej edycji tekstu numery stron się zmieniają, a ręczny spis staje się nieaktualny. Używaj automatycznego spisu treści i odświeżaj go przed każdym wydrukiem (w Wordzie: kliknij prawym przyciskiem na spis → Aktualizuj pole → Aktualizuj całą tabelę).
+\end{blad}
+
+\sectionbreak
+
+## Numeracja stron
+
+Poprawna numeracja stron to kolejny element, który sprawia studentom kłopoty.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Numeracja}} \\
+Strona tytułowa & Bez numeru (ale liczona) \\
+\rowcolor{acadlightcopper} Oświadczenie & Bez numeru lub numerowana (zależy od uczelni) \\
+Spis treści & Numerowany lub nie (zależy od uczelni) \\
+\rowcolor{acadlightcopper} Wstęp & Tu zazwyczaj zaczyna się widoczna numeracja \\
+Rozdziały & Numerowane kolejno \\
+\rowcolor{acadlightcopper} Bibliografia, załączniki & Numerowane (kontynuacja) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Pozycja numeru strony]
+Numer strony umieszcza się zazwyczaj na dole strony, wyśrodkowany lub wyrównany do prawej (strony nieparzyste) i lewej (strony parzyste). Sprawdź wymagania swojej uczelni.
+\end{zasada}
+
+\begin{wskazowka}
+W Wordzie możesz ustawić, żeby numeracja zaczynała się od określonej strony: Wstaw → Numer strony → Formatuj numery stron → Rozpocznij od. Możesz też użyć podziału sekcji, żeby pierwsza sekcja (strona tytułowa) nie miała numeru.
+\end{wskazowka}
+
+## Streszczenie i słowa kluczowe
+
+Wiele uczelni wymaga dołączenia streszczenia pracy (abstrakt) oraz słów kluczowych. Służą one katalogowaniu pracy w systemach bibliotecznych i bazach danych.
+
+\sectionheader{acadnavy}{Streszczenie}
+
+\begin{definicja}[Streszczenie (abstrakt)]
+Streszczenie to zwięzły opis pracy, zawierający: cel, metodę, główne wyniki i wnioski. Typowa długość to 150--300 słów lub 800--1500 znaków (zależy od uczelni). Streszczenie powinno być zrozumiałe bez czytania całej pracy.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Struktura streszczenia:}
+\begin{navylist}
+\item \textbf{Kontekst} (1--2 zdania): O czym jest praca? Dlaczego temat jest ważny?
+\item \textbf{Cel} (1 zdanie): Co było celem pracy?
+\item \textbf{Metoda} (1--2 zdania): Jak przeprowadzono badania?
+\item \textbf{Wyniki} (2--3 zdania): Jakie są główne ustalenia?
+\item \textbf{Wnioski} (1--2 zdania): Jakie są implikacje wyników?
+\end{navylist}
+\end{tcolorbox}
+
+\begin{przyklad}[Przykładowe streszczenie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Branża IT charakteryzuje się wysoką rotacją pracowników i intensywną konkurencją o talenty, co sprawia, że motywowanie zespołów staje się kluczowym wyzwaniem dla menedżerów. Celem niniejszej pracy było zidentyfikowanie najważniejszych czynników motywacji pozafinansowej wśród programistów. Badanie przeprowadzono metodą sondażu diagnostycznego z wykorzystaniem kwestionariusza ankiety na próbie 127 pracowników firm IT z województwa mazowieckiego. Wyniki wskazują, że najważniejszymi czynnikami motywacji są: autonomia w wyborze narzędzi i metod pracy, możliwość rozwoju zawodowego oraz elastyczny czas pracy. Tradycyjne benefity (karty sportowe, owoce w biurze) mają marginalne znaczenie. Wyniki sugerują, że firmy IT powinny koncentrować się na tworzeniu środowiska sprzyjającego samodzielności i rozwojowi, zamiast rozbudowywać pakiety benefitów materialnych.
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Słowa kluczowe}
+
+\begin{zasada}[Słowa kluczowe]
+Słowa kluczowe to 4--10 terminów najlepiej opisujących treść pracy. Powinny być konkretne (nie ``zarządzanie'', ale ``zarządzanie zasobami ludzkimi''), obejmować główne pojęcia teoretyczne, metodę badawczą i obszar badań. Ułatwiają wyszukiwanie pracy w bazach danych.
+\end{zasada}
+
+\begin{przyklad}[Przykładowe słowa kluczowe]
+Do pracy o motywacji w IT:
+
+\textit{Słowa kluczowe: motywacja pracowników, motywacja pozafinansowa, branża IT, programiści, zarządzanie zasobami ludzkimi, teoria Herzberga, satysfakcja z pracy}
+\end{przyklad}
+
+\begin{wskazowka}
+Jeśli uczelnia wymaga streszczenia w języku angielskim (abstract), napisz je samodzielnie --- nie korzystaj z automatycznych tłumaczy bez weryfikacji. Błędy językowe w abstrakcie robią złe wrażenie.
+\end{wskazowka}
+
+\sectionbreak
+
+## Tytuł pracy w języku angielskim
+
+Niektóre uczelnie wymagają podania tytułu pracy również w języku angielskim (do celów katalogowania międzynarodowego).
+
+\begin{blad}
+\textbf{Typowy błąd:} Dosłowne tłumaczenie tytułu, które brzmi nienaturalnie po angielsku.
+
+Przykład: ``Motywacja pozafinansowa pracowników w firmach sektora IT'' → błędnie: ``Non-financial motivation of employees in firms of IT sector'' → poprawnie: ``Non-financial employee motivation in IT companies'' lub ``Intrinsic motivation among IT sector employees''
+\end{blad}
+
+\begin{wskazowka}
+Sprawdź, jak podobne tematy są formułowane w anglojęzycznych artykułach naukowych. Tytuły w języku angielskim są zazwyczaj krótsze i bardziej bezpośrednie niż polskie.
+\end{wskazowka}
+
+## Formatowanie tekstu --- przegląd wymagań
+
+Zanim przejdziemy do szczegółów formatowania w kolejnych rozdziałach, przedstawiamy zestawienie typowych wymagań edytorskich.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Typowe wymagania}} \\
+Czcionka & Times New Roman 12pt (tekst główny), 10pt (przypisy) \\
+\rowcolor{acadlightnavy} Interlinia & 1,5 wiersza (tekst główny), 1,0 (przypisy) \\
+Marginesy & Lewy: 3,5 cm; pozostałe: 2,5 cm \\
+\rowcolor{acadlightnavy} Justowanie & Tekst wyjustowany (wyrównany do obu marginesów) \\
+Akapit & Wcięcie 0,63 cm lub 1,25 cm (pierwsza linia) \\
+\rowcolor{acadlightnavy} Tytuły rozdziałów & 14pt, pogrubione, numerowane \\
+Tytuły podrozdziałów & 12pt, pogrubione, numerowane \\
+\rowcolor{acadlightnavy} Numeracja stron & Na dole, wyśrodkowana lub na zewnątrz \\
+Dzielenie wyrazów & Włączone automatyczne dzielenie \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Powyższe wymagania są orientacyjne. \textbf{Zawsze} sprawdź aktualne wytyczne swojej uczelni. Niektóre wydziały mają bardzo szczegółowe instrukcje (np. dokładne odstępy przed i po nagłówkach), inne dają więcej swobody.
+\end{wazne}
+
+## Lista kontrolna strony tytułowej
+
+Przed oddaniem pracy sprawdź stronę tytułową pod kątem następujących elementów:
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Checklist --- strona tytułowa:}
+\begin{forestlist}
+\item Pełna, poprawna nazwa uczelni
+\item Pełna, poprawna nazwa wydziału
+\item Poprawna nazwa kierunku (i specjalności, jeśli wymagana)
+\item Twoje imię i nazwisko bez błędów
+\item Numer albumu (jeśli wymagany)
+\item Tytuł pracy zgodny z zatwierdzonym
+\item Brak błędów ortograficznych w tytule
+\item Rodzaj pracy (``Praca licencjacka'')
+\item Poprawny tytuł naukowy promotora
+\item Poprawne imię i nazwisko promotora
+\item Prawidłowa odmiana tytułu w dopełniaczu
+\item Aktualna miejscowość i rok
+\item Brak numeru strony
+\item Zgodność z wzorem wymaganym przez uczelnię
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Poproś kogoś innego o sprawdzenie strony tytułowej. Własne błędy najtrudniej zauważyć --- oczy ``przeskakują'' nad literówkami, które widzieliśmy już dziesiątki razy.
+\end{wskazowka}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy stronę tytułową i inne elementy formalne pracy licencjackiej: oświadczenie o samodzielności, spis treści, numerację stron, streszczenie i słowa kluczowe.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Strona tytułowa to wizytówka pracy --- musi być bezbłędna
+\item Zawsze sprawdź wymagania swojej uczelni i użyj oficjalnego szablonu
+\item Tytuły naukowe w dopełniaczu: ``dra'' lub ``dr.'' dla mężczyzn, ``dr'' dla kobiet
+\item ``Prof. dr hab.'' to pełna forma dla profesora z tytułem naukowym
+\item Oświadczenie o samodzielności wymaga odręcznego podpisu
+\item Spis treści generuj automatycznie i odświeżaj przed wydrukiem
+\item Numeracja stron zaczyna się zazwyczaj od wstępu
+\item Streszczenie powinno zawierać: kontekst, cel, metodę, wyniki, wnioski
+\item Słowa kluczowe (4--10) ułatwiają katalogowanie pracy
+\item Przed oddaniem użyj listy kontrolnej, żeby wyłapać błędy
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Znajdź na stronie swojego wydziału wzór strony tytułowej i wymagania edytorskie. Jeśli ich nie ma, napisz do dziekanatu lub zapytaj promotora. Przygotuj szablon dokumentu z odpowiednimi ustawieniami --- zaoszczędzisz czas później.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się wstępem do pracy licencjackiej --- dowiesz się, co powinien zawierać i dlaczego pisze się go na końcu.

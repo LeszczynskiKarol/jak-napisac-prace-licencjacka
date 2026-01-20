@@ -1,0 +1,506 @@
+---
+pagetitle: "Jak pisać teksty naukowe"
+---
+
+\pagestyle{pisanie}
+\thispagestyle{pisanie}
+
+# Jak pisać teksty naukowe?
+
+\sectionheader{acadcopper}{Sztuka jasnego wyrażania myśli}
+
+Pisanie tekstu naukowego to umiejętność, której można się nauczyć. Nie wymaga ona talentu literackiego ani wyjątkowej kreatywności --- wymaga przede wszystkim dyscypliny, precyzji i świadomego stosowania określonych zasad. Tekst naukowy różni się od innych form pisarstwa: nie ma w nim miejsca na ozdobniki stylistyczne, dwuznaczności czy emocjonalne apele. Jego celem jest przekazanie informacji w sposób jasny, logiczny i wiarygodny.
+
+Wielu studentów rozpoczynających pisanie pracy licencjackiej boryka się z tym samym problemem: wiedzą, \textit{co} chcą powiedzieć, ale nie wiedzą, \textit{jak} to ująć w słowa. Efektem są teksty rozwlekłe, chaotyczne lub --- przeciwnie --- zbyt skrótowe i niejasne. Ten rozdział pomoże Ci opanować warsztat pisarski niezbędny do stworzenia profesjonalnej pracy naukowej.
+
+\begin{wazne}
+Dobry tekst naukowy to taki, który czytelnik rozumie \textbf{przy pierwszym czytaniu}. Jeśli musisz przeczytać zdanie dwa razy, żeby je zrozumieć --- prawdopodobnie jest źle napisane. Prostota i klarowność to nie oznaki prymitywizmu, lecz mistrzostwa.
+\end{wazne}
+
+## Styl naukowy — prostota, precyzja, treściwość
+
+Styl naukowy rządzi się własnymi prawami, odmiennymi od stylu publicystycznego, literackiego czy potocznego. Jego nadrzędnymi wartościami są: prostota, precyzja i treściwość. Te trzy cechy tworzą fundament, na którym buduje się każdy dobry tekst akademicki.
+
+\sectionheader{acadnavy}{Prostota — pisz tak, by Cię zrozumiano}
+
+\begin{definicja}[Prostota stylu naukowego]
+Prostota w tekście naukowym oznacza używanie jasnych, zrozumiałych konstrukcji językowych, unikanie zbędnej komplikacji składniowej oraz wybieranie słów powszechnie znanych, gdy nie ma potrzeby stosowania terminologii specjalistycznej. Prostota \textbf{nie oznacza} upraszczania treści --- oznacza klarowne jej przedstawienie.
+\end{definicja}
+
+Prostota stylu wymaga świadomego wysiłku. Paradoksalnie, napisanie prostego tekstu jest trudniejsze niż napisanie skomplikowanego. Wymaga bowiem dokładnego przemyślenia, co chcemy powiedzieć, i znalezienia najbardziej bezpośredniej drogi do wyrażenia tej myśli.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Skomplikowane}} & \textcolor{white}{\textbf{Proste}} \\
+Dokonano implementacji procedury ewaluacyjnej & Wdrożono procedurę oceny \\
+\rowcolor{acadlightnavy} W kontekście powyższych rozważań należy stwierdzić & Wynika z tego, że \\
+Zjawisko charakteryzuje się wysokim stopniem złożoności & Zjawisko jest złożone \\
+\rowcolor{acadlightnavy} Nie ulega wątpliwości fakt, iż & Niewątpliwie / Bez wątpienia \\
+Przeprowadzono analizę mającą na celu określenie & Zbadano / Przeanalizowano \\
+\rowcolor{acadlightnavy} W odniesieniu do kwestii związanej z & Jeśli chodzi o / W sprawie \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Zasada brzytwy Ockhama w pisaniu]
+Jeśli możesz wyrazić myśl prościej --- zrób to. Nie mnóż słów ponad potrzebę. Każde słowo w tekście naukowym powinno pełnić określoną funkcję. Jeśli usunięcie słowa nie zmienia sensu zdania --- usuń je.
+\end{zasada}
+
+\sectionheader{acadnavy}{Precyzja — każde słowo ma znaczenie}
+
+\begin{definicja}[Precyzja stylu naukowego]
+Precyzja oznacza dokładność i jednoznaczność wypowiedzi. W tekście naukowym każdy termin powinien mieć jedno, ściśle określone znaczenie. Unikamy słów wieloznacznych, metafor i porównań, które mogą być różnie interpretowane.
+\end{definicja}
+
+Precyzja wymaga starannego doboru słów. Słowa ``dużo'', ``często'', ``znaczący'' czy ``istotny'' są nieprecyzyjne --- co dla jednego jest ``dużo'', dla innego może być ``mało''. W tekście naukowym, wszędzie gdzie to możliwe, zastępujemy określenia jakościowe ilościowymi.
+
+\begin{przyklad}[Precyzja w praktyce]
+\textbf{Nieprecyzyjnie:}
+``Większość respondentów często korzysta z mediów społecznościowych, spędzając tam dużo czasu.''
+
+\textbf{Precyzyjnie:}
+``73\% respondentów korzysta z mediów społecznościowych codziennie, spędzając na nich średnio 2,5 godziny dziennie.''
+\end{przyklad}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Nieprecyzyjne}} & \textcolor{white}{\textbf{Precyzyjne}} \\
+Większość & 67\% / dwie trzecie / 45 z 67 badanych \\
+\rowcolor{acadlightforest} Często & codziennie / 3 razy w tygodniu / regularnie (co najmniej raz w tygodniu) \\
+Dużo & 150 osób / 5 godzin / 10 000 zł \\
+\rowcolor{acadlightforest} Znaczący wzrost & wzrost o 23\% / wzrost z 100 do 145 \\
+Ostatnio & w ciągu ostatnich 6 miesięcy / od stycznia 2024 r. \\
+\rowcolor{acadlightforest} Młodzież & osoby w wieku 15--19 lat / uczniowie szkół ponadpodstawowych \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Precyzja dotyczy także terminologii naukowej. Jeśli używasz terminu specjalistycznego, upewnij się, że rozumiesz jego dokładne znaczenie i stosujesz go konsekwentnie w całej pracy. Definiuj terminy, które mogą być nieznane czytelnikowi lub mają różne znaczenia w różnych kontekstach.
+\end{wazne}
+
+\sectionheader{acadnavy}{Treściwość — maksimum informacji, minimum słów}
+
+\begin{definicja}[Treściwość]
+Treściwość (zwięzłość) to umiejętność przekazania maksymalnej ilości informacji przy użyciu minimalnej liczby słów. Tekst treściwy nie zawiera zbędnych powtórzeń, pustych fraz ani rozwlekłych konstrukcji.
+\end{definicja}
+
+Treściwość nie oznacza skrótowości kosztem zrozumiałości. Chodzi o eliminację tego, co zbędne, przy zachowaniu wszystkiego, co niezbędne. Każde zdanie powinno wnosić nową informację lub rozwijać wcześniejszą myśl.
+
+\begin{blad}
+\textbf{Błąd: Puste frazy i wypełniacze}
+
+``Należy w tym miejscu zauważyć, że kwestia, o której tutaj mowa, jest bez wątpienia zagadnieniem niezwykle istotnym z punktu widzenia prowadzonych rozważań.''
+
+To zdanie nie zawiera żadnej konkretnej informacji. Składa się wyłącznie z ``wypełniaczy'' --- słów, które brzmią naukowo, ale nic nie znaczą.
+\end{blad}
+
+\begin{przyklad}[Od rozwlekłego do treściwego]
+\textbf{Rozwlekle (42 słowa):}
+``W kontekście przeprowadzonych badań należy stwierdzić, że uzyskane wyniki w sposób jednoznaczny wskazują na fakt, iż istnieje pewnego rodzaju zależność o charakterze korelacyjnym pomiędzy poziomem wykształcenia badanych osób a ich świadomością ekologiczną.''
+
+\textbf{Treściwie (15 słów):}
+``Wyniki badań wykazały pozytywną korelację między poziomem wykształcenia a świadomością ekologiczną respondentów.''
+\end{przyklad}
+
+\begin{zasada}[Test treściwości]
+Po napisaniu akapitu przeczytaj go krytycznie i zadaj sobie pytania:
+\begin{goldlist}
+\item Czy każde zdanie wnosi nową informację?
+\item Czy mogę powiedzieć to samo krócej, nie tracąc sensu?
+\item Czy są tu powtórzenia tej samej myśli innymi słowami?
+\item Czy usunięcie któregoś zdania zmieni znaczenie akapitu?
+\end{goldlist}
+Jeśli odpowiedź na ostatnie pytanie brzmi ``nie'' --- usuń to zdanie.
+\end{zasada}
+
+\sectionbreak
+
+## Najczęstsze błędy stylistyczne studentów
+
+Pewne błędy stylistyczne powtarzają się w pracach studentów z zadziwiającą regularnością. Znajomość tych pułapek pozwoli Ci ich uniknąć.
+
+\sectionheader{acadburgundy}{Błędy leksykalne}
+
+\begin{blad}
+\textbf{Błąd 1: Pleonazmy i tautologie}
+
+Pleonazm to połączenie słów, w którym jedno wynika z drugiego, np. ``cofnąć się do tyłu'' (cofać się można tylko do tyłu), ``akwen wodny'' (akwen to zbiornik wodny), ``kontynuować dalej'' (kontynuować znaczy robić coś dalej).
+
+Przykłady z prac studenckich:
+\begin{burgundylist}
+\item ``wzajemna współpraca'' (współpraca jest z definicji wzajemna)
+\item ``okres czasu'' (okres to odcinek czasu)
+\item ``pełny komplet'' (komplet jest pełny)
+\item ``potencjalne możliwości'' (możliwości są potencjalne)
+\item ``wspólne współdziałanie'' (współdziałanie jest wspólne)
+\end{burgundylist}
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 2: Makaronizmy i niepotrzebne zapożyczenia}
+
+Stosowanie obcych słów tam, gdzie istnieją dobre polskie odpowiedniki, bez uzasadnienia merytorycznego.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Niepotrzebne zapożyczenie}} & \textcolor{white}{\textbf{Polski odpowiednik}} \\
+ewaluacja & ocena \\
+\rowcolor{acadlightburgundy} implementacja & wdrożenie \\
+deadline & termin (ostateczny) \\
+\rowcolor{acadlightburgundy} feedback & informacja zwrotna, opinia \\
+upgrade & modernizacja, ulepszenie \\
+\rowcolor{acadlightburgundy} korelować (z czymś) & być powiązanym, wiązać się \\
+\end{tabularx}
+\end{tcolorbox}
+
+\textbf{Uwaga:} Niektóre terminy obce są uzasadnione, gdy są ustalonymi terminami naukowymi (np. ``korelacja'' jako termin statystyczny) lub gdy polski odpowiednik nie oddaje dokładnie tego samego znaczenia.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 3: Wyrazy modne i nadużywane}
+
+Pewne słowa stają się modne i są nadużywane do tego stopnia, że tracą precyzyjne znaczenie. W pracach naukowych należy ich unikać lub stosować z rozwagą.
+
+\begin{burgundylist}
+\item ``szeroko pojęty/rozumiany'' --- co to dokładnie znaczy?
+\item ``w jakiś sposób'' --- w jaki konkretnie?
+\item ``generalnie/zasadniczo'' --- często zbędne
+\item ``niejako'' --- słowo-wytrychy, które nic nie znaczy
+\item ``de facto'' --- często używane błędnie lub zbędnie
+\item ``dana kwestia/dany problem'' --- ``dana'' jest zbędne
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadburgundy}{Błędy składniowe}
+
+\begin{blad}
+\textbf{Błąd 4: Zbyt długie zdania}
+
+Zdania przekraczające 25--30 słów są trudne do zrozumienia. Szczególnie problematyczne są zdania wielokrotnie złożone z licznymi wtrąceniami.
+
+\textbf{Przykład zbyt długiego zdania:}
+``Biorąc pod uwagę fakt, że w literaturze przedmiotu, która została poddana analizie w rozdziale pierwszym niniejszej pracy, wskazuje się na wieloaspektowość omawianego zjawiska, które ze względu na swoją złożoność wymaga zastosowania zróżnicowanych metod badawczych, zdecydowano się na wykorzystanie zarówno metod ilościowych, jak i jakościowych.''
+
+\textbf{Po korekcie:}
+``Literatura przedmiotu wskazuje na wieloaspektowość omawianego zjawiska. Jego złożoność wymaga zastosowania zróżnicowanych metod badawczych. Dlatego zdecydowano się na wykorzystanie zarówno metod ilościowych, jak i jakościowych.''
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 5: Imiesłowowy zawrót głowy}
+
+Nadużywanie imiesłowów przysłówkowych (``-ąc'') prowadzi do niejasnych, zagmatwanych zdań.
+
+\textbf{Źle:}
+``Analizując zebrane dane, uwzględniając specyfikę badanej grupy, stosując metody statystyczne, doszliśmy do wniosków.''
+
+\textbf{Dobrze:}
+``Przeanalizowaliśmy zebrane dane metodami statystycznymi, uwzględniając specyfikę badanej grupy. Pozwoliło to na sformułowanie wniosków.''
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 6: Błędna składnia zapożyczeń}
+
+``W oparciu o'' (zamiast ``na podstawie''), ``w dużej mierze'' (zamiast ``w znacznej mierze'' lub ``w dużym stopniu''), ``mieć wpływ do'' (zamiast ``mieć wpływ na'').
+\end{blad}
+
+\sectionheader{acadburgundy}{Błędy stylistyczne}
+
+\begin{blad}
+\textbf{Błąd 7: Styl potoczny}
+
+Tekst naukowy wymaga formalnego rejestru językowego. Należy unikać kolokwializmów, skrótów myślowych i wyrażeń typowych dla języka mówionego.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Styl potoczny}} & \textcolor{white}{\textbf{Styl naukowy}} \\
+Widać wyraźnie, że... & Z analizy wynika, że... \\
+\rowcolor{acadlightburgundy} Jak wiadomo... & Zgodnie z ustaleniami... \\
+Trzeba przyznać, że... & Należy stwierdzić, że... \\
+\rowcolor{acadlightburgundy} Jest to mega ważne & Ma to istotne znaczenie \\
+Wyniki są OK & Wyniki są zadowalające / pozytywne \\
+\rowcolor{acadlightburgundy} W sumie można powiedzieć & Podsumowując / Reasumując \\
+\end{tabularx}
+\end{tcolorbox}
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 8: Styl patetyczny i emocjonalny}
+
+W tekście naukowym nie ma miejsca na emocje, wykrzykniki, pytania retoryczne ani wartościujące przymiotniki.
+
+\textbf{Źle:}
+``Problem alkoholizmu wśród młodzieży jest przerażający! Jak można pozwolić, by nasze dzieci niszczyły sobie życie?! To skandaliczne zaniedbanie władz i rodziców!''
+
+\textbf{Dobrze:}
+``Problem spożywania alkoholu przez młodzież jest istotny społecznie. Dane GUS wskazują na wzrost odsetka nastolatków sięgających po alkohol. Zjawisko to wymaga analizy przyczyn i opracowania skutecznych programów profilaktycznych.''
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 9: Nadużywanie strony biernej}
+
+Strona bierna jest typowa dla stylu naukowego, ale jej nadużywanie prowadzi do ciężkiego, nużącego tekstu.
+
+\textbf{Zbyt wiele strony biernej:}
+``Badanie zostało przeprowadzone, ankiety zostały rozesłane, dane zostały zebrane, wyniki zostały przeanalizowane, wnioski zostały sformułowane.''
+
+\textbf{Lepiej:}
+``Przeprowadzono badanie ankietowe. Zebrane dane poddano analizie statystycznej, co pozwoliło na sformułowanie wniosków.''
+\end{blad}
+
+\sectionbreak
+
+## Struktura akapitu — jedna myśl = jeden akapit
+
+Akapit to podstawowa jednostka kompozycyjna tekstu naukowego. Jego prawidłowe budowanie jest fundamentem klarownego pisania.
+
+\sectionheader{acadforest}{Czym jest akapit?}
+
+\begin{definicja}[Akapit]
+Akapit to fragment tekstu stanowiący logiczną całość, poświęcony \textbf{jednej myśli} lub \textbf{jednemu aspektowi} omawianego zagadnienia. Graficznie wyróżnia się wcięciem pierwszego wiersza lub odstępem od poprzedniego akapitu. Akapit składa się zwykle z 3--8 zdań.
+\end{definicja}
+
+\begin{zasada}[Złota zasada akapitu]
+\textbf{Jeden akapit = jedna myśl przewodnia.} Jeśli zaczynasz pisać o czymś nowym --- rozpocznij nowy akapit. Jeśli rozwijasz tę samą myśl --- kontynuuj w tym samym akapicie.
+\end{zasada}
+
+\sectionheader{acadforest}{Struktura modelowego akapitu}
+
+Dobrze zbudowany akapit naukowy ma wewnętrzną strukturę, którą można przedstawić schematycznie:
+
+\resetsteps
+
+\begin{krok}[acadforest]{Zdanie tematyczne (topic sentence)}
+Pierwsze zdanie akapitu zapowiada jego treść. Informuje czytelnika, o czym będzie mowa. Po przeczytaniu samych zdań tematycznych z kolejnych akapitów czytelnik powinien zrozumieć główny tok wywodu.
+\end{krok}
+
+\begin{krok}[acadforest]{Rozwinięcie}
+Kolejne zdania rozwijają, uzasadniają lub ilustrują myśl wyrażoną w zdaniu tematycznym. Mogą zawierać argumenty, dane, przykłady, cytaty lub wyjaśnienia.
+\end{krok}
+
+\begin{krok}[acadforest]{Zdanie zamykające (opcjonalnie)}
+Ostatnie zdanie może podsumowywać akapit lub stanowić pomost do następnego akapitu. Nie jest obowiązkowe w każdym akapicie.
+\end{krok}
+
+\begin{przyklad}[Struktura akapitu w praktyce]
+\textcolor{acadforest}{\textbf{[Zdanie tematyczne]}} Media społecznościowe zmieniły sposób komunikacji młodzieży. \textcolor{acadnavy}{\textbf{[Rozwinięcie]}} Badania przeprowadzone przez Kowalskiego (2022) wskazują, że 85\% nastolatków w wieku 15--18 lat codziennie korzysta z co najmniej jednej platformy społecznościowej. Dominującymi formami komunikacji stały się krótkie wiadomości tekstowe, emotikony oraz materiały wizualne (zdjęcia, filmy). Tradycyjne formy, takie jak rozmowy telefoniczne czy korespondencja e-mailowa, są przez młodzież postrzegane jako przestarzałe. \textcolor{acadcopper}{\textbf{[Zdanie zamykające]}} Ta zmiana ma istotne konsekwencje dla rozwoju kompetencji komunikacyjnych młodych ludzi, które zostaną omówione w kolejnej części pracy.
+\end{przyklad}
+
+\sectionheader{acadforest}{Błędy w budowie akapitów}
+
+\begin{blad}
+\textbf{Akapit-moloch}
+
+Akapit rozciągający się na całą stronę lub dłużej. Czytelnik traci orientację, o czym jest mowa. Zazwyczaj taki akapit zawiera wiele różnych myśli, które powinny zostać rozdzielone.
+
+\textbf{Rozwiązanie:} Przeczytaj taki akapit i zidentyfikuj poszczególne myśli. Każdą z nich umieść w osobnym akapicie.
+\end{blad}
+
+\begin{blad}
+\textbf{Akapit-zdanie}
+
+Akapit składający się z jednego zdania. Sprawia wrażenie nierozwiniętej myśli, notatki zamiast pełnego tekstu. Jeden akapit powinien zawierać minimum 2--3 zdania.
+
+\textbf{Rozwiązanie:} Rozwiń myśl --- dodaj uzasadnienie, przykład lub wyjaśnienie. Ewentualnie połącz z sąsiednim akapitem, jeśli dotyczą tego samego.
+\end{blad}
+
+\begin{blad}
+\textbf{Akapit-worek}
+
+Akapit, w którym pomieszane są różne, niepowiązane ze sobą myśli. Brakuje mu jedności tematycznej i logicznej spójności.
+
+\textbf{Rozwiązanie:} Zidentyfikuj różne wątki i rozdziel je do osobnych akapitów. Każdy akapit powinien mieć jedną myśl przewodnią.
+\end{blad}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Test poprawności akapitu:}
+\begin{forestlist}
+\item Czy mogę streścić ten akapit w jednym zdaniu?
+\item Czy wszystkie zdania w akapicie dotyczą tej samej myśli?
+\item Czy pierwsze zdanie zapowiada treść akapitu?
+\item Czy akapit nie jest ani za krótki (1 zdanie), ani za długi (ponad 10--12 zdań)?
+\item Czy kolejność zdań jest logiczna?
+\end{forestlist}
+Jeśli na któreś pytanie odpowiedź brzmi ``nie'' --- akapit wymaga poprawy.
+\end{tcolorbox}
+
+\sectionbreak
+
+## Łączniki i przejścia między fragmentami
+
+Tekst naukowy to nie zbiór luźnych akapitów --- to spójny wywód, w którym kolejne części logicznie z siebie wynikają. Spójność tę zapewniają łączniki (konektory) i wyrażenia przejściowe.
+
+\sectionheader{acadnavy}{Funkcje łączników}
+
+Łączniki pełnią różne funkcje logiczne --- sygnalizują czytelnikowi, jaki jest związek między poprzednim a następnym fragmentem tekstu.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Funkcja}} & \textcolor{white}{\textbf{Przykładowe łączniki}} \\
+Dodawanie & ponadto, ponadto, co więcej, dodatkowo, również, także, oprócz tego \\
+\rowcolor{acadlightnavy} Przeciwstawienie & jednak, jednakże, natomiast, z drugiej strony, niemniej, mimo to, aczkolwiek \\
+Przyczyna & ponieważ, gdyż, bowiem, ze względu na, z powodu, dlatego że \\
+\rowcolor{acadlightnavy} Skutek & dlatego, zatem, w rezultacie, w konsekwencji, w związku z tym, stąd \\
+Warunek & jeśli, jeżeli, pod warunkiem że, w przypadku gdy, o ile \\
+\rowcolor{acadlightnavy} Przykład & na przykład, przykładowo, dla ilustracji, między innymi \\
+Podsumowanie & podsumowując, reasumując, w konkluzji, ostatecznie, konkludując \\
+\rowcolor{acadlightnavy} Porównanie & podobnie, analogicznie, w porównaniu z, tak jak, w przeciwieństwie do \\
+Kolejność & po pierwsze, następnie, w dalszej kolejności, wreszcie, na koniec \\
+\rowcolor{acadlightnavy} Wyjaśnienie & innymi słowy, to znaczy, a mianowicie, czyli, to jest \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Jak stosować łączniki?}
+
+\begin{zasada}[Zasady stosowania łączników]
+\begin{navylist}
+\item \textbf{Stosuj świadomie} --- łącznik musi odpowiadać rzeczywistej relacji logicznej między fragmentami
+\item \textbf{Nie nadużywaj} --- nie każde zdanie musi zaczynać się od łącznika
+\item \textbf{Urozmaicaj} --- unikaj powtarzania tych samych łączników
+\item \textbf{Umieszczaj właściwie} --- łączniki mogą stać na początku zdania, ale też w jego środku
+\end{navylist}
+\end{zasada}
+
+\begin{blad}
+\textbf{Błąd: Łącznik niezgodny z logiką}
+
+``Respondenci wysoko ocenili jakość obsługi. \textbf{Jednak} większość z nich zadeklarowała chęć ponownego skorzystania z usług.''
+
+Problem: ``Jednak'' sygnalizuje kontrast, ale drugie zdanie nie jest w kontraście z pierwszym --- wręcz przeciwnie, wynika z niego. Poprawnie: ``Respondenci wysoko ocenili jakość obsługi. \textbf{W związku z tym} większość z nich zadeklarowała chęć ponownego skorzystania z usług.''
+\end{blad}
+
+\begin{przyklad}[Łączniki w tekście]
+``Teoria X zakłada, że pracownicy są z natury leniwi i unikają odpowiedzialności. \textbf{W związku z tym} kierownik stosujący tę teorię będzie preferował ścisłą kontrolę i nadzór. \textbf{Z drugiej strony} teoria Y przyjmuje, że praca jest dla człowieka naturalna, a pracownicy są zdolni do samokontroli. \textbf{Konsekwentnie}, menedżer wyznający teorię Y będzie delegował uprawnienia i dawał pracownikom autonomię. \textbf{Jak wynika z powyższego}, wybór stylu zarządzania zależy od założeń dotyczących natury ludzkiej.''
+\end{przyklad}
+
+\sectionheader{acadnavy}{Przejścia między rozdziałami i podrozdziałami}
+
+Większe fragmenty tekstu (rozdziały, podrozdziały) również wymagają płynnych przejść. Koniec rozdziału może zapowiadać treść następnego, a początek nowego rozdziału może nawiązywać do poprzedniego.
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Formuły przejść między rozdziałami:}
+
+\textbf{Na końcu rozdziału:}
+\begin{goldlist}
+\item ``Przedstawione w niniejszym rozdziale zagadnienia stanowią podstawę do analizy..., która zostanie przeprowadzona w kolejnej części pracy.''
+\item ``Omówione teorie zostaną wykorzystane do interpretacji wyników badań własnych, prezentowanych w rozdziale trzecim.''
+\end{goldlist}
+
+\textbf{Na początku rozdziału:}
+\begin{goldlist}
+\item ``W poprzednim rozdziale omówiono... Niniejszy rozdział poświęcony jest...''
+\item ``Na podstawie ustaleń teoretycznych z rozdziału pierwszego, w tej części pracy przedstawiono...''
+\end{goldlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Jak unikać ``lania wody''?
+
+``Lanie wody'' to potoczne określenie na wypełnianie tekstu treściami zbędnymi, powtórzeniami i pustymi frazami w celu zwiększenia objętości. Jest to jeden z najpoważniejszych grzechów stylistycznych w pracy naukowej.
+
+\sectionheader{acadburgundy}{Czym jest ``lanie wody''?}
+
+\begin{definicja}[Lanie wody]
+``Lanie wody'' to wypełnianie tekstu treściami, które nie wnoszą nowej informacji, nie rozwijają argumentacji i nie służą realizacji celów pracy. Może przybierać formę: zbędnych powtórzeń, pustych fraz, dygresji, nadmiernego cytowania oczywistości lub rozwlekłego stylu.
+\end{definicja}
+
+\sectionheader{acadburgundy}{Formy ``lania wody''}
+
+\begin{blad}
+\textbf{Forma 1: Powtarzanie tej samej myśli innymi słowami}
+
+``Komunikacja jest ważna w organizacji. Znaczenie komunikacji w firmie jest nie do przecenienia. Trudno wyobrazić sobie sprawnie funkcjonujące przedsiębiorstwo bez skutecznej komunikacji. Komunikowanie się jest fundamentem działania każdej organizacji.''
+
+Cztery zdania mówią dokładnie to samo. Wystarczyłoby jedno.
+\end{blad}
+
+\begin{blad}
+\textbf{Forma 2: Oczywistości i banały}
+
+``Od zarania dziejów ludzkość boryka się z problemami. Problemy są nieodłączną częścią ludzkiego życia. Każdy człowiek napotyka w swoim życiu różnorodne trudności, które musi przezwyciężać.''
+
+To truizmy, które nie wnoszą nic do pracy naukowej. Każdy to wie --- nie trzeba tego pisać.
+\end{blad}
+
+\begin{blad}
+\textbf{Forma 3: Zbędne wprowadzenia i zapowiedzi}
+
+``W niniejszym podrozdziale zostanie omówione zagadnienie motywacji pracowników. Motywacja jest tematem, któremu poświęcono wiele miejsca w literaturze. Wielu autorów zajmowało się tym problemem. Poniżej zostaną przedstawione wybrane teorie motywacji, które są istotne z punktu widzenia niniejszej pracy.''
+
+Zamiast pisać, że coś zostanie omówione --- po prostu to omów.
+\end{blad}
+
+\begin{blad}
+\textbf{Forma 4: Nadmierne cytowanie definicji słownikowych}
+
+``Według Słownika Języka Polskiego PWN, `organizacja' to `grupa ludzi mająca określony cel i strukturę'. Z kolei Encyklopedia PWN definiuje organizację jako `celowo zaprojektowany i wykonany twór społeczny'. W Wikipedii można przeczytać, że...''
+
+Cytowanie ogólnych definicji ze słowników jest uzasadnione tylko wtedy, gdy definiujesz termin kluczowy, który może być różnie rozumiany. W większości przypadków jest to zbędne.
+\end{blad}
+
+\sectionheader{acadforest}{Jak unikać ``lania wody''?}
+
+\begin{zasada}[Techniki eliminacji zbędnej treści]
+\begin{navylist}
+\item \textbf{Pisz celowo} --- przed napisaniem każdego akapitu zastanów się, jaką funkcję ma pełnić i jaką informację przekazać
+\item \textbf{Zadawaj pytanie ``i co z tego?''} --- po każdym zdaniu zapytaj, czy wnosi coś nowego
+\item \textbf{Usuwaj zbędne słowa} --- podczas redakcji systematycznie skracaj zdania
+\item \textbf{Unikaj podwójnych wyrażeń} --- ``jasny i klarowny'', ``ważny i istotny'' --- wystarczy jedno
+\item \textbf{Nie pisz o tym, co napiszesz} --- zamiast zapowiadać, od razu przedstawiaj treść
+\item \textbf{Eliminuj ``wypełniacze''} --- ``w zasadzie'', ``niejako'', ``poniekąd'', ``właściwie'' itp.
+\end{navylist}
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{``Lanie wody''}} & \textcolor{white}{\textbf{Wersja zwięzła}} \\
+W dniu dzisiejszym & Dziś / Obecnie \\
+\rowcolor{acadlightforest} W chwili obecnej & Obecnie / Teraz \\
+Przeprowadzono badanie mające na celu & Zbadano \\
+\rowcolor{acadlightforest} Jest rzeczą oczywistą, że & (pominąć --- jeśli oczywiste, nie trzeba pisać) \\
+Jak powszechnie wiadomo & (pominąć lub podać źródło) \\
+\rowcolor{acadlightforest} Nie ulega żadnej wątpliwości & Niewątpliwie / (pominąć) \\
+Należy w tym miejscu zauważyć, że & (pominąć --- od razu napisać, co zauważono) \\
+\rowcolor{acadlightforest} Z całą pewnością można stwierdzić & (pominąć lub napisać wprost tezę) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Po napisaniu fragmentu tekstu przeczytaj go głośno. Miejsca, w których ``potykasz się'' lub czujesz znużenie, najprawdopodobniej wymagają skrócenia lub przeformułowania. Słuch często wyłapuje rozwlekłość lepiej niż wzrok.
+\end{wskazowka}
+
+\begin{przyklad}[Eliminacja ``lania wody'']
+\textbf{Przed korektą (78 słów):}
+``W niniejszym rozdziale zostanie podjęta próba przedstawienia i omówienia podstawowych teorii motywacji pracowników, które są istotne z punktu widzenia problematyki poruszanej w niniejszej pracy. Jak powszechnie wiadomo, motywacja jest zagadnieniem niezwykle ważnym i istotnym w kontekście zarządzania zasobami ludzkimi. Wielu badaczy i naukowców poświęciło temu tematowi wiele uwagi. Poniżej zostaną przedstawione wybrane koncepcje.''
+
+\textbf{Po korekcie (24 słowa):}
+``W tym rozdziale omówiono podstawowe teorie motywacji pracowników: teorię potrzeb Maslowa, dwuczynnikową teorię Herzberga oraz teorię oczekiwań Vrooma.''
+\end{przyklad}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy fundamenty stylu naukowego: prostotę, precyzję i treściwość. Poznaliśmy najczęstsze błędy stylistyczne studentów oraz zasady budowania akapitów i stosowania łączników. Dowiedzieliśmy się również, jak rozpoznać i eliminować ``lanie wody''.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Styl naukowy opiera się na trzech filarach: prostota, precyzja, treściwość
+\item Prostota nie oznacza prymitywizmu --- to sztuka jasnego wyrażania złożonych myśli
+\item Precyzja wymaga konkretnych danych zamiast określeń jakościowych (``73\%'' zamiast ``większość'')
+\item Treściwość to maksimum informacji przy minimum słów
+\item Unikaj pleonazmów, makaronizmów, stylu potocznego i patetycznego
+\item Jeden akapit = jedna myśl przewodnia; modelowy akapit ma 3--8 zdań
+\item Zdanie tematyczne (pierwsze w akapicie) zapowiada treść całego akapitu
+\item Łączniki sygnalizują relacje logiczne między fragmentami tekstu
+\item ``Lanie wody'' to powtórzenia, banały, zbędne wprowadzenia i puste frazy
+\item Po napisaniu tekstu zadawaj pytanie ``i co z tego?'' przy każdym zdaniu
+\item Dobry tekst naukowy jest zrozumiały przy pierwszym czytaniu
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie praktyczne: Weź dowolny akapit ze swojej pracy i spróbuj skrócić go o połowę, zachowując całą istotną treść. Jeśli się uda --- prawdopodobnie oryginał zawierał ``wodę''. Jeśli nie da się skrócić bez straty sensu --- akapit jest dobrze napisany.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się cytowaniem i przypisami --- zasadami, które pozwolą Ci prawidłowo odwoływać się do źródeł i uniknąć zarzutu plagiatu.

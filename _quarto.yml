@@ -13,6 +13,17 @@ book:
     - index.qmd
     - chapters/01-wprowadzenie.qmd
     - chapters/02-wybor-tematu.qmd
+    - chapters/03-przeglad-literatury.qmd
+    - chapters/04-plan-pracy.qmd
+    - chapters/05-strona-tytulowa.qmd
+    - chapters/06-wstep.qmd
+    - chapters/07-rozdzialy-teoretyczne.qmd
+    - chapters/08-metodologia.qmd
+    - chapters/09-analiza-wynikow.qmd
+    - chapters/10-zakonczenie.qmd
+    - chapters/11-pisanie-tekstow-naukowych.qmd
+    - chapters/12-cytaty.qmd
+    - chapters/13-przypisy.qmd
 
 format:
   pdf:

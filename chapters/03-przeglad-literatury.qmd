@@ -1,0 +1,523 @@
+---
+pagetitle: "Przegląd literatury"
+---
+
+\pagestyle{zrodla}
+\thispagestyle{zrodla}
+
+# Przegląd literatury — jak szukać i co czytać
+
+\sectionheader{acadforest}{Fundament teoretyczny Twojej pracy}
+
+Przegląd literatury to jeden z najważniejszych etapów pisania pracy licencjackiej. To właśnie na tym fundamencie zbudujesz całą swoją argumentację. Bez solidnej znajomości tego, co napisali inni badacze, nie jesteś w stanie sformułować sensownych pytań badawczych, wybrać właściwej metodologii ani wyciągnąć wartościowych wniosków.
+
+Kwerenda bibliograficzna służy kilku celom: pozwala zweryfikować, czy Twój temat ma oparcie w nauce, dostarcza ram teoretycznych dla Twoich rozważań, pokazuje aktualny stan wiedzy w danym obszarze oraz pomaga zidentyfikować luki badawcze, które możesz wypełnić swoją pracą.
+
+\begin{definicja}[Przegląd literatury]
+Przegląd literatury (ang. \textit{literature review}) to systematyczne wyszukiwanie, analizowanie i syntetyzowanie istniejących publikacji naukowych związanych z tematem badawczym. Celem jest nie tylko zebranie informacji, ale przede wszystkim krytyczna ocena dotychczasowych badań i określenie, jak Twoja praca wpisuje się w szerszy kontekst naukowy.
+\end{definicja}
+
+\begin{wazne}
+Przegląd literatury to \textbf{nie} przepisywanie streszczeń kolejnych książek. To krytyczna analiza i synteza --- musisz pokazać, jak różne źródła łączą się ze sobą, gdzie są zgodni, a gdzie się różnią, i jak to wszystko odnosi się do Twojego problemu badawczego.
+\end{wazne}
+
+## Gdzie szukać literatury naukowej?
+
+Istnieje wiele miejsc, w których możesz znaleźć wartościowe źródła do swojej pracy. Kluczem jest korzystanie z \textbf{wiarygodnych} źródeł akademickich, a nie przypadkowych stron internetowych.
+
+\sectionheader{acadnavy}{Biblioteki — tradycyjne i cyfrowe}
+
+Biblioteka akademicka to wciąż jedno z najlepszych miejsc do poszukiwania literatury. Oprócz księgozbioru fizycznego, większość bibliotek oferuje dostęp do elektronicznych baz danych i czasopism.
+
+\begin{navylist}
+\item \textbf{Biblioteka Twojej uczelni} --- zawsze zacznij tutaj. Masz bezpłatny dostęp do zbiorów, a bibliotekarze mogą pomóc w wyszukiwaniu.
+
+\item \textbf{Biblioteka Narodowa} (\texttt{bn.org.pl}) --- największy zbiór publikacji polskich; katalog online pozwala na przeszukiwanie polskiej bibliografii.
+
+\item \textbf{Biblioteki uniwersyteckie} --- wiele udostępnia katalogi online i zasoby cyfrowe; sprawdź biblioteki innych uczelni w Twoim mieście.
+
+\item \textbf{Federacja Bibliotek Cyfrowych} (\texttt{fbc.pionier.net.pl}) --- agreguje zasoby polskich bibliotek cyfrowych; wiele pełnych tekstów dostępnych bezpłatnie.
+
+\item \textbf{Katalog NUKAT} (\texttt{nukat.edu.pl}) --- centralny katalog polskich bibliotek naukowych i akademickich; pozwala sprawdzić, która biblioteka ma daną książkę.
+\end{navylist}
+
+\begin{wskazowka}
+Jeśli potrzebna Ci książka jest dostępna tylko w bibliotece w innym mieście, możesz skorzystać z wypożyczalni międzybibliotecznej. Zapytaj w swojej bibliotece uczelnianej o tę usługę --- zwykle jest bezpłatna lub niskokosztowa.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Naukowe bazy danych}
+
+Bazy danych naukowych to Twoje główne narzędzie pracy. Umożliwiają przeszukiwanie tysięcy artykułów, książek i innych publikacji według słów kluczowych, autorów czy tematów.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Baza danych}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Google Scholar & Bezpłatna; szeroki zakres; dobra na początek, ale wymaga weryfikacji jakości \\
+\rowcolor{acadlightforest} JSTOR & Czasopisma naukowe z wielu dziedzin; dostęp przez bibliotekę uczelnianą \\
+ScienceDirect & Nauki ścisłe, techniczne, medyczne; artykuły Elsevier \\
+\rowcolor{acadlightforest} Web of Science & Prestiżowa baza; indeksy cytowań; dostęp przez uczelnię \\
+Scopus & Podobna do WoS; silna w naukach ścisłych i społecznych \\
+\rowcolor{acadlightforest} EBSCO & Zbiór wielu baz; często dostępna przez biblioteki \\
+BazEkon & Polskie publikacje ekonomiczne; bezpłatna \\
+\rowcolor{acadlightforest} CEJSH & Polskie czasopisma z nauk humanistycznych i społecznych \\
+PubMed & Nauki medyczne i biomedyczne; bezpłatna \\
+\rowcolor{acadlightforest} ERIC & Nauki o edukacji; bezpłatna \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Dostęp do płatnych baz]
+Wiele baz danych (JSTOR, ScienceDirect, Web of Science) jest płatnych, ale Twoja uczelnia prawdopodobnie wykupiła do nich dostęp. Zaloguj się przez system biblioteczny uczelni lub skorzystaj z komputerów w bibliotece. Jeśli jesteś poza kampusem, poszukaj opcji VPN lub zdalnego dostępu (np. HAN, proxy).
+\end{przyklad}
+
+\sectionheader{acadnavy}{Google Scholar — Twój przyjaciel (z ograniczeniami)}
+
+Google Scholar (\texttt{scholar.google.pl}) to najpopularniejsze narzędzie do wyszukiwania literatury naukowej. Jest bezpłatny i prosty w obsłudze, ale wymaga umiejętnego korzystania.
+
+\begin{forestlist}
+\item Indeksuje artykuły naukowe, książki, prace dyplomowe, raporty
+\item Pokazuje liczbę cytowań --- możesz ocenić, jak wpływowa jest dana praca
+\item Umożliwia śledzenie cytowań i powiązanych artykułów
+\item Często linkuje do pełnych tekstów (PDF)
+\item Pozwala tworzyć alerty na nowe publikacje w danym temacie
+\end{forestlist}
+
+\begin{blad}
+\textbf{Pułapka Google Scholar:} Nie wszystko, co znajdziesz w Google Scholar, jest wartościowe naukowo. Baza indeksuje również artykuły z czasopism o wątpliwej jakości, prace studenckie i materiały nieprzeszłe przez recenzję naukową. Zawsze weryfikuj źródło!
+\end{blad}
+
+\begin{wskazowka}
+W Google Scholar kliknij ``Cytowane przez'' pod artykułem, żeby zobaczyć nowsze prace, które go cytują. To świetny sposób na znalezienie aktualnych publikacji nawiązujących do klasycznych tekstów.
+\end{wskazowka}
+
+\sectionbreak
+
+## Jak efektywnie wyszukiwać?
+
+Samo wpisanie tematu w wyszukiwarkę to dopiero początek. Efektywne wyszukiwanie wymaga strategii.
+
+\sectionheader{acadnavy}{Słowa kluczowe}
+
+Zanim zaczniesz szukać, przygotuj listę słów kluczowych związanych z Twoim tematem. Pomyśl o synonimach, terminach pokrewnych i wersjach w języku angielskim.
+
+\begin{przyklad}[Przygotowanie słów kluczowych]
+Temat: ``Motywacja pracowników w firmach IT''
+
+\textbf{Słowa kluczowe po polsku:}
+\begin{goldlist}
+\item motywacja, motywowanie, systemy motywacyjne
+\item pracownicy, kadra, zespół, personel
+\item IT, informatyka, branża technologiczna, sektor ICT
+\item satysfakcja z pracy, zaangażowanie, retencja
+\end{goldlist}
+
+\textbf{Słowa kluczowe po angielsku:}
+\begin{goldlist}
+\item motivation, employee motivation, work motivation
+\item IT industry, tech sector, software developers, programmers
+\item job satisfaction, employee engagement, retention
+\item incentives, rewards, compensation
+\end{goldlist}
+\end{przyklad}
+
+\begin{wazne}
+Szukaj także w języku angielskim! Zdecydowana większość literatury naukowej na świecie jest publikowana po angielsku. Ograniczając się do polskich źródeł, tracisz dostęp do ogromnej części wiedzy.
+\end{wazne}
+
+\sectionheader{acadnavy}{Operatory wyszukiwania}
+
+Większość baz danych i Google Scholar obsługuje operatory logiczne, które pozwalają precyzyjnie formułować zapytania.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Operator}} & \textcolor{white}{\textbf{Działanie i przykład}} \\
+Cudzysłów ``...'' & Szuka dokładnej frazy: ``employee motivation'' \\
+\rowcolor{acadlightnavy} AND (lub spacja) & Oba terminy muszą wystąpić: motivation AND IT \\
+OR & Którykolwiek z terminów: programmer OR developer \\
+\rowcolor{acadlightnavy} - (minus) & Wyklucza termin: motivation -financial \\
+* (gwiazdka) & Zastępuje końcówkę: motiv* (znajdzie motivation, motivating...) \\
+\rowcolor{acadlightnavy} intitle: & Szuka w tytule: intitle:``employee engagement'' \\
+author: & Szuka autora: author:Herzberg \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Zaawansowane zapytanie]
+Chcesz znaleźć artykuły o motywacji pozafinansowej programistów, ale nie interesują Cię wynagrodzenia:
+
+\texttt{``non-financial motivation'' AND (programmer OR developer OR ``software engineer'') -salary -compensation}
+
+To zapytanie zwróci znacznie trafniejsze wyniki niż proste wpisanie ``motywacja programistów''.
+\end{przyklad}
+
+\sectionheader{acadnavy}{Strategia ``śnieżnej kuli''}
+
+Jedna z najskuteczniejszych technik wyszukiwania to metoda ``śnieżnej kuli'' (\textit{snowball method}):
+
+\resetsteps
+
+\begin{krok}[acadforest]{Znajdź jeden dobry artykuł}
+Zacznij od znalezienia jednego wartościowego, często cytowanego artykułu na Twój temat --- najlepiej artykułu przeglądowego (\textit{review article}).
+\end{krok}
+
+\begin{krok}[acadforest]{Przejrzyj bibliografię}
+Sprawdź, jakie źródła cytuje ten artykuł. To gotowa lista sprawdzonej literatury na Twój temat.
+\end{krok}
+
+\begin{krok}[acadforest]{Sprawdź, kto cytuje ten artykuł}
+W Google Scholar kliknij ``Cytowane przez''. Znajdziesz nowsze publikacje, które nawiązują do tego samego tematu.
+\end{krok}
+
+\begin{krok}[acadforest]{Powtórz dla każdego wartościowego źródła}
+Każde nowe źródło może prowadzić do kolejnych. W ten sposób ``kula śnieżna'' rośnie.
+\end{krok}
+
+\begin{wskazowka}
+Szukaj artykułów przeglądowych (\textit{literature review}, \textit{systematic review}, \textit{meta-analysis}). Autorzy takich artykułów już wykonali za Ciebie pracę przeglądu literatury --- ich bibliografia to kopalnia źródeł.
+\end{wskazowka}
+
+\sectionbreak
+
+## Jak odróżnić źródło naukowe od ``śmieciowego''?
+
+Nie wszystko, co znajdziesz w Internecie (nawet w Google Scholar), nadaje się do pracy licencjackiej. Musisz umieć odróżnić wiarygodne źródła naukowe od materiałów o wątpliwej jakości.
+
+\sectionheader{acadforest}{Cechy wiarygodnego źródła naukowego}
+
+\begin{forestlist}
+\item \textbf{Recenzja naukowa} (\textit{peer review}) --- artykuł został oceniony przez innych ekspertów przed publikacją
+\item \textbf{Znane wydawnictwo} --- publikacja ukazała się w uznanym wydawnictwie naukowym lub czasopiśmie
+\item \textbf{Afiliacja autora} --- autor jest związany z uczelnią lub instytucją badawczą
+\item \textbf{Bibliografia} --- praca zawiera odniesienia do innych źródeł naukowych
+\item \textbf{Metodologia} --- w przypadku badań empirycznych opisana jest metoda badawcza
+\item \textbf{Obiektywny ton} --- brak emocjonalnego języka, reklamy, propagandy
+\end{forestlist}
+
+\sectionheader{acadburgundy}{Źródła, których należy unikać}
+
+\begin{burgundylist}
+\item Artykuły z Wikipedii (można użyć jako punkt wyjścia, ale nie cytować)
+\item Posty na blogach, forach internetowych, w mediach społecznościowych
+\item Artykuły bez podanego autora
+\item Strony komercyjne i reklamowe
+\item Notatki innych studentów (np. z serwisów typu ``ściąga.pl'')
+\item Artykuły z czasopism ``drapieżnych'' (\textit{predatory journals})
+\end{burgundylist}
+
+\begin{definicja}[Czasopisma drapieżne]
+Czasopisma drapieżne (\textit{predatory journals}) to publikacje, które pobierają opłaty za publikację, ale nie przeprowadzają rzetelnej recenzji naukowej. Publikują niemal wszystko za pieniądze. Artykuły z takich czasopism nie są wiarygodnym źródłem. Sprawdź, czy czasopismo jest na liście czasopism punktowanych MNiSW.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Typ źródła}} & \textcolor{white}{\textbf{Czy cytować w pracy licencjackiej?}} \\
+Artykuł z recenzowanego czasopisma & \statusok~Tak --- to podstawowe źródło naukowe \\
+\rowcolor{acadlightcopper} Monografia naukowa & \statusok~Tak --- szczególnie wartościowe \\
+Rozdział w pracy zbiorowej & \statusok~Tak --- pod warunkiem, że to wydawnictwo naukowe \\
+\rowcolor{acadlightcopper} Praca doktorska / habilitacyjna & \statusok~Tak --- przeszła recenzję \\
+Raport instytucji (GUS, NBP, UE) & \statusok~Tak --- wiarygodne dane \\
+\rowcolor{acadlightcopper} Artykuł z prasy branżowej & \statuswarn~Ostrożnie --- jako uzupełnienie, nie podstawa \\
+Podręcznik akademicki & \statuswarn~Ostrożnie --- raczej do definicji, nie jako główne źródło \\
+\rowcolor{acadlightcopper} Wikipedia & \statuserror~Nie --- co najwyżej jako punkt wyjścia do szukania \\
+Blog, forum, social media & \statuserror~Nie --- brak weryfikacji naukowej \\
+\rowcolor{acadlightcopper} Notatki z serwisów studenckich & \statuserror~Absolutnie nie --- mogą zawierać błędy \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Typowy błąd:} ``Znalazłem świetny artykuł na jakiejś stronie, ale nie wiem, kto jest autorem ani skąd pochodzi. Ale brzmi mądrze, więc zacytuję.''
+
+Nigdy nie cytuj źródła, którego nie jesteś w stanie zweryfikować. Jeśli nie wiesz, kto napisał tekst i gdzie był opublikowany --- nie używaj go.
+\end{blad}
+
+\begin{wskazowka}
+Sprawdź czasopismo na liście czasopism punktowanych Ministerstwa Nauki (dostępna online). Jeśli czasopismo ma przypisane punkty, możesz być pewien, że przeszło weryfikację jakości.
+\end{wskazowka}
+
+\sectionbreak
+
+## Rodzaje źródeł naukowych
+
+Różne typy źródeł pełnią różne funkcje w Twojej pracy. Warto znać te różnice.
+
+\sectionheader{acadnavy}{Podział ze względu na typ publikacji}
+
+\begin{definicja}[Monografia]
+Monografia to książka naukowa poświęcona jednemu tematowi, napisana przez jednego autora lub zespół autorów. Przykład: ``Psychologia motywacji'' autorstwa X.Y. To dogłębne opracowanie tematu, idealne do zrozumienia szerszego kontekstu.
+\end{definicja}
+
+\begin{definicja}[Praca zbiorowa]
+Praca zbiorowa to książka składająca się z rozdziałów napisanych przez różnych autorów, zebranych przez redaktora. Przykład: ``Współczesne metody zarządzania'' pod red. A.B. Każdy rozdział to osobna publikacja.
+\end{definicja}
+
+\begin{definicja}[Artykuł naukowy]
+Artykuł naukowy to tekst opublikowany w czasopiśmie naukowym, zwykle o objętości 10--30 stron, prezentujący wyniki badań lub analizę teoretyczną. To podstawowe ``cegiełki'' nauki --- najbardziej aktualne źródła wiedzy.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kiedy używać jakiego typu źródła?}
+\begin{goldlist}
+\item \textbf{Monografie i podręczniki} --- do wprowadzenia teoretycznego, definicji pojęć, opisu klasycznych teorii
+\item \textbf{Artykuły naukowe} --- do przedstawienia aktualnego stanu badań, najnowszych wyników, szczegółowych analiz
+\item \textbf{Raporty i statystyki} --- do przedstawienia danych empirycznych, kontekstu rynkowego/społecznego
+\item \textbf{Akty prawne} --- gdy temat wymaga odniesienia do regulacji
+\end{goldlist}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Źródła pierwotne vs wtórne}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadslate, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadslate}\textcolor{white}{\textbf{Źródła pierwotne}} & \textcolor{white}{\textbf{Źródła wtórne}} \\
+Oryginalne badania, dane surowe & Opracowania, analizy cudzych badań \\
+\rowcolor{acadlightslate} Artykuły prezentujące własne badania autora & Artykuły przeglądowe, podręczniki \\
+Dokumenty historyczne, akty prawne & Komentarze do aktów prawnych \\
+\rowcolor{acadlightslate} Wywiady, ankiety (Twoje własne) & Omówienia cudzych wyników \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Preferencja dla źródeł pierwotnych]
+W miarę możliwości sięgaj do źródeł pierwotnych. Jeśli autor A opisuje badania autora B, znajdź oryginalną publikację B i ją zacytuj. Cytowanie ``z drugiej ręki'' zwiększa ryzyko przekłamań i jest gorzej postrzegane.
+\end{zasada}
+
+\sectionbreak
+
+## System notatek i fiszek — organizacja materiałów
+
+Zbieranie literatury bez systemu to przepis na chaos. Po kilku tygodniach nie będziesz pamiętać, co przeczytałeś i gdzie znalazłeś daną informację.
+
+\sectionheader{acadnavy}{Zasady efektywnego notowania}
+
+\begin{navylist}
+\item \textbf{Notuj od razu} --- nie odkładaj ``na później''. Zaraz po przeczytaniu artykułu zapisz najważniejsze informacje.
+
+\item \textbf{Zawsze zapisuj źródło} --- autor, tytuł, rok, strony. Bez tego nie będziesz w stanie zacytować.
+
+\item \textbf{Oddzielaj streszczenie od własnych myśli} --- wyraźnie zaznacz, co jest parafrazą/cytatem, a co Twoim komentarzem.
+
+\item \textbf{Notuj numery stron} --- przy każdej ważnej informacji zapisz stronę. Później zaoszczędzisz godziny szukania.
+
+\item \textbf{Używaj własnych słów} --- parafrazuj podczas notowania. Jeśli przepisujesz dosłownie, weź w cudzysłów.
+
+\item \textbf{Oceniaj przydatność} --- zaznacz, jak bardzo źródło jest przydatne dla Twojego tematu (np. skala 1--5).
+\end{navylist}
+
+\begin{przyklad}[Wzór fiszki/notatki]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{ŹRÓDŁO:} Kowalski, J. (2020). Motywacja w zespołach IT. \textit{Zarządzanie Zasobami Ludzkimi}, 3(45), 23--41.
+
+\textbf{SŁOWA KLUCZOWE:} motywacja, IT, programiści, praca zdalna
+
+\textbf{GŁÓWNE TEZY:}
+\begin{itemize}[leftmargin=*, itemsep=2pt]
+\item Programiści cenią autonomię bardziej niż wynagrodzenie (s. 28)
+\item Praca zdalna zwiększa satysfakcję, ale utrudnia budowanie zespołu (s. 31--32)
+\item Model Herzberga dobrze opisuje motywację w IT (s. 35)
+\end{itemize}
+
+\textbf{CYTATY:} ``Autonomia w wyborze narzędzi i metod pracy jest dla programistów ważniejsza niż podwyżka rzędu 10\%'' (s. 28)
+
+\textbf{MÓJ KOMENTARZ:} Bardzo przydatne! Potwierdza moją hipotezę. Użyć w rozdziale 2. Sprawdzić oryginalne badanie Herzberga.
+
+\textbf{OCENA PRZYDATNOŚCI:} 5/5
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Narzędzia do zarządzania bibliografią}
+
+Ręczne zarządzanie dziesiątkami źródeł jest żmudne i podatne na błędy. Skorzystaj z programów do zarządzania bibliografią:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Program}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Zotero & Bezpłatny, open source; wtyczka do przeglądarki; integracja z Word \\
+\rowcolor{acadlightforest} Mendeley & Bezpłatny; własność Elsevier; dobre funkcje społecznościowe \\
+EndNote & Płatny; profesjonalny; często dostępny przez uczelnie \\
+\rowcolor{acadlightforest} Citavi & Płatny; popularny w Niemczech; rozbudowane funkcje notatek \\
+JabRef & Bezpłatny; dla użytkowników LaTeX/BibTeX \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Zotero to świetny wybór dla początkujących --- jest bezpłatny, łatwy w obsłudze i automatycznie pobiera dane bibliograficzne ze stron internetowych. Zainstaluj wtyczkę do przeglądarki i rozszerzenie do Worda.
+\end{wskazowka}
+
+\begin{przyklad}[Korzyści z programu bibliograficznego]
+\begin{forestlist}
+\item Automatyczne generowanie przypisów w wybranym stylu (APA, Chicago, itd.)
+\item Automatyczne tworzenie bibliografii --- koniec z ręcznym formatowaniem
+\item Przechowywanie PDF-ów wraz z metadanymi
+\item Wyszukiwanie w swoich notatkach i źródłach
+\item Synchronizacja między urządzeniami
+\item Eksport do różnych formatów
+\end{forestlist}
+\end{przyklad}
+
+\sectionbreak
+
+## Ile pozycji w bibliografii?
+
+To jedno z najczęstszych pytań studentów. Odpowiedź: \textbf{tyle, ile potrzebujesz, żeby rzetelnie omówić temat}.
+
+\sectionheader{acadnavy}{Orientacyjne minimum}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Typ pracy}} & \textcolor{white}{\textbf{Orientacyjna liczba źródeł}} \\
+Praca licencjacka (teoretyczna) & 20--35 pozycji \\
+\rowcolor{acadlightcopper} Praca licencjacka (empiryczna) & 15--30 pozycji \\
+Praca magisterska & 40--60 pozycji \\
+\rowcolor{acadlightcopper} Praca doktorska & 100+ pozycji \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Powyższe liczby to \textbf{orientacyjne minimum}, nie cel sam w sobie. Nie chodzi o to, żeby ``dobić'' do 25 pozycji, tylko o to, żeby \textbf{wyczerpać literaturę bezpośrednio związaną z Twoim tematem}. Lepiej 20 trafionych źródeł niż 40 przypadkowych.
+\end{wazne}
+
+\begin{zasada}[Jakość ponad ilość]
+Liczy się jakość, nie ilość. 15 dobrze dobranych, aktualnych artykułów z recenzowanych czasopism jest więcej warte niż 30 przypadkowych pozycji zebranych ``na ilość''. Recenzent natychmiast zauważy, czy bibliografia jest przemyślana.
+\end{zasada}
+
+\sectionheader{acadnavy}{Struktura dobrej bibliografii}
+
+Dobra bibliografia powinna zawierać:
+
+\begin{navylist}
+\item \textbf{Pozycje klasyczne} --- fundamentalne prace dla danego tematu, często starsze, ale wciąż cytowane
+\item \textbf{Pozycje aktualne} --- publikacje z ostatnich 5 lat pokazujące aktualny stan wiedzy
+\item \textbf{Różnorodność typów} --- nie tylko książki albo nie tylko artykuły, ale mix
+\item \textbf{Źródła polskie i zagraniczne} --- chyba że temat dotyczy wyłącznie Polski
+\item \textbf{Źródła empiryczne i teoretyczne} --- zarówno badania, jak i koncepcje
+\end{navylist}
+
+\begin{blad}
+\textbf{Błąd:} Bibliografia składająca się wyłącznie z podręczników i książek sprzed 15 lat.
+
+Problem: Brak aktualnych artykułów sugeruje, że student nie zna najnowszych badań. Nauka się rozwija --- musisz pokazać, że jesteś na bieżąco.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd:} Bibliografia składająca się wyłącznie ze źródeł internetowych bez artykułów z czasopism.
+
+Problem: Sugeruje to, że student nie korzystał z naukowych baz danych i opierał się na łatwo dostępnych materiałach z Internetu.
+\end{blad}
+
+\begin{przyklad}[Proporcje w bibliografii (przykład)]
+Praca licencjacka o marketingu w mediach społecznościowych --- 25 pozycji:
+\begin{goldlist}
+\item Monografie i podręczniki: 5--7 (podstawy teoretyczne marketingu)
+\item Artykuły z czasopism naukowych: 10--12 (aktualne badania)
+\item Raporty branżowe (np. IAB, Gemius): 3--4 (dane rynkowe)
+\item Źródła internetowe (oficjalne): 2--3 (np. statystyki platform)
+\item Akty prawne (jeśli dotyczy): 1--2 (np. RODO)
+\end{goldlist}
+\end{przyklad}
+
+\sectionbreak
+
+## Organizacja przeglądu literatury w pracy
+
+Przegląd literatury może być zorganizowany na różne sposoby. Wybór zależy od tematu i preferencji promotora.
+
+\sectionheader{acadnavy}{Sposoby organizacji}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Organizacja}} & \textcolor{white}{\textbf{Kiedy stosować?}} \\
+Tematyczna & Grupujesz źródła według tematów/zagadnień --- najczęstsza w licencjatach \\
+\rowcolor{acadlightnavy} Chronologiczna & Pokazujesz rozwój myśli w czasie --- gdy ważna jest historia zagadnienia \\
+Metodologiczna & Grupujesz według metod badawczych --- w pracach porównujących podejścia \\
+\rowcolor{acadlightnavy} Teoretyczna & Grupujesz według szkół/teorii --- gdy konfrontujesz różne koncepcje \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Przegląd literatury \textbf{nie jest} osobnym rozdziałem zatytułowanym ``Przegląd literatury''. Jest wpleciony w rozdziały teoretyczne Twojej pracy. Omawiasz literaturę przy okazji prezentowania teorii, definicji i dotychczasowych badań.
+\end{wazne}
+
+\begin{przyklad}[Organizacja tematyczna]
+W pracy o motywacji pracowników IT możesz podzielić rozdział teoretyczny na:
+\begin{navylist}
+\item Podrozdział 1: Pojęcie i teorie motywacji (literatura o motywacji ogólnie)
+\item Podrozdział 2: Specyfika pracy w branży IT (literatura o IT)
+\item Podrozdział 3: Dotychczasowe badania motywacji w IT (łączenie obu obszarów)
+\end{navylist}
+Każdy podrozdział omawia inny aspekt tematu, cytując odpowiednią literaturę.
+\end{przyklad}
+
+\sectionbreak
+
+## Lista przydatnych źródeł online
+
+Poniżej znajdziesz zestawienie najważniejszych baz danych i zasobów online przydatnych przy pisaniu pracy licencjackiej.
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wyszukiwarki i bazy ogólne:}
+\begin{goldlist}
+\item Google Scholar --- \texttt{scholar.google.pl}
+\item Biblioteka Nauki --- \texttt{bibliotekanauki.pl}
+\item WorldCat --- \texttt{worldcat.org} (katalog 10 000 bibliotek)
+\item BASE --- \texttt{base-search.net} (baza dokumentów akademickich)
+\end{goldlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Polskie bazy i katalogi:}
+\begin{goldlist}
+\item Katalog Biblioteki Narodowej --- \texttt{bn.org.pl}
+\item NUKAT --- \texttt{nukat.edu.pl}
+\item BazEkon --- \texttt{bazekon.uek.krakow.pl}
+\item CEJSH --- \texttt{cejsh.icm.edu.pl}
+\item Federacja Bibliotek Cyfrowych --- \texttt{fbc.pionier.net.pl}
+\item Repozytorium CeON --- \texttt{ceon.pl}
+\end{goldlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightcopper, colframe=acadcopper, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Międzynarodowe bazy (dostęp przez uczelnię):}
+\begin{goldlist}
+\item JSTOR --- \texttt{jstor.org}
+\item ScienceDirect --- \texttt{sciencedirect.com}
+\item Web of Science --- \texttt{webofscience.com}
+\item Scopus --- \texttt{scopus.com}
+\item EBSCO --- \texttt{ebsco.com}
+\item ProQuest --- \texttt{proquest.com}
+\end{goldlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Źródła danych i statystyk:}
+\begin{goldlist}
+\item GUS --- \texttt{stat.gov.pl}
+\item Eurostat --- \texttt{ec.europa.eu/eurostat}
+\item OECD --- \texttt{data.oecd.org}
+\item Bank Światowy --- \texttt{data.worldbank.org}
+\item NBP --- \texttt{nbp.pl}
+\end{goldlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie aspekty przeglądu literatury: gdzie szukać źródeł, jak efektywnie wyszukiwać, jak odróżniać wartościowe źródła od bezwartościowych, jak organizować notatki oraz ile źródeł potrzebujesz.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Przegląd literatury to nie streszczanie książek, ale krytyczna analiza i synteza źródeł
+\item Korzystaj z naukowych baz danych (Google Scholar, JSTOR, BazEkon), nie z przypadkowych stron
+\item Szukaj także w języku angielskim --- większość nauki jest publikowana po angielsku
+\item Używaj operatorów wyszukiwania i metody ``śnieżnej kuli'' do efektywnego szukania
+\item Weryfikuj wiarygodność źródeł --- nie wszystko, co znajdziesz, nadaje się do cytowania
+\item Prowadź systematyczne notatki z pełnymi danymi bibliograficznymi
+\item Używaj programu do zarządzania bibliografią (np. Zotero)
+\item Jakość źródeł jest ważniejsza niż ich ilość --- 20 trafionych lepsze niż 40 przypadkowych
+\item Bibliografia powinna zawierać mix: klasyka + aktualności, książki + artykuły, polskie + zagraniczne
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Wybierz 3 słowa kluczowe związane z Twoim tematem i wyszukaj je w Google Scholar. Dla każdego słowa zapisz 5 najbardziej obiecujących wyników. Sprawdź, które z nich są dostępne w pełnym tekście przez Twoją uczelnię. To początek Twojej bibliografii!
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się strukturą pracy licencjackiej --- dowiesz się, jak zbudować spis treści i co powinno znaleźć się w poszczególnych częściach pracy.

@@ -1,0 +1,581 @@
+---
+pagetitle: "Przypisy dolne i harwardzkie"
+---
+
+\pagestyle{zrodla}
+\thispagestyle{zrodla}
+
+# Przypisy — dolne vs harwardzkie
+
+\sectionheader{acadforest}{Dwa światy dokumentowania źródeł}
+
+Przypisy to techniczny, ale niezwykle istotny element pracy naukowej. Służą do dokumentowania źródeł, z których korzystasz, oraz do dodawania informacji uzupełniających, które nie mieszczą się w głównym toku wywodu. Istnieją dwa główne systemy przypisów: tradycyjny system przypisów dolnych (zwany też oksfordzkim lub europejskim) oraz system harwardzki (autor-data, stosowany w tekście). Każdy z nich ma swoje zalety, zasady i specyfikę.
+
+Wybór systemu przypisów nie jest dowolny --- zazwyczaj określa go uczelnia, wydział lub promotor. Niezależnie od tego, który system zastosujesz, musisz być w nim \textbf{konsekwentny} przez całą pracę. Mieszanie systemów to jeden z najpoważniejszych błędów formalnych.
+
+\begin{wazne}
+Zanim zaczniesz pisać pracę, \textbf{sprawdź wymagania swojej uczelni} dotyczące systemu przypisów. Wiele wydziałów ma szczegółowe wytyczne, często dostępne na stronie internetowej lub w regulaminie pisania prac dyplomowych. Dostosowanie się do tych wymagań jest obowiązkowe.
+\end{wazne}
+
+## Przypisy dolne — zasady i przykłady
+
+System przypisów dolnych jest tradycyjnie stosowany w polskich pracach humanistycznych i społecznych. Przypisy umieszcza się na dole strony, a w tekście głównym wstawia się jedynie numer odsyłacza.
+
+\sectionheader{acadnavy}{Charakterystyka systemu}
+
+\begin{definicja}[Przypisy dolne]
+Przypisy dolne (ang. \textit{footnotes}) to system dokumentowania źródeł, w którym pełna informacja bibliograficzna umieszczana jest na dole strony, pod kreską oddzielającą ją od tekstu głównego. W tekście pojawia się jedynie numer przypisu w indeksie górnym (np. \textsuperscript{1}), który odsyła czytelnika do odpowiedniej noty na dole strony.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Zalety przypisów dolnych:}
+\begin{forestlist}
+\item Pełna informacja bibliograficzna dostępna od razu, bez szukania w bibliografii
+\item Możliwość dodawania komentarzy, wyjaśnień, dygresji
+\item Tradycyjny, uznany system w naukach humanistycznych
+\item Tekst główny pozostaje ``czysty'' --- bez nawiasów z datami
+\end{forestlist}
+
+\textbf{Wady przypisów dolnych:}
+\begin{burgundylist}
+\item Zajmują miejsce na stronie, zmniejszając obszar tekstu głównego
+\item Przy wielu źródłach w jednym miejscu --- długie, rozbudowane przypisy
+\item Wymagają powtarzania informacji przy kolejnych cytowaniach (lub stosowania skrótów)
+\end{burgundylist}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Struktura przypisu dolnego}
+
+Struktura przypisu zależy od typu cytowanego źródła. Poniżej przedstawiam wzory dla najczęstszych typów publikacji.
+
+\begin{zasada}[Ogólna struktura przypisu do książki]
+Inicjał imienia. Nazwisko, \textit{Tytuł książki}, Miejsce wydania Rok, s. numer strony.
+
+Przykład: J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ źródła}} & \textcolor{white}{\textbf{Wzór przypisu}} \\
+Książka (jeden autor) & J. Kowalski, \textit{Tytuł książki}, Warszawa 2020, s. 45. \\
+\rowcolor{acadlightnavy} Książka (dwóch autorów) & J. Kowalski, A. Nowak, \textit{Tytuł książki}, Kraków 2019, s. 78. \\
+Książka (trzech+ autorów) & J. Kowalski i in., \textit{Tytuł książki}, Poznań 2021, s. 23. \\
+\rowcolor{acadlightnavy} Praca zbiorowa (redakcja) & \textit{Tytuł pracy zbiorowej}, red. J. Kowalski, Gdańsk 2018, s. 56. \\
+Rozdział w pracy zbiorowej & A. Nowak, \textit{Tytuł rozdziału}, [w:] \textit{Tytuł pracy zbiorowej}, red. J. Kowalski, Łódź 2020, s. 112--130. \\
+\rowcolor{acadlightnavy} Artykuł w czasopiśmie & M. Wiśniewski, \textit{Tytuł artykułu}, ``Nazwa Czasopisma'' 2021, nr 3, s. 45--67. \\
+Źródło internetowe & J. Kowalski, \textit{Tytuł artykułu}, www.adres.pl [dostęp: 15.05.2024]. \\
+\rowcolor{acadlightnavy} Akt prawny & Ustawa z dnia 26 czerwca 1974 r. --- Kodeks pracy (Dz.U. 2023, poz. 1465). \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Przypisy dolne w praktyce]
+W tekście głównym:
+
+``Według współczesnych badań, motywacja wewnętrzna ma większy wpływ na długoterminowe zaangażowanie pracowników niż systemy premiowe\textsuperscript{1}. Podobne wnioski formułuje Nowak, wskazując na znaczenie autonomii w miejscu pracy\textsuperscript{2}.''
+
+Na dole strony:
+
+\textsuperscript{1} E.L. Deci, R.M. Ryan, \textit{Intrinsic Motivation and Self-Determination in Human Behavior}, New York 1985, s. 43--45.
+
+\textsuperscript{2} A. Nowak, \textit{Autonomia pracownika jako czynnik motywacyjny}, [w:] \textit{Współczesne zarządzanie zasobami ludzkimi}, red. J. Kowalski, Warszawa 2020, s. 78.
+\end{przyklad}
+
+\sectionheader{acadnavy}{Przypisy przy kolejnych cytowaniach}
+
+Gdy cytujesz to samo źródło po raz kolejny, nie musisz podawać pełnego opisu bibliograficznego. Stosuje się wówczas formy skrócone.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Sytuacja}} & \textcolor{white}{\textbf{Forma przypisu}} \\
+Pierwsze cytowanie & J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45. \\
+\rowcolor{acadlightforest} Kolejne cytowanie (ta sama strona, bezpośrednio po) & Tamże. \textit{lub} Ibidem. \\
+Kolejne cytowanie (inna strona, bezpośrednio po) & Tamże, s. 67. \textit{lub} Ibidem, s. 67. \\
+\rowcolor{acadlightforest} Kolejne cytowanie (po innych przypisach) & J. Kowalski, \textit{Zarządzanie...}, s. 89. \textit{lub} J. Kowalski, dz. cyt., s. 89. \\
+Kolejne cytowanie (autor ma kilka prac) & J. Kowalski, \textit{Zarządzanie...}, s. 89. (skrócony tytuł obowiązkowy) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Sekwencja przypisów]
+\textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+
+\textsuperscript{2} Tamże, s. 52.
+
+\textsuperscript{3} Tamże.
+
+\textsuperscript{4} A. Nowak, \textit{Psychologia pracy}, Kraków 2019, s. 78.
+
+\textsuperscript{5} J. Kowalski, dz. cyt., s. 67.
+
+\textsuperscript{6} A. Nowak, dz. cyt., s. 80.
+
+\textsuperscript{7} J. Kowalski, \textit{Motywacja w praktyce}, Warszawa 2021, s. 34. [\textit{nowa praca tego samego autora --- pełny opis}]
+
+\textsuperscript{8} J. Kowalski, \textit{Zarządzanie...}, s. 90. [\textit{teraz muszę rozróżniać skróconym tytułem}]
+\end{przyklad}
+
+\sectionheader{acadnavy}{Przypisy rzeczowe (komentarze)}
+
+Przypisy dolne służą nie tylko do podawania źródeł, ale także do dodawania komentarzy, wyjaśnień i dygresji, które zakłóciłyby tok głównego wywodu.
+
+\begin{zasada}[Kiedy stosować przypisy rzeczowe?]
+\begin{navylist}
+\item \textbf{Wyjaśnienie terminu} --- gdy używasz pojęcia, które może być niezrozumiałe dla części czytelników
+\item \textbf{Dodatkowa informacja} --- ciekawostka lub kontekst, który nie jest niezbędny dla głównego wywodu
+\item \textbf{Odesłanie do innej części pracy} --- ``Szerzej na ten temat w rozdziale 3.''
+\item \textbf{Polemika} --- krótki komentarz polemiczny wobec cytowanego autora
+\item \textbf{Wskazanie źródeł uzupełniających} --- ``Zob. także: A. Nowak, \textit{...}; J. Wiśniewski, \textit{...}''
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Przypis rzeczowy]
+W tekście: ``Teoria agencji\textsuperscript{1} zakłada konflikt interesów między właścicielami a menedżerami.''
+
+Na dole strony:
+
+\textsuperscript{1} Teoria agencji (ang. \textit{agency theory}) --- koncepcja ekonomiczna opracowana przez M. Jensena i W. Mecklinga w 1976 r., analizująca relacje między zleceniodawcą (principal) a wykonawcą (agent). Szerzej: M. Jensen, W. Meckling, \textit{Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure}, ``Journal of Financial Economics'' 1976, vol. 3, s. 305--360.
+\end{przyklad}
+
+\begin{wskazowka}
+Nie nadużywaj przypisów rzeczowych. Jeśli informacja jest ważna dla zrozumienia tekstu --- umieść ją w tekście głównym. Przypis rzeczowy to miejsce na informacje \textbf{uzupełniające}, nie kluczowe. Praca z przypisami dłuższymi niż tekst główny na stronie wygląda źle.
+\end{wskazowka}
+
+\sectionbreak
+
+## System harwardzki (w tekście) — zasady i przykłady
+
+System harwardzki, zwany też systemem autor-data, jest dominujący w naukach przyrodniczych, ścisłych i coraz częściej stosowany w naukach społecznych. Odwołania do źródeł umieszcza się bezpośrednio w tekście, w nawiasach.
+
+\sectionheader{acadcopper}{Charakterystyka systemu}
+
+\begin{definicja}[System harwardzki]
+System harwardzki (ang. \textit{author-date system}) to sposób cytowania, w którym odwołanie do źródła umieszcza się w tekście głównym w nawiasie, podając nazwisko autora i rok publikacji, np. (Kowalski, 2020). Pełne dane bibliograficzne znajdują się wyłącznie w bibliografii na końcu pracy.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightcopper, colframe=acadcopper, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Zalety systemu harwardzkiego:}
+\begin{forestlist}
+\item Oszczędność miejsca --- brak przypisów dolnych
+\item Szybka identyfikacja źródła podczas czytania
+\item Łatwość edycji --- dodanie/usunięcie źródła nie wymaga przenumerowania
+\item Preferowany w czasopismach naukowych, szczególnie anglojęzycznych
+\end{forestlist}
+
+\textbf{Wady systemu harwardzkiego:}
+\begin{burgundylist}
+\item Nawiasy w tekście mogą zakłócać płynność czytania
+\item Brak miejsca na komentarze i dygresje (chyba że stosuje się dodatkowo przypisy)
+\item Przy wielu źródłach w jednym miejscu --- długie nawiasy
+\item Konieczność szukania pełnych danych w bibliografii
+\end{burgundylist}
+\end{tcolorbox}
+
+\sectionheader{acadcopper}{Podstawowe zasady}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Sytuacja}} & \textcolor{white}{\textbf{Forma w tekście}} \\
+Jeden autor & (Kowalski, 2020) lub Kowalski (2020) \\
+\rowcolor{acadlightcopper} Dwóch autorów & (Kowalski i Nowak, 2020) lub (Kowalski \& Nowak, 2020) \\
+Trzech i więcej autorów & (Kowalski i in., 2020) lub (Kowalski et al., 2020) \\
+\rowcolor{acadlightcopper} Z numerem strony & (Kowalski, 2020, s. 45) lub (Kowalski, 2020: 45) \\
+Kilka źródeł naraz & (Kowalski, 2020; Nowak, 2019; Wiśniewski, 2021) \\
+\rowcolor{acadlightcopper} Ten sam autor, ten sam rok & (Kowalski, 2020a), (Kowalski, 2020b) \\
+Brak autora (np. raport) & (GUS, 2023) lub (Raport NBP, 2022) \\
+\rowcolor{acadlightcopper} Cytat dosłowny & (Kowalski, 2020, s. 45) --- strona obowiązkowa \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadcopper}{Sposoby włączania cytowań do tekstu}
+
+W systemie harwardzkim istnieją dwa sposoby umieszczania cytowania: jako część zdania lub jako odsyłacz w nawiasie.
+
+\begin{przyklad}[Cytowanie jako część zdania]
+``\textbf{Kowalski (2020)} wykazał, że motywacja wewnętrzna ma kluczowe znaczenie dla zaangażowania pracowników.''
+
+``Według \textbf{Nowaka i Wiśniewskiego (2019)}, kultura organizacyjna wpływa na efektywność zespołów.''
+
+``Jak podkreśla \textbf{Deci (1985, s. 43)}, autonomia jest fundamentalną potrzebą psychologiczną.''
+\end{przyklad}
+
+\begin{przyklad}[Cytowanie jako odsyłacz w nawiasie]
+``Motywacja wewnętrzna ma kluczowe znaczenie dla zaangażowania pracowników \textbf{(Kowalski, 2020)}.''
+
+``Kultura organizacyjna wpływa na efektywność zespołów \textbf{(Nowak i Wiśniewski, 2019)}.''
+
+``Badania potwierdzają związek między autonomią a satysfakcją z pracy \textbf{(Deci, 1985; Kowalski, 2020; Nowak, 2019)}.''
+\end{przyklad}
+
+\begin{zasada}[Kiedy który sposób?]
+\begin{navylist}
+\item \textbf{Autor jako część zdania} --- gdy chcesz podkreślić, \textit{kto} to powiedział; gdy omawiasz konkretne stanowisko badacza
+\item \textbf{Nawias na końcu} --- gdy ważniejsza jest sama treść niż autor; gdy odwołujesz się do wielu źródeł naraz
+\end{navylist}
+\end{zasada}
+
+\sectionheader{acadcopper}{Bibliografia w systemie harwardzkim}
+
+W systemie harwardzkim bibliografia (zwana często ``Literaturą'' lub ``References'') ma szczególne znaczenie, bo tylko tam znajdują się pełne dane. Pozycje uszeregowane są \textbf{alfabetycznie} według nazwisk autorów.
+
+\begin{przyklad}[Fragment bibliografii w systemie harwardzkim]
+\textbf{Literatura}
+
+Deci, E.L. (1985). \textit{Intrinsic Motivation and Self-Determination in Human Behavior}. New York: Plenum Press.
+
+Deci, E.L., Ryan, R.M. (2000). The ``what'' and ``why'' of goal pursuits: Human needs and the self-determination of behavior. \textit{Psychological Inquiry}, 11(4), s. 227--268.
+
+Kowalski, J. (2020a). \textit{Zarządzanie organizacją}. Warszawa: PWN.
+
+Kowalski, J. (2020b). Motywacja w praktyce zarządzania. \textit{Przegląd Organizacji}, 5, s. 12--25.
+
+Kowalski, J., Nowak, A. (2019). Kultura organizacyjna w polskich przedsiębiorstwach. [w:] M. Wiśniewski (red.), \textit{Współczesne zarządzanie}. Kraków: Universitas, s. 45--78.
+\end{przyklad}
+
+\begin{wazne}
+W systemie harwardzkim \textbf{rok publikacji} umieszcza się bezpośrednio po nazwisku autora (w nawiasie lub bez), ponieważ to on --- wraz z nazwiskiem --- tworzy klucz identyfikujący źródło. Pozycje tego samego autora z tego samego roku oznacza się literami: 2020a, 2020b itd.
+\end{wazne}
+
+\sectionbreak
+
+## Skróty: ibidem, op.cit., tamże — jak stosować?
+
+W systemie przypisów dolnych powszechnie stosuje się skróty łacińskie i polskie, które pozwalają uniknąć powtarzania pełnych opisów bibliograficznych. Ich prawidłowe użycie wymaga znajomości zasad.
+
+\sectionheader{acadnavy}{Najważniejsze skróty}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Skrót}} & \textcolor{white}{\textbf{Znaczenie i zastosowanie}} \\
+Ibidem / Ibid. & ``W tym samym miejscu'' --- gdy cytujemy to samo źródło co w przypisie bezpośrednio poprzedzającym \\
+\rowcolor{acadlightnavy} Tamże & Polski odpowiednik \textit{ibidem} \\
+Op. cit. (\textit{opere citato}) & ``W dziele cytowanym'' --- odsyła do wcześniej cytowanego dzieła danego autora \\
+\rowcolor{acadlightnavy} Dz. cyt. / dz. cyt. & Polski odpowiednik \textit{op. cit.} (dzieło cytowane) \\
+Loc. cit. (\textit{loco citato}) & ``W miejscu cytowanym'' --- ta sama strona co poprzednio (rzadko używane) \\
+\rowcolor{acadlightnavy} Zob. / Por. & ``Zobacz'' / ``Porównaj'' --- odsyła do źródła bez cytowania (zob. = informacja, por. = inne stanowisko) \\
+Passim & ``Tu i ówdzie'' --- gdy powołujemy się na całe dzieło, nie konkretną stronę \\
+\rowcolor{acadlightnavy} Et al. / i in. & ``I inni'' --- gdy autorów jest więcej niż trzech \\
+{}[b.m.] / [b.r.] & Brak miejsca wydania / brak roku wydania \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Zasady użycia skrótów}
+
+\begin{zasada}[Ibidem / Tamże]
+Stosujemy \textbf{tylko} gdy cytujemy to samo źródło co w \textbf{bezpośrednio poprzedzającym} przypisie.
+\begin{navylist}
+\item Jeśli ta sama strona: ``Tamże.'' lub ``Ibidem.''
+\item Jeśli inna strona: ``Tamże, s. 67.'' lub ``Ibidem, s. 67.''
+\end{navylist}
+\textbf{Uwaga:} Jeśli między dwoma cytowaniami tego samego źródła pojawi się inne źródło --- nie możesz użyć \textit{tamże}; musisz użyć formy skróconej (dz. cyt.) lub podać skrócony tytuł.
+\end{zasada}
+
+\begin{przyklad}[Prawidłowe użycie ``tamże'']
+\textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+
+\textsuperscript{2} Tamże, s. 52. \textcolor{acadforest}{\faIcon{check} OK --- bezpośrednio po przypisie 1}
+
+\textsuperscript{3} Tamże. \textcolor{acadforest}{\faIcon{check} OK --- ta sama strona co w przypisie 2}
+
+\textsuperscript{4} A. Nowak, \textit{Psychologia pracy}, Kraków 2019, s. 78.
+
+\textsuperscript{5} Tamże, s. 80. \textcolor{acadforest}{\faIcon{check} OK --- odnosi się do Nowaka z przypisu 4}
+
+\textsuperscript{6} J. Kowalski, dz. cyt., s. 67. \textcolor{acadforest}{\faIcon{check} OK --- nie można użyć ``tamże'', bo przypis 5 dotyczył Nowaka}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd: ``Tamże'' po zmianie źródła}
+
+\textsuperscript{4} A. Nowak, \textit{Psychologia pracy}, Kraków 2019, s. 78.
+
+\textsuperscript{5} Tamże, s. 45. \textcolor{acadburgundy}{\faIcon{times} BŁĄD --- czy to strona 45 u Nowaka, czy wracamy do Kowalskiego? Niejasne!}
+
+Jeśli chcesz wrócić do Kowalskiego, napisz: J. Kowalski, dz. cyt., s. 45.
+\end{blad}
+
+\begin{zasada}[Op. cit. / Dz. cyt.]
+Stosujemy, gdy wracamy do wcześniej cytowanego dzieła po tym, jak między cytowaniami pojawiły się inne źródła.
+\begin{navylist}
+\item Forma: Inicjał. Nazwisko, dz. cyt., s. XX.
+\item \textbf{Warunek:} Działa tylko, gdy dany autor występuje w pracy \textbf{z jednym dziełem}. Jeśli cytujesz więcej prac tego autora, musisz podać skrócony tytuł.
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Op. cit. / dz. cyt. --- prawidłowo i błędnie]
+\textbf{Prawidłowo} (autor z jednym dziełem):
+
+\textsuperscript{8} J. Kowalski, dz. cyt., s. 90. \textcolor{acadforest}{\faIcon{check} OK --- wiadomo, o które dzieło chodzi}
+
+\textbf{Błędnie} (autor z wieloma dziełami):
+
+\textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+
+\textsuperscript{5} J. Kowalski, \textit{Motywacja w praktyce}, Warszawa 2021, s. 34.
+
+\textsuperscript{9} J. Kowalski, dz. cyt., s. 78. \textcolor{acadburgundy}{\faIcon{times} BŁĄD --- które dzieło? Zarządzanie czy Motywacja?}
+
+\textbf{Poprawnie:}
+
+\textsuperscript{9} J. Kowalski, \textit{Zarządzanie...}, s. 78. \textcolor{acadforest}{\faIcon{check} OK --- skrócony tytuł rozstrzyga}
+\end{przyklad}
+
+\begin{zasada}[Zob. / Por.]
+\begin{navylist}
+\item \textbf{Zob.} (zobacz) --- odsyłasz do źródła, które \textbf{potwierdza} lub \textbf{rozwija} to, co piszesz
+\item \textbf{Por.} (porównaj) --- odsyłasz do źródła, które prezentuje \textbf{inne stanowisko} lub pozwala na porównanie
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Zob. vs Por.]
+``Współczesne badania potwierdzają tę tezę.\textsuperscript{1}''
+
+\textsuperscript{1} Zob. A. Nowak, \textit{Badania empiryczne}, Warszawa 2022, s. 45--67.
+
+``Niektórzy autorzy kwestionują jednak tę interpretację.\textsuperscript{2}''
+
+\textsuperscript{2} Por. J. Wiśniewski, \textit{Krytyka metodologiczna}, Kraków 2021, s. 89--102.
+\end{przyklad}
+
+\sectionheader{acadnavy}{Konsekwencja w stosowaniu skrótów}
+
+\begin{wazne}
+W całej pracy stosuj \textbf{jeden} zestaw konwencji:
+\begin{goldlist}
+\item Albo skróty łacińskie (\textit{ibidem}, \textit{op. cit.}), albo polskie (\textit{tamże}, \textit{dz. cyt.}) --- nie mieszaj
+\item Albo z kropką (\textit{Ibidem.}), albo bez (\textit{Ibidem}) --- konsekwentnie
+\item Albo kursywa (\textit{tamże}), albo prosta (tamże) --- jednolicie przez całą pracę
+\end{goldlist}
+\end{wazne}
+
+\sectionbreak
+
+## Najczęstsze błędy w przypisach
+
+Błędy w przypisach to jedne z najczęściej popełnianych uchybień formalnych w pracach dyplomowych. Poniżej omawiamy typowe problemy i sposoby ich unikania.
+
+\sectionheader{acadburgundy}{Błędy techniczne}
+
+\begin{blad}
+\textbf{Błąd 1: Brak numeru strony przy cytacie dosłownym}
+
+``Jak pisze Kowalski, `zarządzanie to sztuka osiągania celów przez ludzi'.\textsuperscript{1}''
+
+\textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020.
+
+\textcolor{acadburgundy}{\faIcon{times}} Przy cytacie dosłownym \textbf{zawsze} podajemy stronę. Czytelnik musi móc zweryfikować cytat.
+
+\textbf{Poprawnie:} \textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 2: Niekonsekwentny format}
+
+\textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+
+\textsuperscript{2} Nowak A., Psychologia pracy, Kraków, 2019, str. 78
+
+\textsuperscript{3} WIŚNIEWSKI M. (2021): Socjologia organizacji. Gdańsk. S. 34
+
+\textcolor{acadburgundy}{\faIcon{times}} Trzy różne formaty w trzech przypisach. Brak konsekwencji wygląda niedbale.
+
+\textbf{Zasada:} Ustal jeden format na początku i trzymaj się go przez całą pracę.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 3: Błędne użycie ``tamże'' / ``ibidem''}
+
+\textsuperscript{3} A. Nowak, \textit{Psychologia pracy}, Kraków 2019, s. 78.
+
+\textsuperscript{4} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+
+\textsuperscript{5} Tamże, s. 90.
+
+\textcolor{acadburgundy}{\faIcon{times}} ``Tamże'' odnosi się do przypisu 4 (Kowalski), ale czy na pewno o to chodziło? A może autor chciał wrócić do Nowaka?
+
+\textbf{Zasada:} ``Tamże'' zawsze odnosi się do \textbf{bezpośrednio poprzedzającego} przypisu. Jeśli to nie jest intencja --- użyj pełnej lub skróconej formy.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 4: Niepełne dane bibliograficzne}
+
+\textsuperscript{1} Kowalski, \textit{Zarządzanie}, s. 45.
+
+\textcolor{acadburgundy}{\faIcon{times}} Przy pierwszym cytowaniu brakuje: inicjału imienia, pełnego tytułu, miejsca i roku wydania.
+
+\textbf{Poprawnie:} \textsuperscript{1} J. Kowalski, \textit{Zarządzanie organizacją}, Warszawa 2020, s. 45.
+\end{blad}
+
+\sectionheader{acadburgundy}{Błędy merytoryczne}
+
+\begin{blad}
+\textbf{Błąd 5: Brak przypisu przy parafrazie}
+
+``Badania wskazują, że motywacja wewnętrzna ma większy wpływ na zaangażowanie niż zewnętrzne systemy nagród.''
+
+\textcolor{acadburgundy}{\faIcon{times}} To nie jest wiedza powszechna --- skąd ta informacja? Brak przypisu = sugestia, że to własna myśl autora (lub plagiat).
+
+\textbf{Poprawnie:} ``Badania wskazują, że motywacja wewnętrzna ma większy wpływ na zaangażowanie niż zewnętrzne systemy nagród.\textsuperscript{1}''
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 6: Cytowanie źródła, którego nie czytałeś}
+
+Cytujesz książkę A, bo widziałeś ją cytowaną w książce B, ale sam jej nie czytałeś. Podajesz jednak przypis do A.
+
+\textcolor{acadburgundy}{\faIcon{times}} To nieuczciwe i ryzykowne --- mogłeś źle zrozumieć, B mógł błędnie zinterpretować A.
+
+\textbf{Poprawnie:} ``Jak pisze A..., cyt. za: B, \textit{Tytuł}, Warszawa 2020, s. 45.''
+
+Lub: sięgnij do oryginału i przeczytaj sam.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 7: Wikipedia jako źródło naukowe}
+
+\textsuperscript{1} \textit{Zarządzanie}, Wikipedia, https://pl.wikipedia.org/wiki/Zarządzanie [dostęp: 15.05.2024].
+
+\textcolor{acadburgundy}{\faIcon{times}} Wikipedia nie jest źródłem naukowym --- każdy może edytować jej treść, brak recenzji naukowej.
+
+\textbf{Zasada:} Wikipedia może być punktem wyjścia do szukania właściwych źródeł (sprawdź jej bibliografię), ale sama nie powinna być cytowana w pracy naukowej.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd 8: Nadmiar przypisów do oczywistości}
+
+``Polska jest członkiem Unii Europejskiej.\textsuperscript{1} Warszawa jest stolicą Polski.\textsuperscript{2}''
+
+\textcolor{acadburgundy}{\faIcon{times}} To fakty powszechnie znane --- nie wymagają cytowania.
+
+\textbf{Zasada:} Nie cytujemy wiedzy ogólnej i powszechnie znanej. Cytujemy interpretacje, wyniki badań, specjalistyczne ustalenia.
+\end{blad}
+
+\sectionheader{acadforest}{Lista kontrolna przypisów}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Przed oddaniem pracy sprawdź każdy przypis:}
+\begin{forestlist}
+\item Czy przy pierwszym cytowaniu są pełne dane: autor, tytuł, miejsce, rok, strona?
+\item Czy wszystkie cytaty dosłowne mają podaną stronę?
+\item Czy ``tamże'' / ``ibidem'' odnosi się do bezpośrednio poprzedzającego przypisu?
+\item Czy przy autorze z kilkoma dziełami stosujesz skrócony tytuł, nie ``dz. cyt.''?
+\item Czy format jest konsekwentny w całej pracy?
+\item Czy używasz jednolicie skrótów łacińskich LUB polskich?
+\item Czy wszystkie źródła z przypisów są w bibliografii?
+\item Czy cytaty ``z drugiej ręki'' są oznaczone ``cyt. za:''?
+\item Czy źródła internetowe mają datę dostępu?
+\item Czy numeracja przypisów jest ciągła i poprawna?
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Programy do zarządzania bibliografią (Zotero, Mendeley)
+
+Ręczne zarządzanie dziesiątkami lub setkami źródeł jest żmudne i podatne na błędy. Programy do zarządzania bibliografią (ang. \textit{reference managers}) znacząco ułatwiają pracę i zmniejszają ryzyko pomyłek.
+
+\sectionheader{acadteal}{Po co używać menadżera bibliografii?}
+
+\begin{definicja}[Menadżer bibliografii]
+Menadżer bibliografii to program komputerowy służący do gromadzenia, organizowania i wykorzystywania źródeł naukowych. Umożliwia automatyczne importowanie danych bibliograficznych, organizowanie źródeł w kolekcje, tworzenie notatek, a przede wszystkim --- automatyczne generowanie przypisów i bibliografii w wybranym stylu.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightteal, colframe=acadteal, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Korzyści z używania menadżera bibliografii:}
+\begin{forestlist}
+\item \textbf{Oszczędność czasu} --- automatyczne wstawianie przypisów jednym kliknięciem
+\item \textbf{Eliminacja błędów} --- program pilnuje formatu, nie pomylisz się w przecinkach i kursywach
+\item \textbf{Łatwa zmiana stylu} --- zmiana z przypisów dolnych na harwardzkie = jedno kliknięcie
+\item \textbf{Automatyczna bibliografia} --- generowana na podstawie użytych źródeł, zawsze kompletna
+\item \textbf{Synchronizacja} --- dostęp do bazy źródeł na różnych urządzeniach
+\item \textbf{Organizacja} --- foldery, tagi, notatki, wyszukiwanie
+\item \textbf{Przechowywanie PDF-ów} --- pliki dołączone do rekordów bibliograficznych
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionheader{acadteal}{Porównanie popularnych programów}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadteal, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadteal}\textcolor{white}{\textbf{Program}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Zotero & Bezpłatny, open source; świetna wtyczka do przeglądarki; integracja z Word i LibreOffice; 300 MB darmowej przestrzeni w chmurze; duża społeczność i wiele stylów \\
+\rowcolor{acadlightteal} Mendeley & Bezpłatny (wersja podstawowa); własność Elsevier; dobra aplikacja mobilna; funkcje społecznościowe; 2 GB darmowej przestrzeni \\
+EndNote & Płatny (drogi); profesjonalny; często dostępny przez uczelnie; najszersze możliwości, ale skomplikowany \\
+\rowcolor{acadlightteal} Citavi & Płatny; popularny w Niemczech; rozbudowane funkcje notatek i organizacji wiedzy; dostępny po polsku \\
+JabRef & Bezpłatny, open source; dla użytkowników LaTeX/BibTeX; lżejszy, bez integracji z Wordem \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Dla większości studentów \textbf{Zotero} jest najlepszym wyborem: bezpłatny, prosty w obsłudze, świetnie zintegrowany z przeglądarką i edytorami tekstu. Jeśli Twoja uczelnia oferuje dostęp do EndNote --- możesz go rozważyć, ale krzywa uczenia jest stroma.
+\end{wskazowka}
+
+\sectionheader{acadteal}{Jak zacząć z Zotero?}
+
+\resetsteps
+
+\begin{krok}[acadteal]{Zainstaluj program i wtyczki}
+Pobierz Zotero ze strony zotero.org. Zainstaluj również Zotero Connector (wtyczka do przeglądarki) oraz wtyczkę do edytora tekstu (Word/LibreOffice --- instaluje się automatycznie).
+\end{krok}
+
+\begin{krok}[acadteal]{Skonfiguruj styl cytowania}
+Wejdź w Preferencje → Cytuj → Style. Wybierz lub pobierz styl wymagany przez Twoją uczelnię. Zotero ma tysiące stylów, w tym polskie (np. ``Polski styl przypisów'' czy style konkretnych czasopism).
+\end{krok}
+
+\begin{krok}[acadteal]{Dodawaj źródła}
+Przeglądając bazę danych (Google Scholar, JSTOR, katalog biblioteki), kliknij ikonę Zotero w przeglądarce --- program automatycznie pobierze dane bibliograficzne. Możesz też dodawać ręcznie lub przez ISBN/DOI.
+\end{krok}
+
+\begin{krok}[acadteal]{Organizuj kolekcje}
+Twórz foldery (kolekcje) dla różnych tematów lub rozdziałów. Dodawaj tagi, notatki, zaznaczenia w PDF-ach. Szukaj źródeł przez wbudowaną wyszukiwarkę.
+\end{krok}
+
+\begin{krok}[acadteal]{Wstawiaj cytowania w Wordzie}
+W Wordzie pojawi się zakładka ``Zotero''. Kliknij ``Add/Edit Citation'', wyszukaj źródło, wstaw. Kliknij ``Add/Edit Bibliography'' --- program wygeneruje bibliografię ze wszystkich użytych źródeł.
+\end{krok}
+
+\begin{krok}[acadteal]{Aktualizuj i zmieniaj style}
+Jeśli dodasz nowe źródło lub zmienisz styl cytowania --- kliknij ``Refresh'' i cała praca zaktualizuje się automatycznie. Zmiana z przypisów dolnych na harwardzkie trwa sekundy.
+\end{krok}
+
+\begin{przyklad}[Workflow z Zotero]
+\textbf{Krok 1:} Przeglądasz Google Scholar, znajdujesz artykuł Kowalskiego. Klikasz ikonę Zotero w przeglądarce --- źródło zapisuje się w Twojej bibliotece.
+
+\textbf{Krok 2:} Piszesz pracę w Wordzie. Chcesz zacytować Kowalskiego. Klikasz ``Add Citation'' → wpisujesz ``Kowalski'' → wybierasz → wstawiasz. W tekście pojawia się prawidłowo sformatowany przypis.
+
+\textbf{Krok 3:} Kończysz rozdział. Klikasz ``Add Bibliography'' --- program generuje listę literatury ze wszystkich źródeł użytych w tym rozdziale.
+
+\textbf{Krok 4:} Promotor mówi, że uczelnia wymaga systemu harwardzkiego, nie przypisów dolnych. Zmieniasz styl w Zotero, klikasz ``Refresh'' --- cała praca przeformatowuje się w sekundy.
+\end{przyklad}
+
+\begin{wazne}
+Zacznij używać menadżera bibliografii \textbf{od początku} pracy nad projektem. Dodawanie źródeł na bieżąco jest łatwe; przenoszenie setek źródeł z ręcznych notatek do programu na koniec --- żmudne i frustrujące.
+\end{wazne}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy dwa główne systemy przypisów: przypisy dolne i system harwardzki. Poznaliśmy zasady stosowania skrótów łacińskich i polskich, typowe błędy w przypisach oraz korzyści płynące z używania programów do zarządzania bibliografią.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Wybierz system przypisów zgodny z wymaganiami uczelni i stosuj go \textbf{konsekwentnie}
+\item Przypisy dolne umieszczamy na dole strony; harwardzkie --- w tekście w nawiasie
+\item Przy pierwszym cytowaniu zawsze podawaj pełne dane; przy kolejnych --- formy skrócone
+\item ``Tamże'' / ``ibidem'' odnosi się \textbf{tylko} do bezpośrednio poprzedzającego przypisu
+\item ``Dz. cyt.'' / ``op. cit.'' stosuj tylko gdy autor ma jedno dzieło; inaczej --- skrócony tytuł
+\item Przy cytacie dosłownym \textbf{zawsze} podawaj numer strony
+\item Cytowanie ``z drugiej ręki'' wymaga oznaczenia ``cyt. za:''
+\item Nie cytuj źródeł, których nie czytałeś (bez oznaczenia)
+\item Wikipedia nie jest źródłem naukowym
+\item Używaj menadżera bibliografii (Zotero, Mendeley) --- oszczędza czas i eliminuje błędy
+\item Zacznij używać menadżera od początku pracy, nie na koniec
+\item Przed oddaniem sprawdź każdy przypis według listy kontrolnej
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Zainstaluj Zotero, dodaj 10 źródeł związanych z Twoim tematem (korzystając z wtyczki do przeglądarki), utwórz kolekcję, a następnie napisz krótki tekst (1 strona) w Wordzie, cytując te źródła. Zmień styl z przypisów dolnych na harwardzki i z powrotem. Ta praktyka zaoszczędzi Ci godzin pracy później.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się bibliografią --- jak ją poprawnie sporządzić, w jakiej kolejności umieszczać pozycje i jak opisywać różne typy źródeł.

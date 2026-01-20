@@ -1,0 +1,520 @@
+---
+pagetitle: "Metodologia badań"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Metodologia badań
+
+\sectionheader{acadnavy}{Jak badać, żeby wyniki były wiarygodne?}
+
+Rozdział metodologiczny to serce empirycznej pracy licencjackiej. To tutaj opisujesz, w jaki sposób przeprowadziłeś badania --- jakich metod użyłeś, jak zebrałeś dane, kogo badałeś i jak analizowałeś wyniki. Dobra metodologia to gwarancja wiarygodności Twoich wniosków. Słaba --- dyskwalifikuje całą pracę.
+
+W tym rozdziale poznasz hierarchię pojęć metodologicznych (metoda → technika → narzędzie), nauczysz się formułować pytania badawcze i hipotezy, operacjonalizować zmienne oraz projektować badanie od początku do końca.
+
+\begin{zasada}[Powtarzalność badań]
+Rozdział metodologiczny powinien być napisany tak szczegółowo, żeby inny badacz mógł powtórzyć Twoje badanie i uzyskać porównywalne wyniki. To podstawowy wymóg naukowości --- jeśli ktoś nie może zweryfikować Twoich ustaleń, nie mają one wartości naukowej.
+\end{zasada}
+
+## Hierarchia pojęć metodologicznych
+
+Studenci często mylą pojęcia ``metoda'', ``technika'' i ``narzędzie''. Tymczasem w metodologii badań mają one precyzyjne znaczenia i tworzą hierarchię.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Poziom}} & \textcolor{white}{\textbf{Definicja i przykłady}} \\
+Metoda badawcza & Ogólna strategia postępowania badawczego; np. sondaż diagnostyczny, studium przypadku, eksperyment, monografia \\
+\rowcolor{acadlightnavy} Technika badawcza & Konkretny sposób zbierania danych w ramach metody; np. ankietowanie, wywiad, obserwacja, analiza dokumentów \\
+Narzędzie badawcze & Instrument służący do zbierania danych; np. kwestionariusz ankiety, dyspozycje do wywiadu, arkusz obserwacyjny \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{definicja}[Metoda badawcza]
+\textbf{Metoda badawcza} to zespół teoretycznie uzasadnionych sposobów postępowania badawczego, obejmujący całokształt działań poznawczych i praktycznych zmierzających do rozwiązania problemu badawczego. Metoda określa ogólne ramy badania.
+\end{definicja}
+
+\begin{definicja}[Technika badawcza]
+\textbf{Technika badawcza} to konkretny, usystematyzowany sposób zbierania materiału empirycznego, podporządkowany metodzie badawczej. Technika odpowiada na pytanie: ``Jak konkretnie zbiorę dane?''
+\end{definicja}
+
+\begin{definicja}[Narzędzie badawcze]
+\textbf{Narzędzie badawcze} to przedmiot lub instrument służący do realizacji techniki badawczej --- konkretny formularz, arkusz, kwestionariusz, test itp.
+\end{definicja}
+
+\begin{przyklad}[Hierarchia w praktyce]
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Temat:} Motywacja pracowników w firmach IT
+
+\textbf{Metoda:} Sondaż diagnostyczny --- bo chcemy poznać opinie i postawy dużej grupy osób
+
+\textbf{Technika:} Ankietowanie --- bo zbieramy standaryzowane odpowiedzi od wielu respondentów
+
+\textbf{Narzędzie:} Kwestionariusz ankiety składający się z 24 pytań zamkniętych i 2 pytań otwartych
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} ``Metodą badawczą była ankieta.''
+
+Problem: Ankieta to narzędzie (lub technika ankietowania), nie metoda. Metodą jest np. sondaż diagnostyczny.
+\end{blad}
+
+\sectionbreak
+
+## Główne metody badawcze
+
+W pracach licencjackich najczęściej stosuje się kilka sprawdzonych metod badawczych. Wybór metody zależy od problemu badawczego i dostępnych zasobów.
+
+\sectionheader{acadnavy}{Sondaż diagnostyczny}
+
+\begin{definicja}[Sondaż diagnostyczny]
+\textbf{Sondaż diagnostyczny} to metoda badawcza polegająca na zbieraniu informacji o zjawiskach społecznych, opiniach i postawach od większej liczby respondentów za pomocą standaryzowanych narzędzi (najczęściej ankiet lub wywiadów). Pozwala na uogólnianie wyników na szerszą populację.
+\end{definicja}
+
+\begin{forestlist}
+\item Stosowany, gdy chcemy poznać opinie, postawy, zachowania większej grupy osób
+\item Wymaga doboru próby reprezentatywnej (lub świadomego ograniczenia wniosków)
+\item Typowe techniki: ankietowanie, wywiad kwestionariuszowy
+\item Typowe narzędzia: kwestionariusz ankiety, kwestionariusz wywiadu
+\item Umożliwia analizę statystyczną wyników
+\end{forestlist}
+
+\begin{wskazowka}
+Sondaż diagnostyczny to najczęściej wybierana metoda w pracach licencjackich z zarządzania, marketingu, socjologii i pedagogiki. Jeśli planujesz badanie ankietowe --- prawdopodobnie stosujesz właśnie tę metodę.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Studium przypadku (case study)}
+
+\begin{definicja}[Studium przypadku]
+\textbf{Studium przypadku} to metoda badawcza polegająca na dogłębnej analizie pojedynczego przypadku (osoby, organizacji, zdarzenia, procesu) w jego naturalnym kontekście. Pozwala na szczegółowe zrozumienie złożonych zjawisk.
+\end{definicja}
+
+\begin{forestlist}
+\item Stosowane, gdy chcemy dokładnie zbadać jeden konkretny przypadek
+\item Nie pozwala na uogólnianie na całą populację
+\item Typowe techniki: wywiad pogłębiony, analiza dokumentów, obserwacja
+\item Łączy różne źródła danych (triangulacja)
+\item Szczególnie przydatne w badaniach organizacji i firm
+\end{forestlist}
+
+\begin{przyklad}[Kiedy wybrać studium przypadku?]
+Studium przypadku sprawdzi się, gdy:
+\begin{goldlist}
+\item Badasz konkretną firmę, instytucję lub projekt
+\item Masz dostęp do wewnętrznych dokumentów i pracowników
+\item Interesuje Cię głęboki wgląd, nie statystyczne uogólnienia
+\item Zjawisko jest zbyt złożone, by badać je ankietą
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Inne metody}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadslate, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadslate}\textcolor{white}{\textbf{Metoda}} & \textcolor{white}{\textbf{Charakterystyka i zastosowanie}} \\
+Eksperyment & Badanie związków przyczynowo-skutkowych poprzez manipulację zmiennymi; rzadko w pracach lic. \\
+\rowcolor{acadlightslate} Monografia & Całościowy opis jednego zjawiska, instytucji lub terenu; bliska studium przypadku \\
+Analiza treści & Systematyczna analiza tekstów, dokumentów, przekazów medialnych \\
+\rowcolor{acadlightslate} Metoda historyczna & Badanie przeszłych zdarzeń na podstawie źródeł historycznych \\
+Badania porównawcze & Porównywanie dwóch lub więcej przypadków, grup, krajów \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Techniki badawcze
+
+Technika to konkretny sposób zbierania danych. Oto najważniejsze techniki stosowane w pracach licencjackich:
+
+\sectionheader{acadforest}{Ankietowanie}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Ankietowanie} to technika polegająca na zbieraniu informacji za pomocą zestawu pytań (kwestionariusza) kierowanych do respondentów, którzy samodzielnie udzielają odpowiedzi.
+
+\textbf{Zalety:}
+\begin{forestlist}
+\item Możliwość przebadania dużej liczby osób
+\item Standaryzacja --- wszyscy odpowiadają na te same pytania
+\item Anonimowość sprzyja szczerym odpowiedziom
+\item Łatwa analiza statystyczna (pytania zamknięte)
+\end{forestlist}
+
+\textbf{Wady:}
+\begin{burgundylist}
+\item Brak możliwości dopytania, pogłębienia
+\item Respondent może nie zrozumieć pytania
+\item Niski zwrot ankiet (problem przy badaniach online)
+\item Powierzchowność odpowiedzi
+\end{burgundylist}
+\end{tcolorbox}
+
+\sectionheader{acadforest}{Wywiad}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wywiad} to technika polegająca na bezpośredniej rozmowie badacza z respondentem według określonego schematu lub dyspozycji.
+
+\textbf{Typy wywiadów:}
+\begin{navylist}
+\item \textbf{Wywiad standaryzowany (kwestionariuszowy)} --- sztywna lista pytań, odpowiedzi kategoryzowane
+\item \textbf{Wywiad częściowo standaryzowany} --- lista tematów, elastyczna kolejność
+\item \textbf{Wywiad swobodny (pogłębiony)} --- luźna rozmowa wokół tematu, maksymalna elastyczność
+\end{navylist}
+
+\textbf{Zalety:} możliwość dopytania, obserwacja reakcji, głębszy wgląd
+
+\textbf{Wady:} czasochłonność, mała próba, trudniejsza analiza
+\end{tcolorbox}
+
+\sectionheader{acadforest}{Obserwacja}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Obserwacja} to technika polegająca na systematycznym rejestrowaniu zachowań, zdarzeń lub zjawisk w naturalnym środowisku.
+
+\textbf{Typy obserwacji:}
+\begin{navylist}
+\item \textbf{Uczestnicząca} --- badacz jest częścią badanej grupy
+\item \textbf{Nieuczestnicząca} --- badacz obserwuje z zewnątrz
+\item \textbf{Jawna} --- badani wiedzą, że są obserwowani
+\item \textbf{Ukryta} --- badani nie wiedzą o obserwacji
+\end{navylist}
+
+\textbf{Narzędzie:} arkusz obserwacyjny, dziennik obserwacji
+\end{tcolorbox}
+
+\sectionheader{acadforest}{Analiza dokumentów}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Analiza dokumentów} to technika polegająca na systematycznym badaniu istniejących materiałów pisanych, wizualnych lub dźwiękowych.
+
+\textbf{Przykłady dokumentów:}
+\begin{goldlist}
+\item Dokumenty firmowe (raporty, regulaminy, sprawozdania)
+\item Dane statystyczne (GUS, raporty branżowe)
+\item Materiały medialne (artykuły prasowe, posty w social media)
+\item Dokumenty urzędowe (akty prawne, orzeczenia)
+\end{goldlist}
+
+\textbf{Narzędzie:} klucz kategoryzacyjny, arkusz analizy
+\end{tcolorbox}
+
+\sectionbreak
+
+## Zmienne i wskaźniki
+
+Kluczowym elementem metodologii jest operacjonalizacja pojęć --- przełożenie abstrakcyjnych terminów na mierzalne wskaźniki.
+
+\sectionheader{acadnavy}{Rodzaje zmiennych}
+
+\begin{definicja}[Zmienna zależna]
+\textbf{Zmienna zależna} (Y) to zjawisko, które chcemy wyjaśnić lub przewidzieć. To ``skutek'' w relacji przyczynowo-skutkowej. Przykład: satysfakcja z pracy, wyniki sprzedaży, rotacja pracowników.
+\end{definicja}
+
+\begin{definicja}[Zmienna niezależna]
+\textbf{Zmienna niezależna} (X) to czynnik, który --- jak zakładamy --- wpływa na zmienną zależną. To ``przyczyna'' w relacji przyczynowo-skutkowej. Przykład: styl zarządzania, rodzaj motywacji, wielkość firmy.
+\end{definicja}
+
+\begin{przyklad}[Zmienne w badaniu]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Hipoteza:} Autonomia w pracy pozytywnie wpływa na satysfakcję zawodową programistów.
+
+\textbf{Zmienna niezależna (X):} Autonomia w pracy (przyczyna)
+
+\textbf{Zmienna zależna (Y):} Satysfakcja zawodowa (skutek)
+
+Badamy, czy zmiany w X (autonomia) wiążą się ze zmianami w Y (satysfakcja).
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Wskaźniki --- operacjonalizacja zmiennych}
+
+Zmienne abstrakcyjne (jak ``satysfakcja'' czy ``motywacja'') nie są bezpośrednio mierzalne. Musisz je przełożyć na konkretne, obserwowalne wskaźniki.
+
+\begin{definicja}[Wskaźnik]
+\textbf{Wskaźnik} to obserwowalny i mierzalny przejaw zmiennej abstrakcyjnej. Pozwala na empiryczne zbadanie zjawiska, które samo w sobie nie jest bezpośrednio obserwowalne.
+\end{definicja}
+
+\begin{przyklad}[Operacjonalizacja zmiennej ``satysfakcja z pracy'']
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Zmienna:} Satysfakcja z pracy
+
+\textbf{Wskaźniki (co będę mierzyć):}
+\begin{navylist}
+\item Deklarowana ocena zadowolenia z pracy (skala 1--5)
+\item Chęć polecenia pracodawcy znajomym (tak/nie/trudno powiedzieć)
+\item Zamiar zmiany pracy w ciągu najbliższego roku (tak/nie)
+\item Ocena poszczególnych aspektów: wynagrodzenie, atmosfera, rozwój (skale 1--5)
+\item Absencja chorobowa (liczba dni w roku --- dane z HR)
+\end{navylist}
+
+Każdy wskaźnik to konkretne pytanie w ankiecie lub dana do zebrania.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} Badanie ``motywacji'' bez określenia, jak ją mierzysz.
+
+Problem: ``Motywacja'' to pojęcie abstrakcyjne. Musisz określić wskaźniki: Czy pytasz o deklarowaną motywację? Mierzysz zaangażowanie w zadania? Liczysz nadgodziny? Bez wskaźników nie da się przeprowadzić badania.
+\end{blad}
+
+\begin{wskazowka}
+Przy operacjonalizacji korzystaj z istniejących, sprawdzonych narzędzi. Jeśli badasz satysfakcję z pracy, poszukaj w literaturze, jakich wskaźników używali inni badacze. Nie musisz wymyślać koła na nowo.
+\end{wskazowka}
+
+\sectionbreak
+
+## Pytania badawcze i hipotezy
+
+Już omawialiśmy pytania badawcze i hipotezy we wcześniejszych rozdziałach. Tutaj skupimy się na ich roli w rozdziale metodologicznym.
+
+\sectionheader{acadnavy}{Rodzaje pytań badawczych}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ pytania}} & \textcolor{white}{\textbf{Charakterystyka i przykłady}} \\
+Pytania rozstrzygnięcia & Wymagają odpowiedzi tak/nie; ``Czy X wpływa na Y?'', ``Czy istnieje związek między A i B?'' \\
+\rowcolor{acadlightnavy} Pytania dopełnienia & Wymagają rozbudowanej odpowiedzi; ``Jakie czynniki...?'', ``W jaki sposób...?'', ``Dlaczego...?'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Pytania a hipotezy]
+Na \textbf{pytania rozstrzygnięcia} (tak/nie) formułujemy hipotezy --- przypuszczenia, które weryfikujemy. Na \textbf{pytania dopełnienia} (otwarte) zazwyczaj nie formułujemy hipotez --- szukamy odpowiedzi eksploracyjnie.
+\end{zasada}
+
+\begin{przyklad}[Pytania i odpowiadające im hipotezy]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Pytanie rozstrzygnięcia:} Czy istnieje związek między autonomią w pracy a satysfakcją zawodową?
+
+\textbf{Hipoteza:} H1: Istnieje pozytywny związek między poziomem autonomii w pracy a satysfakcją zawodową programistów.
+
+---
+
+\textbf{Pytanie dopełnienia:} Jakie czynniki motywacji pozafinansowej są najważniejsze dla programistów?
+
+\textbf{Hipoteza:} Nie formułujemy --- pytanie ma charakter eksploracyjny, szukamy odpowiedzi w danych.
+\end{tcolorbox}
+\end{przyklad}
+
+## Dobór próby badawczej
+
+Kogo będziesz badać? To kluczowe pytanie metodologiczne. W pracy licencjackiej rzadko możesz zbadać całą populację, więc musisz wybrać próbę.
+
+\sectionheader{acadnavy}{Populacja vs próba}
+
+\begin{definicja}[Populacja]
+\textbf{Populacja} (populacja generalna) to zbiór wszystkich jednostek, których dotyczy Twoje badanie. Przykład: wszyscy programiści w Polsce, wszystkie firmy IT w Warszawie.
+\end{definicja}
+
+\begin{definicja}[Próba]
+\textbf{Próba} (próba badawcza) to podzbiór populacji, który faktycznie badasz. Przykład: 127 programistów z firm IT w województwie mazowieckim.
+\end{definicja}
+
+\sectionheader{acadnavy}{Rodzaje doboru próby}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Typ doboru}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Losowy prosty & Każda jednostka ma równą szansę wyboru; wymaga listy populacji \\
+\rowcolor{acadlightcopper} Losowy warstwowy & Populację dzieli się na warstwy, z każdej losuje się proporcjonalnie \\
+Celowy & Badacz świadomie wybiera jednostki spełniające kryteria \\
+\rowcolor{acadlightcopper} Przypadkowy (wygodny) & Badacz bada tych, do których ma dostęp \\
+Kula śnieżna & Respondenci wskazują kolejnych respondentów \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+W pracy licencjackiej najczęściej stosujesz dobór \textbf{celowy} lub \textbf{przypadkowy (wygodny)} --- badasz tych, do których masz dostęp (np. pracowników firmy, w której pracujesz, lub znajomych ze studiów). To ogranicza możliwość uogólniania wyników --- musisz to uczciwie napisać w ograniczeniach badania.
+\end{wazne}
+
+\begin{przyklad}[Opis próby w pracy]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Badanie przeprowadzono na próbie 127 programistów zatrudnionych w firmach IT z województwa mazowieckiego. Zastosowano celowy dobór próby --- do badania zaproszono osoby spełniające następujące kryteria: (1) minimum roczne doświadczenie w programowaniu, (2) zatrudnienie na umowę o pracę lub kontrakt B2B, (3) praca w firmie zatrudniającej co najmniej 10 osób.
+
+Respondentów pozyskano poprzez: ogłoszenie w grupach branżowych na LinkedIn (67 osób), kontakty osobiste autora (34 osoby) oraz metodę kuli śnieżnej (26 osób --- polecenia od wcześniejszych respondentów).
+
+Struktura próby: 78\% mężczyzn, 22\% kobiet; średni wiek 31 lat; średni staż pracy 6,2 roku; 45\% zatrudnionych w korporacjach, 35\% w średnich firmach, 20\% w startupach.
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionbreak
+
+## Badanie pilotażowe
+
+Zanim przeprowadzisz właściwe badanie, powinieneś przetestować narzędzie badawcze na małej grupie.
+
+\begin{definicja}[Badanie pilotażowe]
+\textbf{Badanie pilotażowe} (pilotaż) to wstępne badanie przeprowadzone na małej próbie w celu sprawdzenia, czy narzędzie badawcze (np. ankieta) jest zrozumiałe, jednoznaczne i pozwala zebrać potrzebne dane.
+\end{definicja}
+
+\begin{zasada}[Cel pilotażu]
+Badanie pilotażowe służy wykryciu problemów z narzędziem \textbf{przed} właściwym badaniem. Sprawdzasz: czy pytania są zrozumiałe, czy kafeterie odpowiedzi są kompletne, ile czasu zajmuje wypełnienie, czy instrukcje są jasne.
+\end{zasada}
+
+\begin{przyklad}[Co sprawdzić w pilotażu?]
+\begin{forestlist}
+\item Czy wszystkie pytania są zrozumiałe? (poproś o głośne myślenie)
+\item Czy kafeterie odpowiedzi obejmują wszystkie możliwości?
+\item Ile czasu zajmuje wypełnienie? (czy nie za długo?)
+\item Czy kolejność pytań jest logiczna?
+\item Czy instrukcje są jasne?
+\item Czy nie ma pytań drażliwych lub obraźliwych?
+\item Czy respondenci interpretują pytania zgodnie z Twoimi intencjami?
+\end{forestlist}
+\end{przyklad}
+
+\begin{wskazowka}
+Pilotaż przeprowadź na 5--10 osobach z grupy docelowej (nie na rodzinie czy znajomych z innej branży). Po pilotażu wprowadź poprawki do kwestionariusza. Osoby z pilotażu nie wchodzą do właściwej próby badawczej.
+\end{wskazowka}
+
+\begin{blad}
+\textbf{Błąd:} Pominięcie badania pilotażowego.
+
+Konsekwencje: Dopiero po zebraniu 100 ankiet odkrywasz, że pytanie nr 7 jest niezrozumiałe i wszyscy odpowiadają losowo. Dane są bezwartościowe, a badanie trzeba powtórzyć.
+\end{blad}
+
+## Konstrukcja kwestionariusza ankiety
+
+Kwestionariusz ankiety to najczęściej używane narzędzie w pracach licencjackich. Jego poprawna konstrukcja decyduje o jakości danych.
+
+\sectionheader{acadnavy}{Struktura kwestionariusza}
+
+\begin{navylist}
+\item \textbf{Wprowadzenie} --- kto prowadzi badanie, jaki jest cel, zapewnienie o anonimowości, instrukcja wypełniania
+\item \textbf{Pytania wprowadzające} --- łatwe, ogólne, budujące zaangażowanie
+\item \textbf{Pytania merytoryczne} --- główne pytania badawcze, pogrupowane tematycznie
+\item \textbf{Metryczka} --- dane o respondencie (wiek, płeć, wykształcenie, stanowisko) --- zwykle na końcu
+\item \textbf{Podziękowanie} --- za poświęcony czas
+\end{navylist}
+
+\sectionheader{acadnavy}{Rodzaje pytań}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ pytania}} & \textcolor{white}{\textbf{Przykład}} \\
+Zamknięte jednokrotnego wyboru & ``Czy pracujesz zdalnie?'' \textit{Tak / Nie / Częściowo} \\
+\rowcolor{acadlightnavy} Zamknięte wielokrotnego wyboru & ``Które benefity oferuje Twoja firma?'' \textit{(można zaznaczyć kilka)} \\
+Skala Likerta & ``Jestem zadowolony z atmosfery w pracy'' \textit{1-zdecydowanie nie, 5-zdecydowanie tak} \\
+\rowcolor{acadlightnavy} Ranking & ``Uporządkuj czynniki od najważniejszego (1) do najmniej ważnego (5)'' \\
+Otwarte & ``Co najbardziej motywuje Cię w pracy?'' \textit{(pole tekstowe)} \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Proporcje pytań]
+W ankiecie ilościowej dominują pytania zamknięte (łatwiejsza analiza statystyczna). Pytania otwarte stosuj oszczędnie --- 1--3 na końcu, dla pogłębienia lub uchwycenia tego, czego nie przewidziałeś w kafeteriach.
+\end{zasada}
+
+\begin{blad}
+\textbf{Błędy w konstrukcji pytań:}
+\begin{burgundylist}
+\item Pytania sugerujące: ``Czy zgadzasz się, że firma XYZ ma świetną kulturę organizacyjną?''
+\item Pytania podwójne: ``Czy jesteś zadowolony z wynagrodzenia i atmosfery w pracy?''
+\item Niekompletne kafeterie: brak opcji ``nie dotyczy'' lub ``inne''
+\item Zbyt wiele pytań otwartych (respondenci pomijają)
+\item Żargon naukowy niezrozumiały dla respondentów
+\end{burgundylist}
+\end{blad}
+
+\sectionbreak
+
+## Jak opisać metodologię w pracy?
+
+Rozdział metodologiczny powinien zawierać wszystkie informacje potrzebne do zrozumienia i powtórzenia badania.
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Elementy rozdziału metodologicznego:}
+\begin{navylist}
+\item \textbf{Cel badań} --- co chcesz osiągnąć?
+\item \textbf{Pytania badawcze} --- na jakie pytania szukasz odpowiedzi?
+\item \textbf{Hipotezy} (jeśli dotyczy) --- jakie przypuszczenia weryfikujesz?
+\item \textbf{Zmienne i wskaźniki} --- co mierzysz i jak?
+\item \textbf{Metoda} --- jaka ogólna strategia badawcza?
+\item \textbf{Techniki} --- jak konkretnie zbierasz dane?
+\item \textbf{Narzędzia} --- jakich instrumentów używasz?
+\item \textbf{Próba badawcza} --- kogo badasz, jak dobrałeś próbę, jaka jest jej charakterystyka?
+\item \textbf{Przebieg badania} --- kiedy, gdzie i jak przeprowadzono badanie?
+\item \textbf{Metody analizy danych} --- jak analizujesz zebrane dane?
+\item \textbf{Ograniczenia badania} --- jakie są słabości metodologiczne?
+\end{navylist}
+\end{tcolorbox}
+
+\begin{przyklad}[Fragment opisu metodologii]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+W badaniu zastosowano \textbf{metodę sondażu diagnostycznego}. \textbf{Techniką badawczą} było ankietowanie online, a \textbf{narzędziem} --- autorski kwestionariusz ankiety przygotowany w aplikacji Google Forms.
+
+Kwestionariusz składał się z trzech części: (1) pytań dotyczących czynników motywacji --- 18 pytań w skali Likerta 1--5, (2) pytań o satysfakcję z pracy --- 6 pytań w skali Likerta, (3) metryczki --- 8 pytań o dane demograficzne i zawodowe. Czas wypełnienia wynosił około 8--10 minut.
+
+Przed właściwym badaniem przeprowadzono \textbf{pilotaż} na grupie 8 programistów, który pozwolił doprecyzować sformułowania trzech pytań i dodać jedną brakującą opcję w kafeterii odpowiedzi.
+
+Badanie właściwe przeprowadzono w okresie 1--31 marca 2024 roku. Link do ankiety rozpowszechniono poprzez grupy branżowe na LinkedIn oraz bezpośrednie kontakty autora. Zebrano 143 odpowiedzi, z czego po odrzuceniu niekompletnych do analizy zakwalifikowano 127.
+\end{tcolorbox}
+\end{przyklad}
+
+## Ograniczenia badania
+
+Każde badanie ma swoje ograniczenia. Uczciwe ich przedstawienie świadczy o dojrzałości naukowej autora.
+
+\begin{zasada}[Pisanie o ograniczeniach]
+Ograniczenia badania opisuje się zazwyczaj pod koniec rozdziału metodologicznego lub w zakończeniu pracy. Nie chodzi o deprecjonowanie własnej pracy, ale o uczciwe wskazanie, czego na podstawie Twoich badań \textbf{nie można} stwierdzić.
+\end{zasada}
+
+\begin{przyklad}[Typowe ograniczenia w pracy licencjackiej]
+\begin{tcolorbox}[enhanced, colback=acadlightcopper, colframe=acadcopper, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Ograniczenia przeprowadzonego badania:}
+\begin{navylist}
+\item \textbf{Dobór próby} --- zastosowano dobór celowy i przypadkowy, co ogranicza możliwość uogólniania wyników na całą populację programistów w Polsce
+\item \textbf{Wielkość próby} --- 127 respondentów to próba pozwalająca na wstępne wnioski, ale niewystarczająca do zaawansowanych analiz statystycznych
+\item \textbf{Zasięg geograficzny} --- badanie objęło tylko województwo mazowieckie; sytuacja w innych regionach może być odmienna
+\item \textbf{Deklaratywność odpowiedzi} --- respondenci mogli deklarować inne postawy niż rzeczywiście prezentują
+\item \textbf{Przekrojowy charakter} --- badanie przeprowadzono jednorazowo; nie można wnioskować o zmianach w czasie
+\end{navylist}
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionbreak
+
+## Checklist rozdziału metodologicznego
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Lista kontrolna --- metodologia:}
+\begin{forestlist}
+\item Cel badania jest jasno sformułowany
+\item Pytania badawcze są konkretne i mierzalne
+\item Hipotezy (jeśli są) dotyczą związków między zmiennymi
+\item Zmienne są zdefiniowane i zoperacjonalizowane (wskaźniki)
+\item Metoda, technika i narzędzie są poprawnie nazwane i rozróżnione
+\item Próba badawcza jest opisana (wielkość, charakterystyka, sposób doboru)
+\item Narzędzie badawcze jest szczegółowo opisane (struktura kwestionariusza)
+\item Przebieg badania jest opisany (kiedy, gdzie, jak)
+\item Wspomniano o pilotażu (jeśli był)
+\item Opisano metody analizy danych
+\item Ograniczenia badania są uczciwie przedstawione
+\item Kwestionariusz ankiety jest dołączony w załącznikach
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie kluczowe elementy metodologii badań: hierarchię metoda-technika-narzędzie, główne metody i techniki badawcze, zmienne i wskaźniki, konstrukcję kwestionariusza oraz opis metodologii w pracy.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Metoda → technika → narzędzie to hierarchia, nie synonimy
+\item Sondaż diagnostyczny i studium przypadku to najczęstsze metody w pracach lic.
+\item Zmienna zależna to skutek (Y), niezależna to przyczyna (X)
+\item Wskaźniki pozwalają zmierzyć abstrakcyjne pojęcia
+\item Badanie pilotażowe jest obowiązkowe przed właściwym badaniem
+\item Pytania zamknięte dominują w ankietach ilościowych
+\item Dobór próby wpływa na możliwość uogólniania wyników
+\item Ograniczenia badania należy uczciwie opisać
+\item Rozdział metodologiczny musi być na tyle szczegółowy, by badanie można było powtórzyć
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Weź swoje główne pytanie badawcze i rozpisz je na: (1) zmienną zależną, (2) zmienną niezależną, (3) 3--4 wskaźniki dla każdej zmiennej. Następnie sformułuj 5 pytań ankietowych, które pozwolą zmierzyć te wskaźniki.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się prezentacją i analizą wyników badań --- dowiesz się, jak przedstawiać dane w tabelach i wykresach oraz jak interpretować wyniki.

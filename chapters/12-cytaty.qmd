@@ -1,0 +1,453 @@
+---
+pagetitle: "Cytaty i cytowania"
+---
+
+\pagestyle{zrodla}
+\thispagestyle{zrodla}
+
+# Cytaty i cytowania
+
+\sectionheader{acadforest}{Sztuka rzetelnego powoływania się na źródła}
+
+Cytowanie to fundament pracy naukowej. Każda myśl, teoria, dane czy ustalenia, które nie są Twoim oryginalnym wkładem, muszą zostać opatrzone odniesieniem do źródła. Prawidłowe cytowanie nie jest tylko wymogiem formalnym --- to wyraz uczciwości intelektualnej, szacunku dla pracy innych badaczy oraz dowód na to, że Twoje rozważania są osadzone w szerszym kontekście naukowym.
+
+Umiejętność cytowania obejmuje kilka aspektów: wiedzę o tym, kiedy cytować dosłownie, a kiedy parafrazować, znajomość technik wprowadzania cytatów do tekstu, świadomość zagrożeń związanych z plagiatem oraz rozumienie, jak działają systemy antyplagiatowe. Ten rozdział przeprowadzi Cię przez wszystkie te zagadnienia.
+
+\begin{wazne}
+Cytowanie to nie tylko kwestia formalna --- to kwestia \textbf{etyki naukowej}. Przypisywanie sobie cudzych myśli (nawet nieświadome) jest plagiatem i może skutkować poważnymi konsekwencjami: od niezaliczenia pracy, przez skreślenie z listy studentów, po odpowiedzialność prawną.
+\end{wazne}
+
+## Kiedy cytować dosłownie, kiedy parafrazować?
+
+Jednym z najczęstszych dylematów studentów jest wybór między cytatem dosłownym a parafrazą. Obie formy są uprawnione, ale służą różnym celom i mają różne zastosowania.
+
+\sectionheader{acadnavy}{Cytat dosłowny}
+
+\begin{definicja}[Cytat dosłowny]
+Cytat dosłowny to dokładne, dosłowne przytoczenie fragmentu tekstu źródłowego, ujęte w cudzysłów i opatrzone przypisem ze wskazaniem strony. Cytat musi być \textbf{wierny} --- nie wolno zmieniać słów, szyku zdania ani interpunkcji bez wyraźnego zaznaczenia.
+\end{definicja}
+
+Cytat dosłowny stosujemy w ściśle określonych sytuacjach. Nie jest to domyślna forma odwoływania się do źródeł --- wręcz przeciwnie, cytaty dosłowne powinny być stosowane oszczędnie i z uzasadnieniem.
+
+\begin{zasada}[Kiedy stosować cytat dosłowny?]
+Cytat dosłowny jest uzasadniony, gdy:
+\begin{navylist}
+\item \textbf{Przytaczasz definicję} --- szczególnie gdy jest ona kanoniczna, szeroko uznana lub gdy jej dokładne brzmienie ma znaczenie
+\item \textbf{Oryginalne sformułowanie jest wyjątkowo trafne} --- autor wyraził myśl w sposób, który trudno oddać innymi słowami bez utraty sensu lub siły wyrazu
+\item \textbf{Analizujesz język źródła} --- gdy przedmiotem analizy jest sam tekst, jego forma, styl lub dobór słów
+\item \textbf{Przytaczasz kontrowersyjną tezę} --- gdy chcesz pokazać, co dokładnie autor powiedział, aby uniknąć zarzutu przekłamania jego poglądów
+\item \textbf{Cytujesz akt prawny, dokument lub źródło pierwotne} --- gdzie dokładne brzmienie ma znaczenie prawne lub historyczne
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Uzasadniony cytat dosłowny --- definicja]
+Według Kotarbińskiego, ``prakseologia jest ogólną teorią sprawnego działania''\footnote{T. Kotarbiński, \textit{Traktat o dobrej robocie}, Wrocław 1969, s. 19.}. Ta zwięzła definicja stała się kanoniczna w polskiej literaturze naukowej.
+\end{przyklad}
+
+\begin{przyklad}[Uzasadniony cytat dosłowny --- trafne sformułowanie]
+Weber trafnie ujął istotę biurokracji, pisząc o ``żelaznej klatce'' (\textit{iron cage}) racjonalizacji, która ``nieubłaganie determinuje życie wszystkich jednostek urodzonych w tym mechanizmie''\footnote{M. Weber, \textit{Etyka protestancka a duch kapitalizmu}, Lublin 1994, s. 165.}.
+\end{przyklad}
+
+\sectionheader{acadnavy}{Parafraza}
+
+\begin{definicja}[Parafraza]
+Parafraza to przedstawienie cudzej myśli \textbf{własnymi słowami}, z zachowaniem sensu oryginału, ale przy użyciu odmiennych sformułowań i struktury zdania. Parafraza \textbf{również wymaga przypisu} --- sam fakt przeformułowania nie zwalnia z obowiązku wskazania źródła.
+\end{definicja}
+
+Parafraza jest podstawową i zalecaną formą odwoływania się do źródeł w pracy naukowej. Pokazuje, że rozumiesz przytaczaną treść i potrafisz ją wyrazić własnymi słowami.
+
+\begin{zasada}[Kiedy parafrazować?]
+Parafraza jest właściwa, gdy:
+\begin{navylist}
+\item \textbf{Referujesz poglądy, teorie, wyniki badań} --- bez potrzeby cytowania dokładnego brzmienia
+\item \textbf{Streszczasz dłuższy fragment} --- gdy chcesz oddać główną myśl bez przytaczania całego tekstu
+\item \textbf{Oryginalne sformułowanie jest nieporęczne, zawiłe lub archaiczne} --- możesz ująć to prościej
+\item \textbf{Budujesz własną argumentację} --- wplatając cudze ustalenia w swój tok rozumowania
+\item \textbf{Odwołujesz się do ogólnej koncepcji} --- bez potrzeby cytowania konkretnego fragmentu
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Parafraza]
+\textbf{Oryginał:}
+``Motywacja wewnętrzna odnosi się do wykonywania czynności dla samej przyjemności i satysfakcji, jaką ta czynność dostarcza, bez konieczności zewnętrznych nagród czy nacisków.''
+
+\textbf{Parafraza:}
+Według teorii autodeterminacji, motywacja wewnętrzna oznacza podejmowanie działań ze względu na satysfakcję płynącą z samej aktywności, a nie z powodu zewnętrznych bodźców czy gratyfikacji\footnote{E.L. Deci, R.M. Ryan, \textit{Intrinsic Motivation and Self-Determination in Human Behavior}, New York 1985, s. 43.}.
+\end{przyklad}
+
+\sectionheader{acadnavy}{Porównanie cytatu i parafrazy}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Aspekt}} & \textcolor{white}{\textbf{Cytat dosłowny vs Parafraza}} \\
+Forma & Cytat: dokładne słowa autora; Parafraza: własne słowa \\
+\rowcolor{acadlightnavy} Cudzysłów & Cytat: wymagany; Parafraza: niedopuszczalny \\
+Przypis & Cytat: wymagany (ze stroną); Parafraza: wymagany \\
+\rowcolor{acadlightnavy} Częstość użycia & Cytat: rzadko, z uzasadnieniem; Parafraza: często, jako norma \\
+Co pokazuje & Cytat: dokładne brzmienie; Parafraza: zrozumienie treści \\
+\rowcolor{acadlightnavy} Kiedy stosować & Cytat: definicje, trafne sformułowania; Parafraza: większość przypadków \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Błąd: Nadużywanie cytatów dosłownych}
+
+Praca, w której co drugi akapit zawiera cytat dosłowny, sprawia wrażenie kompilacji cudzych tekstów, a nie samodzielnej pracy autora. Nadmiar cytatów sugeruje, że student nie rozumie materiału i nie potrafi wyrazić go własnymi słowami.
+
+\textbf{Zasada:} Cytaty dosłowne powinny stanowić nie więcej niż 10--15\% tekstu. Większość odwołań do źródeł powinna mieć formę parafrazy.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd: Pozorna parafraza}
+
+Zmiana kilku słów w zdaniu nie czyni z niego parafrazy. Jeśli zachowujesz strukturę zdania i większość słów, a tylko zastępujesz niektóre synonimy --- to nadal plagiat, nawet z przypisem.
+
+\textbf{Oryginał:} ``Globalizacja prowadzi do homogenizacji kultur i zaniku lokalnych tradycji.''
+
+\textbf{Pozorna parafraza (błędna):} ``Globalizacja powoduje ujednolicenie kultur i zanik lokalnych zwyczajów.''
+
+\textbf{Prawdziwa parafraza (poprawna):} ``Procesy globalizacyjne wpływają na kultury lokalne, prowadząc do ich upodabniania się i osłabienia tradycyjnych wzorców.''
+\end{blad}
+
+\sectionbreak
+
+## Zasady stosowania cudzysłowu
+
+Cudzysłów to znak graficzny sygnalizujący cytat dosłowny. Jego prawidłowe stosowanie jest niezbędne dla czytelności i poprawności tekstu naukowego.
+
+\sectionheader{acadforest}{Podstawowe zasady}
+
+\begin{zasada}[Kiedy używać cudzysłowu?]
+Cudzysłów stosujemy w następujących sytuacjach:
+\begin{forestlist}
+\item Przy \textbf{cytatach dosłownych} --- zawsze, bez wyjątku
+\item Przy \textbf{tytułach artykułów} --- w niektórych systemach bibliograficznych
+\item Przy \textbf{słowach użytych ironicznie lub w specjalnym znaczeniu} --- np. tzw. ``eksperci''
+\item Przy \textbf{terminach obcojęzycznych} --- gdy nie są jeszcze zadomowione w polszczyźnie (alternatywnie: kursywa)
+\item Przy \textbf{pierwszym użyciu nowego terminu} --- który wprowadzasz lub definiujesz
+\end{forestlist}
+\end{zasada}
+
+\begin{wazne}
+W polskiej typografii stosujemy cudzysłów \textbf{apostrofowy dolny i górny}: „tekst". W edytorach tekstu często automatycznie wstawiane są cudzysłowy angielskie ("tekst") --- należy je zamienić na polskie lub używać cudzysłowu uniwersalnego (``tekst''), który w wielu fontach wygląda poprawnie.
+\end{wazne}
+
+\sectionheader{acadforest}{Cytaty krótkie i długie}
+
+Sposób formatowania cytatu zależy od jego długości.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Typ cytatu}} & \textcolor{white}{\textbf{Zasady formatowania}} \\
+Cytat krótki (do 3--4 wierszy) & W cudzysłowie, w ciągu tekstu, bez wyróżnienia graficznego \\
+\rowcolor{acadlightforest} Cytat długi (powyżej 3--4 wierszy) & Wyodrębniony jako osobny blok, mniejszą czcionką, z wcięciem, \textbf{bez cudzysłowu} (wyodrębnienie pełni funkcję cudzysłowu) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Cytat krótki]
+Jak trafnie zauważył Znaniecki, ``humanistyczny współczynnik oznacza, że badacz musi brać pod uwagę to, jak dane zjawisko jest doświadczane przez uczestników życia społecznego''\footnote{F. Znaniecki, \textit{Metoda socjologii}, Warszawa 2008, s. 37.}.
+\end{przyklad}
+
+\begin{przyklad}[Cytat długi --- blokowy]
+Tocqueville w swoim klasycznym dziele opisał specyfikę amerykańskiej demokracji:
+
+\begin{cytat}
+W Ameryce istnieje silna tradycja stowarzyszeniowa. Amerykanie wszelkiego wieku, wszelkich stanów, wszelkich umysłów nieustannie się zrzeszają. Mają oni nie tylko stowarzyszenia handlowe i przemysłowe, w których wszyscy biorą udział, ale również i tysiące innych: religijnych, moralnych, poważnych i błahych, ogólnych i bardzo specjalnych, wielkich i małych\footnote{A. de Tocqueville, \textit{O demokracji w Ameryce}, Warszawa 1976, s. 254.}.
+\end{cytat}
+
+Ta obserwacja pozostaje aktualna również współcześnie.
+\end{przyklad}
+
+\sectionheader{acadforest}{Modyfikacje w cytacie}
+
+Czasami konieczne jest wprowadzenie zmian w cytowanym tekście. Każda modyfikacja musi być wyraźnie zaznaczona.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Modyfikacja}} & \textcolor{white}{\textbf{Sposób oznaczenia}} \\
+Opuszczenie fragmentu & Wielokropek w nawiasie kwadratowym: [...] \\
+\rowcolor{acadlightnavy} Dodanie własnego słowa (dla jasności) & Słowo w nawiasie kwadratowym: [słowo] \\
+Zmiana formy gramatycznej & Zmieniona forma w nawiasie kwadratowym: [zmienione] \\
+\rowcolor{acadlightnavy} Wyróżnienie (podkreślenie, pogrubienie) & Dopisek: [podkr. --- X.Y.] lub [wyróżn. moje] \\
+Błąd w oryginale & Dopisek po błędnym słowie: [sic!] lub [tak w oryginale] \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Modyfikacje w cytacie]
+``Badania przeprowadzone w latach dziewięćdziesiątych [...] wykazały istotną zależność między [poziomem wykształcenia] a uczestnictwem w kulturze''\footnote{J. Kowalski, \textit{Kultura masowa}, Kraków 2001, s. 78.}.
+
+``Jak słusznie zauważył autor, `kwestja [sic!] ta wymaga dalszych badań'''\footnote{A. Nowak, \textit{Studia historyczne}, Lwów 1925, s. 12. Pisownia oryginalna.}.
+\end{przyklad}
+
+\sectionheader{acadforest}{Cudzysłów w cudzysłowie}
+
+Gdy cytujesz tekst, który sam zawiera cytat, stosujesz cudzysłów drugiego stopnia.
+
+\begin{zasada}[Cudzysłów w cudzysłowie]
+W polskiej typografii cudzysłów drugiego stopnia to: «tekst» (cudzysłów ostrokątny, tzw. francuski) lub 'tekst' (apostrof pojedynczy). W praktyce akademickiej najczęściej stosuje się apostrof pojedynczy.
+\end{zasada}
+
+\begin{przyklad}[Cudzysłów w cudzysłowie]
+Autor podkreśla: ``Według Webera, biurokracja to `panowanie na mocy wiedzy', które charakteryzuje nowoczesne społeczeństwa''\footnote{M. Szczepański, \textit{Socjologia organizacji}, Warszawa 2010, s. 89.}.
+\end{przyklad}
+
+\sectionheader{acadforest}{Czego NIE ujmować w cudzysłów}
+
+\begin{burgundylist}
+\item \textbf{Parafraz} --- piszesz własnymi słowami, więc cudzysłów jest nieuzasadniony
+\item \textbf{Powszechnie znanych faktów} --- np. ``Ziemia krąży wokół Słońca''
+\item \textbf{Terminów naukowych w normalnym użyciu} --- np. motywacja, socjalizacja, korelacja
+\item \textbf{Tytułów książek} --- zapisujemy kursywą, nie w cudzysłowie
+\item \textbf{Słów dla podkreślenia} --- używaj kursywy, nie cudzysłowu
+\end{burgundylist}
+
+\begin{blad}
+\textbf{Błąd: Cudzysłów zamiast kursywy}
+
+Źle: W teorii ``motywacji'' wyróżnia się...
+
+Dobrze: W teorii motywacji wyróżnia się...
+
+Źle: Przeczytałem książkę ``Struktura rewolucji naukowych''.
+
+Dobrze: Przeczytałem książkę \textit{Struktura rewolucji naukowych}.
+\end{blad}
+
+\sectionbreak
+
+## Jak nie wpaść w pułapkę plagiatu?
+
+Plagiat to jedna z najpoważniejszych przewin akademickich. Niestety, wiele przypadków plagiatu wynika nie ze złej woli, ale z nieznajomości zasad lub niedbałości. Znajomość pułapek pozwoli Ci ich uniknąć.
+
+\sectionheader{acadburgundy}{Czym jest plagiat?}
+
+\begin{definicja}[Plagiat]
+Plagiat to przywłaszczenie cudzego utworu lub jego części i przedstawienie go jako własnego. W kontekście akademickim obejmuje to: kopiowanie tekstu bez cytowania, parafrazowanie bez podania źródła, kupowanie lub zlecanie napisania pracy, a także autoplagiat (wykorzystanie własnej wcześniejszej pracy bez zaznaczenia).
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Rodzaj plagiatu}} & \textcolor{white}{\textbf{Opis}} \\
+Plagiat dosłowny & Kopiowanie tekstu słowo w słowo bez cudzysłowu i przypisu \\
+\rowcolor{acadlightburgundy} Plagiat parafrazowy & Przeformułowanie cudzego tekstu bez podania źródła \\
+Plagiat mozaikowy & Łączenie fragmentów z różnych źródeł bez cytowania \\
+\rowcolor{acadlightburgundy} Plagiat strukturalny & Przejęcie struktury, układu, argumentacji bez podania źródła \\
+Autoplagiat & Wykorzystanie własnej wcześniejszej pracy jako nowej \\
+\rowcolor{acadlightburgundy} Ghostwriting & Przedstawienie pracy napisanej przez kogoś innego jako własnej \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadburgundy}{Najczęstsze pułapki}
+
+\begin{blad}
+\textbf{Pułapka 1: ``Zapomniany'' przypis}
+
+Podczas pisania notatek kopiujesz fragmenty z różnych źródeł. Później, przy pisaniu pracy, nie pamiętasz już, co jest Twoje, a co cudze. Efekt: fragmenty cudzego tekstu w pracy bez przypisu.
+
+\textbf{Jak uniknąć:} Zawsze, \textbf{od razu} przy robieniu notatek, oznaczaj cytaty cudzysłowem i zapisuj pełne dane bibliograficzne. Używaj różnych kolorów dla własnych myśli i cytatów.
+\end{blad}
+
+\begin{blad}
+\textbf{Pułapka 2: ``Wspólna wiedza''}
+
+Zakładasz, że coś jest ``powszechnie znane'' i nie wymaga przypisu. Granica między wiedzą powszechną a specjalistyczną jest płynna i subiektywna.
+
+\textbf{Jak uniknąć:} W razie wątpliwości --- \textbf{zawsze} podawaj źródło. Lepiej mieć ``nadmiar'' przypisów niż być posądzonym o plagiat. Wiedza powszechna to np. ``Warszawa jest stolicą Polski'', a nie ``Według teorii Kohlberga rozwój moralny przebiega przez sześć stadiów''.
+\end{blad}
+
+\begin{blad}
+\textbf{Pułapka 3: Pozorna parafraza}
+
+Zmieniasz kilka słów w zdaniu, sądząc, że to wystarczy. Tymczasem zachowanie struktury zdania i większości słownictwa to nadal plagiat.
+
+\textbf{Jak uniknąć:} Przy parafrazowaniu: przeczytaj fragment, odłóż tekst, sformułuj myśl własnymi słowami bez patrzenia na oryginał, sprawdź, czy Twoje sformułowanie jest wystarczająco odmienne.
+\end{blad}
+
+\begin{blad}
+\textbf{Pułapka 4: Tłumaczenie bez przypisu}
+
+Tłumaczysz fragment z tekstu obcojęzycznego i traktujesz go jako własny, bo jest w innym języku niż oryginał.
+
+\textbf{Jak uniknąć:} Tłumaczenie cudzego tekstu \textbf{wymaga} podania źródła, tak samo jak cytowanie w tym samym języku. Możesz dodać: ``tłum. własne'' lub ``tłum. X.Y.''.
+\end{blad}
+
+\begin{blad}
+\textbf{Pułapka 5: Cytowanie ze ``drugiej ręki''}
+
+Cytujesz autora A, ale znasz jego słowa tylko z pracy autora B. Podajesz jednak przypis do A, którego nie czytałeś.
+
+\textbf{Jak uniknąć:} Jeśli nie czytałeś oryginału, musisz to zaznaczyć: ``cyt. za:'' lub ``za:''. Np.: ``K. Popper, \textit{Społeczeństwo otwarte}, s. 45, cyt. za: J. Kowalski, \textit{Filozofia polityczna}, Warszawa 2010, s. 123.''
+\end{blad}
+
+\sectionheader{acadforest}{Jak prawidłowo cytować --- lista kontrolna}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Przed oddaniem pracy sprawdź:}
+\begin{forestlist}
+\item Czy każdy cytat dosłowny jest w cudzysłowie i ma przypis ze stroną?
+\item Czy każda parafraza ma przypis do źródła?
+\item Czy nie ma fragmentów ``zawieszonych'' --- bez jasnego wskazania, czyja to myśl?
+\item Czy odróżniasz własne komentarze od referowania cudzych poglądów?
+\item Czy cytaty ``z drugiej ręki'' są oznaczone jako ``cyt. za:''?
+\item Czy tłumaczenia z języków obcych mają podane źródło?
+\item Czy notatki, z których korzystałeś, mają zapisane źródła?
+\item Czy proporcja cytatów dosłownych do tekstu własnego jest rozsądna (max 10--15\%)?
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionheader{acadforest}{Techniki prawidłowego cytowania}
+
+\resetsteps
+
+\begin{krok}[acadforest]{Prowadź dokładne notatki}
+Od początku pracy nad źródłami zapisuj pełne dane bibliograficzne każdej pozycji. Przy każdym fragmencie zaznaczaj, czy to cytat (cudzysłów + strona) czy Twoja parafraza (też strona).
+\end{krok}
+
+\begin{krok}[acadforest]{Używaj programu do zarządzania bibliografią}
+Zotero, Mendeley, EndNote --- te narzędzia automatycznie zapisują dane bibliograficzne i ułatwiają wstawianie przypisów. Znacznie zmniejszają ryzyko błędów i zapomnianych źródeł.
+\end{krok}
+
+\begin{krok}[acadforest]{Stosuj technikę ``odłóż i napisz''}
+Przy parafrazowaniu: przeczytaj fragment, zamknij książkę/plik, napisz myśl własnymi słowami, dopiero potem porównaj z oryginałem i upewnij się, że sformułowanie jest wystarczająco odmienne.
+\end{krok}
+
+\begin{krok}[acadforest]{Wyraźnie sygnalizuj cudze poglądy}
+Używaj formuł wprowadzających: ``Według Kowalskiego...'', ``Jak twierdzi Nowak...'', ``W literaturze podkreśla się...''. Dzięki temu czytelnik zawsze wie, czyja to myśl.
+\end{krok}
+
+\begin{krok}[acadforest]{Sprawdź pracę przed oddaniem}
+Przeczytaj całość, zwracając uwagę tylko na cytaty i przypisy. Sprawdź każdy akapit: czy wiadomo, skąd pochodzi informacja?
+\end{krok}
+
+\sectionbreak
+
+## System antyplagiatowy — co wykrywa?
+
+Polskie uczelnie są zobowiązane do sprawdzania prac dyplomowych w systemie antyplagiatowym. Zrozumienie, jak działa ten system, pomoże Ci uniknąć nieporozumień i świadomie budować tekst.
+
+\sectionheader{acadnavy}{Jak działa system antyplagiatowy?}
+
+\begin{definicja}[System antyplagiatowy]
+System antyplagiatowy (np. JSA --- Jednolity System Antyplagiatowy, OSA, Plagiat.pl) to oprogramowanie, które porównuje treść pracy z bazą danych zawierającą miliony dokumentów: innych prac dyplomowych, publikacji naukowych, stron internetowych i innych źródeł. System identyfikuje fragmenty tekstu, które pokrywają się ze źródłami w bazie.
+\end{definicja}
+
+\begin{wazne}
+System antyplagiatowy \textbf{nie stwierdza plagiatu} --- on jedynie \textbf{wykrywa podobieństwa}. Decyzję o tym, czy dane podobieństwo stanowi plagiat, podejmuje człowiek (promotor, recenzent). Podobieństwo może być uzasadnione (prawidłowy cytat, powszechna terminologia) lub nieuzasadnione (plagiat).
+\end{wazne}
+
+\sectionheader{acadnavy}{Co wykrywa system?}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{System wykrywa}} & \textcolor{white}{\textbf{System NIE wykrywa}} \\
+Dosłowne powtórzenia tekstu & Parafrazy (dobrze wykonane) \\
+\rowcolor{acadlightnavy} Bardzo podobne fragmenty (zamienione słowa) & Oryginalnych myśli i analiz \\
+Fragmenty ze stron internetowych & Treści niedostępnych online (np. niepublikowane materiały) \\
+\rowcolor{acadlightnavy} Teksty z innych prac dyplomowych & Źródeł spoza bazy systemu \\
+Cytaty (nawet prawidłowe) & Tego, czy cytat jest oznaczony cudzysłowem \\
+\rowcolor{acadlightnavy} Typowe frazy naukowe (mogą generować fałszywe alarmy) & Tego, czy przypis jest poprawny \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Współczynnik podobieństwa --- co oznacza?}
+
+System generuje raport ze współczynnikiem podobieństwa (np. 15\%, 30\%, 45\%). Ten wskaźnik oznacza, jaki procent tekstu pracy pokrywa się ze źródłami w bazie.
+
+\begin{zasada}[Interpretacja współczynnika podobieństwa]
+\begin{navylist}
+\item \textbf{0--15\%} --- zazwyczaj akceptowalne; podobieństwa wynikają głównie z typowych fraz, terminologii, prawidłowych cytatów
+\item \textbf{15--30\%} --- wymaga analizy; może być w porządku (dużo prawidłowych cytatów) lub problematyczne
+\item \textbf{Powyżej 30\%} --- zazwyczaj wymaga wyjaśnienia; wskazuje na potencjalne problemy
+\item \textbf{Powyżej 50\%} --- poważny sygnał ostrzegawczy; bardzo prawdopodobny plagiat
+\end{navylist}
+
+\textbf{Uwaga:} Nie ma jednego uniwersalnego progu. Praca z wieloma prawidłowymi cytatami z aktów prawnych może mieć wysoki współczynnik, a mimo to nie być plagiatem. Decyduje analiza jakościowa, nie sama liczba.
+\end{zasada}
+
+\sectionheader{acadnavy}{Co system oznacza jako podobieństwo?}
+
+\begin{forestlist}
+\item \textbf{Prawidłowe cytaty} --- system je wykrywa, bo są identyczne ze źródłem. To \textbf{nie} jest plagiat, jeśli są w cudzysłowie i z przypisem. Promotor to zweryfikuje.
+\item \textbf{Bibliografia i strona tytułowa} --- standardowe elementy mogą być podobne w wielu pracach. Często wyłączane z analizy.
+\item \textbf{Typowe frazy naukowe} --- ``celem pracy jest'', ``na podstawie przeprowadzonych badań'', ``w świetle powyższych rozważań'' --- powtarzają się w tysiącach prac. To nie plagiat.
+\item \textbf{Cytaty z aktów prawnych} --- brzmienie przepisów jest identyczne w każdej pracy je cytującej. To uzasadnione podobieństwo.
+\item \textbf{Rzeczywiste plagiaty} --- fragmenty tekstu bez cudzysłowu i przypisu, skopiowane ze źródeł.
+\end{forestlist}
+
+\sectionheader{acadburgundy}{Fałszywe alarmy i prawdziwe problemy}
+
+\begin{przyklad}[Fałszywy alarm --- nie plagiat]
+System wykrył 8\% podobieństwa. W raporcie widać, że podobne fragmenty to:
+\begin{goldlist}
+\item Definicja z ustawy o ochronie danych osobowych (prawidłowo zacytowana)
+\item Frazy typu ``W niniejszym rozdziale przedstawiono...''
+\item Nazwiska autorów i tytuły w przypisach
+\end{goldlist}
+To \textbf{nie} jest plagiat --- to normalne podobieństwa wynikające ze specyfiki tekstu naukowego.
+\end{przyklad}
+
+\begin{przyklad}[Prawdziwy problem --- plagiat]
+System wykrył 35\% podobieństwa. W raporcie widać:
+\begin{burgundylist}
+\item Trzy całe akapity identyczne z artykułem z internetu --- bez cudzysłowu, bez przypisu
+\item Fragment identyczny z inną pracą licencjacką --- bez oznaczenia
+\item Paragrafy bardzo podobne do Wikipedii --- tylko zamienione pojedyncze słowa
+\end{burgundylist}
+To \textbf{jest} plagiat --- fragmenty cudze podane jako własne.
+\end{przyklad}
+
+\sectionheader{acadforest}{Jak zmniejszyć współczynnik podobieństwa (uczciwie)?}
+
+\begin{wskazowka}
+Celem nie jest ``oszukanie'' systemu, ale napisanie \textbf{oryginalnej} pracy z prawidłowym wykorzystaniem źródeł:
+
+\begin{forestlist}
+\item \textbf{Więcej parafraz, mniej cytatów dosłownych} --- jeśli możesz wyrazić myśl własnymi słowami, zrób to
+\item \textbf{Własna analiza i komentarz} --- nie tylko referuj, ale interpretuj, oceniaj, porównuj
+\item \textbf{Różnorodność źródeł} --- korzystaj z wielu źródeł zamiast opierać się na jednym
+\item \textbf{Własne badania} --- rozdziały empiryczne są z natury oryginalne
+\item \textbf{Prawidłowe oznaczanie cytatów} --- cudzysłów + przypis; promotor zobaczy, że to świadome cytowanie
+\end{forestlist}
+\end{wskazowka}
+
+\begin{blad}
+\textbf{NIGDY nie próbuj oszukać systemu przez:}
+\begin{burgundylist}
+\item Wstawianie niewidocznych znaków między litery
+\item Zastępowanie liter podobnymi znakami z innych alfabetów
+\item Używanie obrazów zamiast tekstu
+\item Parafrazowanie przez automatyczne narzędzia (``spinacze'')
+\end{burgundylist}
+
+Systemy antyplagiatowe są coraz bardziej zaawansowane i wykrywają takie sztuczki. Ponadto, jeśli zostaniesz złapany na próbie oszustwa, konsekwencje są znacznie poważniejsze niż za zwykły plagiat z niedbałości.
+\end{blad}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy zasady cytowania: kiedy stosować cytat dosłowny, a kiedy parafrazę, jak prawidłowo używać cudzysłowu, jak unikać plagiatu oraz jak rozumieć działanie systemów antyplagiatowych.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Cytat dosłowny stosuj oszczędnie: przy definicjach, trafnych sformułowaniach, analizie tekstu
+\item Parafraza to podstawowa forma odwoływania się do źródeł --- wymaga przypisu tak samo jak cytat
+\item Pozorna parafraza (zamiana kilku słów) to nadal plagiat
+\item Cytat dosłowny wymaga cudzysłowu i przypisu ze stroną
+\item Cytaty długie (powyżej 3--4 wierszy) wyodrębniamy jako blok, bez cudzysłowu
+\item Modyfikacje w cytacie oznaczamy nawiasami kwadratowymi: [...], [słowo], [sic!]
+\item Plagiat to nie tylko kopiowanie --- to także parafrazowanie bez źródła, tłumaczenie bez przypisu, autoplagiat
+\item Cytowanie ``z drugiej ręki'' wymaga oznaczenia ``cyt. za:''
+\item System antyplagiatowy wykrywa podobieństwa, nie stwierdza plagiatu --- decyduje człowiek
+\item Wysoki współczynnik podobieństwa nie zawsze oznacza plagiat (prawidłowe cytaty, frazy typowe)
+\item Nigdy nie próbuj oszukać systemu --- to pogarsza sytuację
+\item W razie wątpliwości, czy coś wymaga przypisu --- \textbf{podaj przypis}
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Weź dowolny akapit z książki naukowej i wykonaj trzy wersje: (1) cytat dosłowny z prawidłowym oznaczeniem, (2) parafrazę z przypisem, (3) ``pozorną parafrazę'' --- i zobacz, czym się różnią. To pomoże Ci wyczuć granicę między dopuszczalną parafrazą a plagiatem.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się systemami przypisów --- przypisami dolnymi i harwardzkimi, ich formatowaniem oraz typowymi błędami.

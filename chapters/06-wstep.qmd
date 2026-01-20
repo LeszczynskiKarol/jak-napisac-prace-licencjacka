@@ -1,0 +1,433 @@
+---
+pagetitle: "Wstęp"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Wstęp do pracy licencjackiej
+
+\sectionheader{acadnavy}{Paradoks: piszesz go na końcu}
+
+Wstęp to pierwsza część pracy, którą przeczyta recenzent, ale ostatnia, którą powinieneś napisać. Ten paradoks ma głębokie uzasadnienie: dopóki nie napiszesz całej pracy, nie wiesz dokładnie, co w niej jest. Wstęp musi precyzyjnie zapowiadać treść --- a to możliwe tylko wtedy, gdy ta treść już istnieje.
+
+W tym rozdziale dowiesz się, jakie elementy musi zawierać profesjonalny wstęp, w jakiej kolejności je przedstawiać i jakich błędów unikać.
+
+\begin{zasada}[Kiedy pisać wstęp?]
+Wstęp pisze się \textbf{po napisaniu wszystkich rozdziałów}, a przed zakończeniem. Wtedy wiesz już, co zawiera Twoja praca, i możesz to precyzyjnie opisać. Pisanie wstępu na początku to strata czasu --- będziesz go przepisywać wielokrotnie, gdy zmieni się zawartość pracy.
+\end{zasada}
+
+## Funkcje wstępu
+
+Wstęp pełni w pracy licencjackiej kilka kluczowych funkcji. Zrozumienie ich pomoże Ci napisać wstęp, który spełnia oczekiwania recenzenta.
+
+\begin{navylist}
+\item \textbf{Wprowadza w temat} --- osadza pracę w szerszym kontekście, pokazuje, dlaczego temat jest ważny
+\item \textbf{Precyzuje zakres} --- określa, co praca obejmuje, a czego nie dotyczy
+\item \textbf{Przedstawia cel} --- jasno formułuje, co autor chce osiągnąć
+\item \textbf{Stawia pytania} --- prezentuje pytania badawcze i ewentualne hipotezy
+\item \textbf{Zapowiada metodę} --- informuje, jak problem będzie badany
+\item \textbf{Opisuje strukturę} --- przedstawia układ pracy i zawartość rozdziałów
+\item \textbf{Zachęca do lektury} --- buduje zainteresowanie czytelnika
+\end{navylist}
+
+\begin{definicja}[Wstęp a wprowadzenie]
+Niektórzy autorzy rozróżniają \textbf{wstęp} (krótszy, bardziej formalny, skupiony na celach i strukturze) od \textbf{wprowadzenia} (dłuższego, zawierającego też kontekst teoretyczny). W pracy licencjackiej zazwyczaj wystarczy jeden z tych elementów. Sprawdź, czego wymaga Twoja uczelnia --- niektóre oczekują ``Wstępu'', inne ``Wprowadzenia''.
+\end{definicja}
+
+## Elementy wstępu --- kompletna lista
+
+Profesjonalny wstęp do pracy licencjackiej powinien zawierać następujące elementy, przedstawione w logicznej kolejności:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Opis}} \\
+Uzasadnienie wyboru tematu & Dlaczego ten temat? Dlaczego jest ważny/aktualny? \\
+\rowcolor{acadlightnavy} Cel pracy & Co autor chce osiągnąć? Jaki problem rozwiązać? \\
+Przedmiot i zakres pracy & Co jest badane? Jakie są granice (czasowe, przestrzenne, podmiotowe)? \\
+\rowcolor{acadlightnavy} Pytania badawcze & Konkretne pytania, na które praca odpowiada \\
+Hipotezy (jeśli dotyczy) & Przypuszczenia do weryfikacji w części badawczej \\
+\rowcolor{acadlightnavy} Metody badawcze & Jak problem będzie badany? Jakie techniki i narzędzia? \\
+Charakterystyka źródeł & Na jakiej literaturze opiera się praca? \\
+\rowcolor{acadlightnavy} Struktura pracy & Co zawierają poszczególne rozdziały? \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Nie wszystkie elementy są zawsze wymagane. W pracach czysto teoretycznych może nie być hipotez. Charakterystyka źródeł jest opcjonalna (choć zalecana). Kluczowe są: uzasadnienie tematu, cel, pytania badawcze i struktura. Sprawdź wytyczne swojej uczelni.
+\end{wazne}
+
+\sectionbreak
+
+## Element 1: Uzasadnienie wyboru tematu
+
+Wstęp zaczynasz od wyjaśnienia, dlaczego wybrałeś właśnie ten temat. To Twoja szansa, żeby przekonać czytelnika, że praca dotyczy czegoś istotnego.
+
+\sectionheader{acadforest}{Co powinno zawierać uzasadnienie?}
+
+\begin{forestlist}
+\item Kontekst społeczny, gospodarczy lub naukowy problemu
+\item Aktualność tematu --- dlaczego jest ważny ``tu i teraz''?
+\item Luka w dotychczasowych badaniach lub praktyce
+\item Twoja osobista motywacja (opcjonalnie, krótko)
+\item Potencjalne korzyści z podjęcia tematu
+\end{forestlist}
+
+\begin{przyklad}[Uzasadnienie wyboru tematu]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Sektor IT należy do najdynamiczniej rozwijających się branż polskiej gospodarki. Według raportu Komisji Europejskiej (2023) Polska zajmuje czwarte miejsce w Unii Europejskiej pod względem liczby specjalistów ICT. Jednocześnie branża ta charakteryzuje się jedną z najwyższych stóp rotacji pracowników --- według badań Antal (2023) średni czas pracy programisty w jednej firmie wynosi zaledwie 2,3 roku. W tej sytuacji skuteczne motywowanie pracowników staje się kluczowym wyzwaniem dla menedżerów.
+
+Dotychczasowe badania nad motywacją koncentrowały się głównie na czynnikach finansowych. Tymczasem specyfika pracy w IT --- wysoka autonomia, praca projektowa, możliwość pracy zdalnej --- sugeruje, że tradycyjne modele motywacji mogą nie w pełni odpowiadać rzeczywistości tej branży. Niniejsza praca podejmuje próbę zidentyfikowania najważniejszych czynników motywacji pozafinansowej wśród programistów.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Słabe uzasadnienie:} ``Temat pracy wybrałem, ponieważ wydał mi się interesujący i promotor go zaakceptował.''
+
+Problem: Brak merytorycznego uzasadnienia. Czytelnik nie dowiaduje się, dlaczego temat jest ważny dla nauki lub praktyki.
+\end{blad}
+
+## Element 2: Cel pracy
+
+Cel pracy to jedno z najważniejszych zdań we wstępie. Musi być sformułowany precyzyjnie i jednoznacznie.
+
+\begin{definicja}[Cel pracy]
+\textbf{Cel pracy} to stwierdzenie, co autor zamierza osiągnąć poprzez napisanie pracy. Może to być: zbadanie zjawiska, analiza problemu, porównanie koncepcji, ocena skuteczności, opracowanie rekomendacji itp. Cel powinien być konkretny, mierzalny i osiągalny w ramach pracy licencjackiej.
+\end{definicja}
+
+\begin{zasada}[Formułowanie celu]
+Cel formułujemy używając czasowników w formie bezokolicznika lub pierwszej osoby czasu przyszłego:
+\begin{goldlist}
+\item ``Celem pracy jest zbadanie...'' / ``Celem pracy jest analiza...''
+\item ``Celem niniejszej pracy jest przedstawienie...''
+\item ``W pracy zamierzam zbadać...'' / ``Postaram się wykazać...''
+\end{goldlist}
+Unikaj celów zbyt ogólnych (``omówienie tematu'') lub zbyt ambitnych (``rozwiązanie problemu bezrobocia'').
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Typ celu}} & \textcolor{white}{\textbf{Przykładowe sformułowania}} \\
+Poznawczy & zbadanie, zidentyfikowanie, rozpoznanie, określenie \\
+\rowcolor{acadlightforest} Analityczny & analiza, porównanie, ocena, weryfikacja \\
+Opisowy & przedstawienie, charakterystyka, opis \\
+\rowcolor{acadlightforest} Wyjaśniający & wyjaśnienie, interpretacja, zrozumienie \\
+Praktyczny & opracowanie rekomendacji, sformułowanie wniosków \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Dobrze sformułowane cele]
+\begin{forestlist}
+\item ``Celem pracy jest zidentyfikowanie najważniejszych czynników motywacji pozafinansowej wśród programistów zatrudnionych w firmach typu startup.''
+\item ``Celem niniejszej pracy jest analiza skuteczności kampanii influencer marketingowych w branży kosmetycznej w Polsce.''
+\item ``Praca ma na celu porównanie modeli zarządzania zespołami zdalnymi w firmach IT przed i po pandemii COVID-19.''
+\item ``Celem pracy jest ocena wpływu elastycznego czasu pracy na satysfakcję zawodową pracowników pokolenia Z.''
+\end{forestlist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Źle sformułowany cel:} ``Celem pracy jest marketing.''
+
+Problem: To nie jest cel, to temat. Cel musi określać, co chcesz \textit{zrobić} z tym tematem (zbadać, przeanalizować, porównać...).
+\end{blad}
+
+\begin{wskazowka}
+Niektórzy autorzy rozróżniają \textbf{cel główny} i \textbf{cele szczegółowe}. Cel główny to nadrzędne zamierzenie pracy, cele szczegółowe to jego uszczegółowienie. Przykład: cel główny --- ``analiza motywacji w IT'', cele szczegółowe --- ``zidentyfikowanie czynników'', ``określenie ich hierarchii'', ``sformułowanie rekomendacji''.
+\end{wskazowka}
+
+\sectionbreak
+
+## Element 3: Przedmiot i zakres pracy
+
+Po określeniu celu musisz precyzyjnie zdefiniować, co badasz i w jakich granicach.
+
+\sectionheader{acadnavy}{Przedmiot pracy}
+
+\begin{definicja}[Przedmiot pracy]
+\textbf{Przedmiot pracy} to zjawisko, proces, obiekt lub grupa, które są analizowane. Odpowiada na pytanie: ``Co jest badane?'' Przykłady: motywacja pracowników, strategie marketingowe, system podatkowy, zachowania konsumenckie.
+\end{definicja}
+
+\sectionheader{acadnavy}{Zakres pracy}
+
+Zakres pracy określa granice badania. Wyróżniamy trzy typy zakresu:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ zakresu}} & \textcolor{white}{\textbf{Pytanie i przykład}} \\
+Czasowy & Jaki okres obejmuje analiza? ``Lata 2020--2024'' \\
+\rowcolor{acadlightnavy} Przestrzenny & Jaki obszar geograficzny? ``Polska'', ``woj. mazowieckie'', ``firma X'' \\
+Podmiotowy & Kogo/co dotyczy? ``Programiści'', ``firmy z sektora MŚP'', ``studenci UW'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Określenie przedmiotu i zakresu]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Przedmiotem} niniejszej pracy jest motywacja pozafinansowa pracowników sektora IT, ze szczególnym uwzględnieniem czynników związanych z autonomią i rozwojem zawodowym.
+
+\textbf{Zakres czasowy} pracy obejmuje lata 2020--2024, co pozwala uwzględnić wpływ pandemii COVID-19 na organizację pracy i preferencje pracowników.
+
+\textbf{Zakres przestrzenny} ograniczono do firm IT działających w Polsce, ze szczególnym uwzględnieniem województwa mazowieckiego, gdzie koncentruje się największa liczba przedsiębiorstw z tej branży.
+
+\textbf{Zakres podmiotowy} obejmuje programistów z minimum rocznym doświadczeniem zawodowym, zatrudnionych na umowę o pracę lub kontrakt B2B.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wazne}
+Precyzyjne określenie zakresu chroni Cię przed zarzutem, że ``nie uwzględniłeś czegoś''. Jeśli jasno napiszesz, że badasz tylko firmy z Mazowsza, nikt nie zarzuci Ci, że pominąłeś Śląsk.
+\end{wazne}
+
+## Element 4: Pytania badawcze
+
+Pytania badawcze to konkretne pytania, na które Twoja praca ma odpowiedzieć. Omawialiśmy je w rozdziale o konspekcie --- tutaj pokażemy, jak je przedstawić we wstępie.
+
+\begin{zasada}[Prezentacja pytań we wstępie]
+Pytania badawcze przedstaw w formie listy numerowanej, poprzedzonej krótkim wprowadzeniem. Ogranicz się do 2--4 pytań głównych. Sformułuj je precyzyjnie i konkretnie.
+\end{zasada}
+
+\begin{przyklad}[Pytania badawcze we wstępie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Realizacja tak określonego celu wymaga udzielenia odpowiedzi na następujące pytania badawcze:
+
+\begin{enumerate}[leftmargin=*, itemsep=3pt]
+\item Jakie czynniki motywacji pozafinansowej są najważniejsze dla programistów?
+\item Czy istnieją różnice w hierarchii czynników motywacyjnych między pracownikami startupów a korporacji?
+\item W jakim stopniu możliwość pracy zdalnej wpływa na ogólną satysfakcję zawodową badanych?
+\item Jakie rekomendacje dla pracodawców wynikają z przeprowadzonych badań?
+\end{enumerate}
+\end{tcolorbox}
+\end{przyklad}
+
+## Element 5: Hipotezy badawcze
+
+Jeśli Twoja praca ma charakter empiryczny i weryfikujesz określone przypuszczenia, przedstaw hipotezy we wstępie.
+
+\begin{zasada}[Prezentacja hipotez we wstępie]
+Hipotezy przedstaw po pytaniach badawczych, również w formie listy. Każda hipoteza powinna być powiązana z pytaniem badawczym. Używaj oznaczeń H1, H2, H3...
+\end{zasada}
+
+\begin{przyklad}[Hipotezy we wstępie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+W oparciu o przegląd literatury sformułowano następujące hipotezy badawcze:
+
+\textbf{H1:} Autonomia w wyborze narzędzi i metod pracy jest najważniejszym czynnikiem motywacji pozafinansowej dla programistów.
+
+\textbf{H2:} Pracownicy startupów przywiązują większą wagę do możliwości rozwoju niż pracownicy korporacji.
+
+\textbf{H3:} Możliwość pracy zdalnej ma pozytywny wpływ na satysfakcję zawodową programistów.
+
+Weryfikacja powyższych hipotez zostanie przeprowadzona w rozdziale trzecim na podstawie badań ankietowych.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+Nie każda praca musi mieć hipotezy. Prace opisowe, teoretyczne i eksploracyjne często poprzestają na pytaniach badawczych. Hipotezy są typowe dla badań ilościowych, gdzie można je statystycznie zweryfikować.
+\end{wskazowka}
+
+\sectionbreak
+
+## Element 6: Metody badawcze
+
+We wstępie krótko przedstawiasz, jakimi metodami posłużyłeś się w pracy. Szczegółowy opis metodologii znajdzie się w rozdziale badawczym.
+
+\sectionheader{acadnavy}{Podstawowe pojęcia metodologiczne}
+
+\begin{definicja}[Metoda, technika, narzędzie]
+W metodologii badań rozróżniamy trzy poziomy:
+\begin{navylist}
+\item \textbf{Metoda badawcza} --- ogólny sposób postępowania badawczego (np. sondaż diagnostyczny, studium przypadku, eksperyment)
+\item \textbf{Technika badawcza} --- konkretny sposób zbierania danych (np. ankietowanie, wywiad, obserwacja, analiza dokumentów)
+\item \textbf{Narzędzie badawcze} --- instrument służący do zbierania danych (np. kwestionariusz ankiety, arkusz obserwacyjny, dyspozycje do wywiadu)
+\end{navylist}
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Metoda}} & \textcolor{white}{\textbf{Typowe techniki i narzędzia}} \\
+Sondaż diagnostyczny & Ankietowanie → kwestionariusz ankiety \\
+\rowcolor{acadlightforest} Studium przypadku & Wywiad, analiza dokumentów → dyspozycje, arkusz analizy \\
+Eksperyment & Obserwacja, pomiar → arkusz obserwacyjny, testy \\
+\rowcolor{acadlightforest} Monografia & Analiza dokumentów, wywiad → arkusz analizy \\
+Analiza treści & Analiza dokumentów → klucz kategoryzacyjny \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Opis metod we wstępie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+W części teoretycznej pracy zastosowano metodę analizy i krytyki piśmiennictwa, obejmującą przegląd literatury polskiej i zagranicznej z zakresu zarządzania zasobami ludzkimi i psychologii organizacji.
+
+W części empirycznej wykorzystano metodę sondażu diagnostycznego. Techniką badawczą było ankietowanie, a narzędziem --- autorski kwestionariusz ankiety składający się z 24 pytań zamkniętych i 2 pytań otwartych. Badanie przeprowadzono w marcu 2024 roku na próbie 127 programistów z województwa mazowieckiego. Szczegółowy opis metodologii badań przedstawiono w rozdziale trzecim.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} ``Metodą badawczą była ankieta.''
+
+Problem: Ankieta to technika (lub narzędzie), nie metoda. Metodą jest np. sondaż diagnostyczny, a ankietowanie to technika w ramach tej metody.
+\end{blad}
+
+## Element 7: Charakterystyka źródeł
+
+Opcjonalnie możesz krótko scharakteryzować literaturę, na której opiera się Twoja praca.
+
+\begin{przyklad}[Charakterystyka źródeł we wstępie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Podstawę teoretyczną pracy stanowi literatura z zakresu zarządzania zasobami ludzkimi i psychologii pracy. Wśród wykorzystanych źródeł polskich należy wymienić prace A. Pocztowskiego, T. Listwana oraz Z. Jasińskiego. Spośród autorów zagranicznych szczególnie istotne były koncepcje F. Herzberga, E. Deciego i R. Ryana oraz D. Pinka.
+
+Uzupełnienie stanowią raporty branżowe (Antal, Hays, No Fluff Jobs) oraz dane statystyczne GUS i Eurostatu. Bibliografia obejmuje łącznie 47 pozycji, w tym 23 artykuły z recenzowanych czasopism naukowych.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+Charakterystyka źródeł nie jest wymagana na wszystkich uczelniach, ale robi dobre wrażenie. Pokazuje, że świadomie dobierałeś literaturę i znasz kluczowych autorów w swojej dziedzinie.
+\end{wskazowka}
+
+\sectionbreak
+
+## Element 8: Struktura pracy
+
+Wstęp kończy się opisem struktury pracy --- krótką charakterystyką tego, co zawierają poszczególne rozdziały.
+
+\begin{zasada}[Opis struktury]
+Struktura to \textbf{ostatni element wstępu}. Opisz krótko (1--2 zdania na rozdział), co zawiera każda część pracy. Używaj czasu przyszłego (``W rozdziale pierwszym przedstawię...'') lub teraźniejszego (``Rozdział pierwszy przedstawia...'').
+\end{zasada}
+
+\begin{przyklad}[Opis struktury we wstępie]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Praca składa się ze wstępu, trzech rozdziałów i zakończenia.
+
+\textbf{Rozdział pierwszy} ma charakter teoretyczny i przedstawia pojęcie motywacji oraz przegląd klasycznych i współczesnych teorii motywacji pracowników, ze szczególnym uwzględnieniem koncepcji Herzberga oraz teorii autodeterminacji Deciego i Ryana.
+
+\textbf{Rozdział drugi} charakteryzuje specyfikę branży IT jako środowiska pracy. Omówiono w nim profil współczesnego programisty, wyzwania w zarządzaniu zespołami IT oraz rolę kultury organizacyjnej w firmach technologicznych.
+
+\textbf{Rozdział trzeci} zawiera opis i wyniki badań własnych. Przedstawiono w nim metodologię badania, charakterystykę próby badawczej oraz szczegółową analizę zebranych danych. Rozdział kończy się weryfikacją hipotez i sformułowaniem wniosków.
+
+Pracę zamyka \textbf{zakończenie}, w którym podsumowano najważniejsze ustalenia i przedstawiono rekomendacje dla pracodawców z sektora IT.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} ``Rozdział 1 jest o teorii. Rozdział 2 jest o badaniach. Rozdział 3 to wnioski.''
+
+Problem: Zbyt ogólnikowo. Opis struktury powinien informować, \textit{co konkretnie} zawiera każdy rozdział, nie tylko jaki ma charakter.
+\end{blad}
+
+## Czas gramatyczny we wstępie
+
+We wstępie używamy specyficznych czasów gramatycznych, które różnią się od czasu używanego w zakończeniu.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Zalecany czas}} \\
+Uzasadnienie tematu & Czas teraźniejszy (``branża IT rozwija się...'') \\
+\rowcolor{acadlightcopper} Cel pracy & Bezokolicznik lub czas przyszły (``celem jest zbadanie'', ``zbadam'') \\
+Pytania i hipotezy & Czas teraźniejszy (``stawiam pytanie'', ``formułuję hipotezę'') \\
+\rowcolor{acadlightcopper} Metody & Czas przeszły lub przyszły (``zastosowano'', ``zastosuję'') \\
+Struktura pracy & Czas teraźniejszy lub przyszły (``praca składa się'', ``przedstawię'') \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+\textbf{Kluczowa różnica wstęp vs zakończenie:}
+\begin{goldlist}
+\item Wstęp: czas przyszły --- ``W pracy przeanalizuję...'', ``Zbadam...'', ``Postaram się wykazać...''
+\item Zakończenie: czas przeszły --- ``W pracy przeanalizowano...'', ``Zbadano...'', ``Wykazano...''
+\end{goldlist}
+To logiczne: we wstępie zapowiadasz, co zrobisz; w zakończeniu podsumowujesz, co zrobiłeś.
+\end{wazne}
+
+\sectionbreak
+
+## Objętość wstępu
+
+Wstęp do pracy licencjackiej powinien mieć \textbf{2--4 strony}. To wystarczająco dużo, żeby przedstawić wszystkie wymagane elementy, ale nie na tyle, żeby zanudzić czytelnika.
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Orientacyjny podział (wstęp 3-stronicowy):}
+\begin{navylist}
+\item Uzasadnienie wyboru tematu: 0,5--1 strona
+\item Cel, przedmiot i zakres: 0,5 strony
+\item Pytania badawcze i hipotezy: 0,5 strony
+\item Metody badawcze: 0,5 strony
+\item Charakterystyka źródeł (opcjonalnie): 0,25 strony
+\item Struktura pracy: 0,5--0,75 strony
+\end{navylist}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Błąd:} Wstęp na 8 stron, w którym autor szczegółowo omawia teorie i wyniki badań.
+
+Problem: Wstęp to nie rozdział teoretyczny ani badawczy. Ma tylko \textit{zapowiedzieć} treść, nie ją prezentować. Szczegóły należą do rozdziałów głównych.
+\end{blad}
+
+## Czego unikać we wstępie?
+
+\begin{blad}
+\textbf{Banały i truizmy} --- ``Od zarania dziejów ludzkość interesowała się...'', ``W dzisiejszych czasach Internet odgrywa ważną rolę...'' --- to puste frazesy, które nie wnoszą treści.
+\end{blad}
+
+\begin{blad}
+\textbf{Zbyt osobiste wyznania} --- ``Temat wybrałem, bo mój tata pracuje w IT i zawsze mnie to fascynowało...'' --- praca naukowa wymaga profesjonalnego tonu.
+\end{blad}
+
+\begin{blad}
+\textbf{Cytaty na początek} --- ``Jak powiedział Albert Einstein...'' --- to technika z wypracowań szkolnych, nie z prac naukowych.
+\end{blad}
+
+\begin{blad}
+\textbf{Szczegółowe omówienie teorii} --- wstęp ma zapowiadać, a nie prezentować. Na teorię jest cały rozdział.
+\end{blad}
+
+\begin{blad}
+\textbf{Wnioski z badań} --- we wstępie nie zdradzamy, co wyszło z badań. To jak opowiadanie zakończenia filmu na początku.
+\end{blad}
+
+\sectionbreak
+
+## Checklist wstępu
+
+Przed oddaniem pracy sprawdź wstęp pod kątem następujących elementów:
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Lista kontrolna --- wstęp:}
+\begin{forestlist}
+\item Uzasadnienie wyboru tematu jest merytoryczne (nie: ``bo mnie interesuje'')
+\item Cel pracy jest sformułowany precyzyjnie i jednoznacznie
+\item Przedmiot i zakres pracy są jasno określone
+\item Pytania badawcze są konkretne i mierzalne
+\item Hipotezy (jeśli są) dotyczą związków między zmiennymi
+\item Metody badawcze są nazwane poprawnie (metoda ≠ technika ≠ narzędzie)
+\item Struktura pracy opisuje zawartość każdego rozdziału
+\item Wstęp używa odpowiednich czasów gramatycznych
+\item Objętość mieści się w 2--4 stronach
+\item Brak banałów, truizmów i zbędnych ozdobników
+\item Wstęp nie zawiera szczegółów teoretycznych ani wyników badań
+\item Wstęp jest spójny z faktyczną zawartością pracy (pisany na końcu!)
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie elementy profesjonalnego wstępu do pracy licencjackiej: od uzasadnienia wyboru tematu, przez cele i pytania badawcze, aż po opis struktury pracy.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Wstęp pisze się na końcu, po napisaniu wszystkich rozdziałów
+\item Elementy wstępu: uzasadnienie, cel, przedmiot/zakres, pytania, hipotezy, metody, struktura
+\item Cel pracy musi być konkretny i osiągalny (``zbadanie'', ``analiza'', nie ``omówienie'')
+\item Zakres określa granice: czasowe, przestrzenne, podmiotowe
+\item Metoda ≠ technika ≠ narzędzie (np. sondaż → ankietowanie → kwestionariusz)
+\item We wstępie używamy czasu przyszłego, w zakończeniu --- przeszłego
+\item Optymalny wstęp ma 2--4 strony
+\item Unikaj banałów, cytatów na początek i szczegółowych omówień teorii
+\item Wstęp zapowiada treść, nie prezentuje jej
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Przejrzyj 2--3 prace licencjackie z Twojego kierunku (dostępne w repozytorium uczelnianym). Sprawdź, jakie elementy zawierają ich wstępy i jak są sformułowane. To najlepsza nauka przez przykład.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się rozdziałami teoretycznymi --- dowiesz się, jak budować część teoretyczną pracy, aby nie była tylko kompilacją cytatów.

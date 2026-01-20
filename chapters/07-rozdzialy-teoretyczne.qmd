@@ -1,0 +1,423 @@
+---
+pagetitle: "Rozdziały teoretyczne"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Rozdziały teoretyczne
+
+\sectionheader{acadnavy}{Fundament Twojej pracy naukowej}
+
+Rozdziały teoretyczne stanowią podstawę każdej pracy licencjackiej. To w nich przedstawiasz wiedzę zgromadzoną przez innych badaczy, definiujesz kluczowe pojęcia i budujesz ramy teoretyczne dla własnych analiz. Bez solidnej części teoretycznej Twoja praca będzie zawieszona w próżni --- nie będzie wiadomo, do czego odnosisz swoje wnioski.
+
+W tym rozdziale dowiesz się, jak pisać część teoretyczną, żeby nie była nudną kompilacją cytatów, ale wartościową syntezą wiedzy.
+
+\begin{zasada}[Teoria służy praktyce]
+Część teoretyczna nie jest celem samym w sobie. Służy przygotowaniu gruntu pod część badawczą lub analityczną. Wszystko, co piszesz w rozdziałach teoretycznych, powinno mieć związek z Twoim problemem badawczym. Nie pisz o rzeczach ``ciekawych, ale niezwiązanych z tematem''.
+\end{zasada}
+
+## Po co są rozdziały teoretyczne?
+
+Rozdziały teoretyczne pełnią w pracy licencjackiej kilka istotnych funkcji:
+
+\begin{navylist}
+\item \textbf{Definiują pojęcia} --- ustalają znaczenie terminów używanych w pracy, żeby uniknąć nieporozumień
+\item \textbf{Przedstawiają stan wiedzy} --- pokazują, co nauka już wie na dany temat
+\item \textbf{Budują ramy teoretyczne} --- dostarczają koncepcji i modeli do analizy problemu
+\item \textbf{Uzasadniają badania} --- pokazują lukę w wiedzy, którą Twoja praca ma wypełnić
+\item \textbf{Dostarczają kryteriów} --- dają podstawę do oceny i interpretacji wyników
+\item \textbf{Świadczą o kompetencjach} --- pokazują, że znasz literaturę i rozumiesz temat
+\end{navylist}
+
+\begin{wazne}
+Rozdziały teoretyczne to nie miejsce na Twoje opinie i przemyślenia. To przegląd tego, co napisali \textbf{inni} --- naukowcy, badacze, eksperci. Twój wkład polega na doborze, uporządkowaniu i syntezie ich myśli. Na własne wnioski przyjdzie czas w części badawczej i zakończeniu.
+\end{wazne}
+
+## Synteza vs kompilacja --- kluczowa różnica
+
+To najważniejsza rzecz, którą musisz zrozumieć o pisaniu części teoretycznej. Różnica między dobrą a słabą pracą często sprowadza się do tego rozróżnienia.
+
+\begin{definicja}[Kompilacja]
+\textbf{Kompilacja} to mechaniczne zestawienie informacji z różnych źródeł, bez ich powiązania i krytycznej analizy. Praca kompilacyjna wygląda jak ``zlepek cytatów'' --- jeden akapit z książki A, drugi z książki B, trzeci z artykułu C. Brak w niej głosu autora i logicznego przepływu myśli.
+\end{definicja}
+
+\begin{definicja}[Synteza]
+\textbf{Synteza} to twórcze połączenie informacji z wielu źródeł w spójną całość. Autor syntezy porównuje stanowiska, wskazuje podobieństwa i różnice, identyfikuje trendy i wyciąga wnioski. Tekst ma logiczną strukturę i płynnie prowadzi czytelnika przez temat.
+\end{definicja}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Kompilacja (źle)}} & \textcolor{white}{\textbf{Synteza (dobrze)}} \\
+Kolejne akapity z różnych źródeł & Logiczny przepływ argumentacji \\
+\rowcolor{acadlightburgundy} ``Według Kowalskiego (2020)... Nowak (2019) twierdzi... Wiśniewski (2021) uważa...'' & ``Badacze są zgodni, że... (Kowalski, 2020; Nowak, 2019), choć Wiśniewski (2021) zwraca uwagę na...'' \\
+Brak powiązań między źródłami & Porównywanie i kontrastowanie stanowisk \\
+\rowcolor{acadlightburgundy} Streszczanie pojedynczych prac & Identyfikowanie trendów i wzorców \\
+Brak głosu autora & Widoczna rola autora jako przewodnika \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Przykład kompilacji:}
+
+``Według Herzberga (1959) istnieją czynniki higieny i czynniki motywujące. Maslow (1954) stworzył piramidę potrzeb. McGregor (1960) wyróżnił teorię X i teorię Y. Vroom (1964) zaproponował teorię oczekiwań.''
+
+Problem: To lista streszczeń bez żadnego powiązania. Czytelnik nie wie, jak te teorie się do siebie odnoszą ani po co autor je przywołuje.
+\end{blad}
+
+\begin{przyklad}[Przykład syntezy]
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Klasyczne teorie motywacji można podzielić na dwa nurty: teorie treści, wyjaśniające \textit{co} motywuje pracowników, oraz teorie procesu, opisujące \textit{jak} przebiega proces motywowania.
+
+Do pierwszego nurtu należą koncepcje Maslowa (1954) i Herzberga (1959). Obaj autorzy zakładają istnienie uniwersalnych potrzeb ludzkich, choć różnie je kategoryzują. Maslow proponuje hierarchię pięciu poziomów potrzeb, podczas gdy Herzberg dzieli czynniki na higieny (zapobiegające niezadowoleniu) i motywatory (wywołujące satysfakcję). Mimo różnic, obie teorie sugerują, że sama płaca nie wystarcza do pełnej motywacji --- konieczne jest zaspokojenie potrzeb wyższego rzędu.
+
+Teorie procesu, reprezentowane przez Vrooma (1964) i Adamsa (1963), przyjmują inną perspektywę. Zamiast pytać o uniwersalne potrzeby, koncentrują się na indywidualnych kalkulacjach pracownika...
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+Pisząc część teoretyczną, zadawaj sobie pytanie: ``Dlaczego umieszczam ten fragment właśnie tutaj? Jak łączy się z tym, co było przed nim i co będzie po nim?'' Jeśli nie potrafisz odpowiedzieć, prawdopodobnie tworzysz kompilację.
+\end{wskazowka}
+
+\sectionbreak
+
+## Struktura rozdziału teoretycznego
+
+Dobrze napisany rozdział teoretyczny ma przejrzystą strukturę. Oto sprawdzony schemat:
+
+\resetsteps
+
+\begin{krok}[acadnavy]{Wprowadzenie do rozdziału}
+Krótki akapit (3--5 zdań) zapowiadający, o czym będzie rozdział i dlaczego te zagadnienia są istotne dla Twojego tematu.
+\end{krok}
+
+\begin{krok}[acadnavy]{Definicje kluczowych pojęć}
+Zdefiniuj terminy, których będziesz używać. Przedstaw różne definicje z literatury i uzasadnij, którą przyjmujesz w swojej pracy.
+\end{krok}
+
+\begin{krok}[acadnavy]{Przegląd teorii i koncepcji}
+Omów główne podejścia teoretyczne do problemu. Pogrupuj je logicznie (chronologicznie, tematycznie, według szkół myślenia).
+\end{krok}
+
+\begin{krok}[acadnavy]{Przegląd dotychczasowych badań}
+Przedstaw wyniki badań empirycznych innych autorów. Co już zbadano? Jakie uzyskano wyniki? Gdzie są luki?
+\end{krok}
+
+\begin{krok}[acadnavy]{Podsumowanie rozdziału}
+Krótki akapit zamykający, podsumowujący najważniejsze ustalenia i przechodzący do następnego rozdziału.
+\end{krok}
+
+\begin{przyklad}[Struktura rozdziału ``Teoretyczne podstawy motywacji'']
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Rozdział 1. Teoretyczne podstawy motywacji pracowników}
+
+\textbf{1.1. Pojęcie i istota motywacji}
+\begin{goldlist}
+\item Etymologia i potoczne rozumienie terminu
+\item Definicje motywacji w literaturze (przegląd 4--5 definicji)
+\item Definicja przyjęta w pracy i jej uzasadnienie
+\item Motywacja wewnętrzna vs zewnętrzna
+\end{goldlist}
+
+\textbf{1.2. Klasyczne teorie motywacji}
+\begin{goldlist}
+\item Teorie treści (Maslow, Herzberg, McClelland)
+\item Teorie procesu (Vroom, Adams, Locke)
+\item Porównanie podejść i ich ograniczenia
+\end{goldlist}
+
+\textbf{1.3. Współczesne koncepcje motywacji}
+\begin{goldlist}
+\item Teoria autodeterminacji (Deci, Ryan)
+\item Koncepcja flow (Csikszentmihalyi)
+\item Model PERMA (Seligman)
+\item Motywacja 3.0 (Pink)
+\end{goldlist}
+
+\textbf{1.4. Motywacja a satysfakcja z pracy}
+\begin{goldlist}
+\item Związek między motywacją a satysfakcją
+\item Przegląd badań empirycznych
+\item Czynniki wpływające na satysfakcję
+\end{goldlist}
+\end{tcolorbox}
+\end{przyklad}
+
+## Definiowanie pojęć
+
+Definicje to fundament części teoretycznej. Bez precyzyjnych definicji Twoja praca będzie wieloznaczna.
+
+\sectionheader{acadnavy}{Jak definiować pojęcia?}
+
+\begin{zasada}[Zasada definiowania]
+Przy definiowaniu pojęcia: (1) przedstaw 2--4 definicje z literatury, (2) porównaj je, wskazując podobieństwa i różnice, (3) uzasadnij, którą definicję przyjmujesz w swojej pracy (lub sformułuj własną na podstawie przeglądu).
+\end{zasada}
+
+\begin{przyklad}[Definiowanie pojęcia ``motywacja'']
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+W literaturze przedmiotu funkcjonuje wiele definicji motywacji. Według Armstronga (2011, s. 45) motywacja to ``powód do działania; siła lub energia, która sprawia, że ludzie zachowują się w określony sposób''. Podobnie definiuje ją Pocztowski (2008, s. 203), dla którego motywacja oznacza ``proces psychicznej regulacji, dzięki któremu formułują się dążenia, czyli procesy zmierzające do realizacji pewnych celów''.
+
+Szersze ujęcie proponuje Robbins (2012, s. 156), definiując motywację jako ``proces, który odpowiada za intensywność, kierunek i wytrwałość wysiłków jednostki zmierzających do osiągnięcia celu''. Definicja ta podkreśla trzy elementy: siłę dążenia (intensywność), orientację na cel (kierunek) oraz trwałość w czasie (wytrwałość).
+
+Na potrzeby niniejszej pracy przyjęto definicję Robbinsa, ponieważ najpełniej oddaje ona złożoność procesu motywowania w kontekście organizacyjnym i pozwala uwzględnić zarówno czynniki wewnętrzne, jak i zewnętrzne wpływające na zachowanie pracowników.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} ``Motywacja to chęć do działania.''
+
+Problem: To definicja potoczna, a nie naukowa. Brak odniesienia do literatury, brak autora, zbyt ogólnikowa.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd:} Podanie jednej definicji bez komentarza i porównania z innymi.
+
+Problem: Sugeruje, że istnieje tylko jedna definicja, co rzadko jest prawdą. Pokazuje też, że autor nie zna literatury szerzej.
+\end{blad}
+
+\sectionbreak
+
+## Cytowanie i parafrazowanie
+
+W rozdziałach teoretycznych intensywnie korzystasz z cudzych myśli. Musisz robić to poprawnie --- zarówno etycznie, jak i technicznie.
+
+\sectionheader{acadnavy}{Cytat dosłowny vs parafraza}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Cytat dosłowny}} & \textcolor{white}{\textbf{Parafraza}} \\
+Dokładne powtórzenie słów autora & Przekazanie myśli autora własnymi słowami \\
+\rowcolor{acadlightnavy} W cudzysłowie lub wyróżniony graficznie & Bez cudzysłowu, wtopiony w tekst \\
+Wymaga podania numeru strony & Numer strony zalecany, ale nie zawsze wymagany \\
+\rowcolor{acadlightnavy} Stosowany rzadko, dla szczególnie ważnych sformułowań & Dominująca forma przywoływania źródeł \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Proporcje cytatów i parafraz]
+W pracy licencjackiej \textbf{parafrazy powinny dominować} nad cytatami dosłownymi. Cytuj dosłownie tylko wtedy, gdy: (1) sformułowanie jest szczególnie trafne i trudne do oddania własnymi słowami, (2) chcesz poddać konkretne sformułowanie krytyce, (3) przytaczasz definicję uznanego autorytetu.
+\end{zasada}
+
+\begin{przyklad}[Cytat dosłowny]
+Według Herzberga ``czynniki higieny mogą jedynie zapobiec niezadowoleniu, ale nie są w stanie wywołać pozytywnej motywacji'' (Herzberg, 1959, s. 113).
+\end{przyklad}
+
+\begin{przyklad}[Parafraza]
+Herzberg (1959) zauważył, że czynniki takie jak wynagrodzenie czy warunki pracy mogą co najwyżej zneutralizować niezadowolenie pracowników, jednak same w sobie nie prowadzą do zwiększenia motywacji.
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} Praca składająca się głównie z cytatów dosłownych.
+
+Problem: Pokazuje, że autor nie potrafi samodzielnie opracować materiału. Praca wygląda jak zbiór cytatów, nie jak autorskie opracowanie.
+\end{blad}
+
+\begin{blad}
+\textbf{Błąd:} Parafraza zbyt bliska oryginałowi (tzw. paraplagiat).
+
+Oryginał: ``Motywacja to siła napędowa ludzkiego działania.''
+
+Błędna parafraza: ``Motywacja jest siłą napędzającą działanie człowieka.''
+
+Problem: To nie jest parafraza, tylko nieznaczna zmiana słów. Nadal jest to plagiat.
+\end{blad}
+
+\begin{wskazowka}
+Żeby dobrze sparafrazować: (1) przeczytaj fragment, (2) odłóż źródło, (3) napisz własnymi słowami, co zrozumiałeś, (4) sprawdź ze źródłem, czy nie zniekształciłeś myśli autora. Jeśli Twoja wersja jest zbyt podobna do oryginału, przepisz jeszcze raz.
+\end{wskazowka}
+
+\sectionbreak
+
+## Logiczny przepływ argumentacji
+
+Dobry rozdział teoretyczny prowadzi czytelnika przez temat jak przewodnik po muzeum --- od jednej ``sali'' do drugiej, w logicznej kolejności.
+
+\sectionheader{acadnavy}{Zasady budowania argumentacji}
+
+\begin{forestlist}
+\item \textbf{Od ogółu do szczegółu} --- zacznij od szerszego kontekstu, potem zawężaj
+\item \textbf{Chronologicznie} --- od teorii starszych do nowszych (jeśli pasuje)
+\item \textbf{Od prostego do złożonego} --- najpierw podstawy, potem zaawansowane koncepcje
+\item \textbf{Tematycznie} --- grupuj podobne zagadnienia razem
+\item \textbf{Z zachowaniem ciągłości} --- każdy akapit powinien wynikać z poprzedniego
+\end{forestlist}
+
+\begin{zasada}[Zdania łączące]
+Używaj zdań łączących (transitions) na początku akapitów i podrozdziałów, żeby pokazać związek z tym, co było wcześniej. Przykłady: ``W przeciwieństwie do omówionej teorii...'', ``Rozwinięciem tej koncepcji jest...'', ``Odmienne stanowisko reprezentuje...'', ``Podsumowując dotychczasowe rozważania...''.
+\end{zasada}
+
+\begin{przyklad}[Zdania łączące między akapitami]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+(...) Teoria Herzberga była przełomowa, jednak spotkała się też z krytyką metodologiczną.
+
+\textbf{Odmienne podejście} zaproponował Vroom (1964), który zamiast pytać o uniwersalne potrzeby, skupił się na indywidualnym procesie decyzyjnym pracownika. Według jego teorii oczekiwań...
+
+(...) Teoria oczekiwań dobrze wyjaśnia motywację w sytuacjach wyboru, ma jednak ograniczone zastosowanie do zachowań rutynowych.
+
+\textbf{Odpowiedzią na te ograniczenia} jest współczesna teoria autodeterminacji Deciego i Ryana (1985), która łączy elementy teorii treści i procesu...
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} Nagłe przeskakiwanie między tematami bez powiązań.
+
+``(...) teoria Herzberga wyróżnia czynniki higieny i motywatory.
+
+W Polsce sektor IT zatrudnia ponad 400 tysięcy osób.''
+
+Problem: Brak logicznego przejścia. Czytelnik nie wie, jaki jest związek między tymi dwoma zdaniami.
+\end{blad}
+
+## Głos autora w części teoretycznej
+
+Choć rozdziały teoretyczne opierają się na cudzych myślach, Twój ``głos'' jako autora powinien być słyszalny. Nie oznacza to wyrażania prywatnych opinii, ale aktywne prowadzenie narracji.
+
+\sectionheader{acadforest}{Jak pokazać swój głos?}
+
+\begin{forestlist}
+\item \textbf{Dobór i układ materiału} --- Ty decydujesz, co jest ważne i w jakiej kolejności to przedstawić
+\item \textbf{Porównywanie stanowisk} --- ``Podobnie jak Kowalski, również Nowak twierdzi...'', ``W przeciwieństwie do wcześniejszych autorów...''
+\item \textbf{Komentarze krytyczne} --- ``Teoria ta ma jednak pewne ograniczenia...'', ``Warto zauważyć, że badania te przeprowadzono w specyficznym kontekście...''
+\item \textbf{Podsumowania cząstkowe} --- ``Z przeglądu literatury wynika, że...'', ``Można zatem stwierdzić, że...''
+\item \textbf{Odniesienia do własnego tematu} --- ``Dla niniejszej pracy szczególnie istotna jest koncepcja...'', ``W kontekście branży IT warto zwrócić uwagę na...''
+\end{forestlist}
+
+\begin{przyklad}[Głos autora w tekście teoretycznym]
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Przedstawione teorie motywacji, mimo że powstały w różnych okresach i kontekstach, \textbf{wykazują pewne punkty zbieżne}. Zarówno Maslow, jak i Herzberg podkreślają znaczenie potrzeb wyższego rzędu dla trwałej motywacji. \textbf{Co istotne dla niniejszej pracy}, obie koncepcje sugerują, że samo wynagrodzenie nie wystarcza do pełnego zmotywowania pracownika --- \textbf{wniosek ten znajduje potwierdzenie} w licznych badaniach empirycznych (por. Lawler, 2000; Rynes i in., 2004).
+
+\textbf{Należy jednak zauważyć}, że klasyczne teorie powstawały w epoce przemysłowej, gdy praca miała głównie charakter fizyczny i rutynowy. \textbf{Powstaje zatem pytanie}, czy koncepcje te są adekwatne do specyfiki współczesnej pracy w sektorze IT, charakteryzującej się wysoką autonomią i kreatywnością. \textbf{Odpowiedzi na to pytanie poszukano} we współczesnych teoriach motywacji, omówionych w kolejnym podrozdziale.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wazne}
+Głos autora nie oznacza wyrażania osobistych opinii typu ``moim zdaniem ta teoria jest najlepsza''. Oznacza aktywne prowadzenie czytelnika przez materiał, porównywanie źródeł, wskazywanie luk i łączenie teorii z własnym tematem badawczym.
+\end{wazne}
+
+\sectionbreak
+
+## Ile rozdziałów teoretycznych?
+
+Typowa praca licencjacka zawiera 1--2 rozdziały teoretyczne, które łącznie stanowią około 40--50\% objętości pracy.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Model}} & \textcolor{white}{\textbf{Kiedy stosować?}} \\
+1 rozdział teoretyczny & Temat wąski, spójna literatura, mniej koncepcji do omówienia \\
+\rowcolor{acadlightcopper} 2 rozdziały teoretyczne & Temat wymaga omówienia dwóch odrębnych obszarów (np. teoria + kontekst branżowy) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Podział na 2 rozdziały teoretyczne]
+\textbf{Temat:} ``Motywacja pracowników w firmach IT''
+
+\textbf{Rozdział 1:} Teoretyczne podstawy motywacji (teorie motywacji ogólnie)
+
+\textbf{Rozdział 2:} Specyfika pracy w branży IT (kontekst, w którym stosujesz teorie)
+
+Taki podział jest logiczny, bo najpierw przedstawiasz ogólne ramy teoretyczne, a potem pokazujesz specyficzny kontekst, w którym będziesz te ramy stosować.
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} 3--4 rozdziały teoretyczne, a tylko 1 rozdział badawczy.
+
+Problem: Zaburzone proporcje. Praca staje się kompilacją literatury z doczepionymi na końcu badaniami.
+\end{blad}
+
+## Typowe błędy w rozdziałach teoretycznych
+
+\begin{blad}
+\textbf{Brak związku z tematem pracy} --- pisanie o wszystkim, co autor przeczytał, nawet jeśli nie ma to związku z problemem badawczym. Każdy akapit powinien odpowiadać na pytanie: ``Po co to tu jest?''
+\end{blad}
+
+\begin{blad}
+\textbf{Streszczanie książek po kolei} --- ``W książce X autor pisze, że... W książce Y można przeczytać...'' To kompilacja, nie synteza.
+\end{blad}
+
+\begin{blad}
+\textbf{Brak własnej struktury} --- bezkrytyczne przejmowanie struktury z jednego źródła. Ty powinieneś zbudować własny układ odpowiadający Twojemu tematowi.
+\end{blad}
+
+\begin{blad}
+\textbf{Nadmiar cytatów dosłownych} --- praca wygląda jak zbiór cytatów. Parafrazuj i syntetyzuj!
+\end{blad}
+
+\begin{blad}
+\textbf{Przestarzałe źródła} --- opieranie się wyłącznie na publikacjach sprzed 20 lat, ignorowanie aktualnych badań.
+\end{blad}
+
+\begin{blad}
+\textbf{Brak krytycznego podejścia} --- prezentowanie wszystkich teorii jako równie dobrych i prawdziwych, bez wskazywania ograniczeń i krytyki.
+\end{blad}
+
+\begin{blad}
+\textbf{Pisanie podręcznika} --- zbyt obszerne omawianie podstaw, które są powszechnie znane w danej dziedzinie. Część teoretyczna to nie podręcznik dla początkujących.
+\end{blad}
+
+## Podsumowanie i przejście do części badawczej
+
+Rozdziały teoretyczne powinny kończyć się w sposób, który naturalnie prowadzi do części badawczej. Ostatni podrozdział lub akapit części teoretycznej często:
+
+\begin{forestlist}
+\item Podsumowuje najważniejsze ustalenia z przeglądu literatury
+\item Wskazuje lukę w dotychczasowych badaniach
+\item Uzasadnia potrzebę przeprowadzenia własnych badań
+\item Zapowiada metodologię lub pytania badawcze
+\end{forestlist}
+
+\begin{przyklad}[Przejście od teorii do badań]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Przeprowadzony przegląd literatury wskazuje, że zarówno klasyczne, jak i współczesne teorie motywacji podkreślają znaczenie czynników pozafinansowych dla satysfakcji pracowników. Jednocześnie \textbf{widoczna jest luka w badaniach} dotyczących specyfiki motywacji w polskim sektorze IT --- większość cytowanych badań przeprowadzono w krajach anglosaskich, w odmiennych warunkach kulturowych i rynkowych.
+
+\textbf{W celu wypełnienia tej luki} w kolejnym rozdziale przedstawiono wyniki badań własnych, przeprowadzonych wśród programistów zatrudnionych w firmach IT w województwa mazowieckiego. Badania miały na celu zidentyfikowanie najważniejszych czynników motywacji pozafinansowej oraz weryfikację hipotez sformułowanych na podstawie przeglądu literatury.
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionbreak
+
+## Checklist rozdziału teoretycznego
+
+Przed oddaniem pracy sprawdź rozdziały teoretyczne:
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Lista kontrolna --- rozdziały teoretyczne:}
+\begin{forestlist}
+\item Każdy podrozdział zaczyna się od wprowadzenia i kończy podsumowaniem/przejściem
+\item Kluczowe pojęcia są zdefiniowane (2--4 definicje z literatury + uzasadnienie wyboru)
+\item Teorie są nie tylko streszczone, ale porównane i skontrastowane
+\item Źródła są aktualne (większość z ostatnich 10--15 lat)
+\item Dominują parafrazy, cytaty dosłowne są używane oszczędnie
+\item Każdy fragment ma związek z tematem pracy
+\item Widoczny jest logiczny przepływ argumentacji (zdania łączące)
+\item Głos autora jest obecny (porównania, komentarze krytyczne, podsumowania)
+\item Proporcje są zachowane (teoria = ok. 40--50\% pracy)
+\item Rozdziały kończą się w sposób prowadzący do części badawczej
+\item Wszystkie źródła są poprawnie zacytowane i ujęte w bibliografii
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy zasady pisania części teoretycznej pracy licencjackiej: różnicę między kompilacją a syntezą, strukturę rozdziału, definiowanie pojęć, cytowanie i parafrazowanie, budowanie logicznej argumentacji oraz typowe błędy.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Rozdziały teoretyczne służą budowaniu fundamentu dla części badawczej
+\item Synteza (twórcze powiązanie źródeł) jest lepsza niż kompilacja (zlepek streszczeń)
+\item Definicje pojęć wymagają przeglądu literatury i uzasadnienia wyboru
+\item Parafrazowanie powinno dominować nad cytowaniem dosłownym
+\item Logiczny przepływ argumentacji wymaga zdań łączących między akapitami
+\item Głos autora przejawia się w porównywaniu źródeł i komentarzach krytycznych
+\item Każdy fragment musi mieć związek z tematem pracy
+\item Proporcje: rozdziały teoretyczne to ok. 40--50\% objętości pracy
+\item Część teoretyczna powinna kończyć się wskazaniem luki i uzasadnieniem badań własnych
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Weź jeden podrozdział swojej części teoretycznej i przeczytaj go krytycznie. Czy każdy akapit łączy się z poprzednim? Czy porównujesz źródła, czy tylko je streszczasz? Czy widać, po co te informacje są potrzebne dla Twojego tematu?
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się metodologią badań --- dowiesz się, jak poprawnie opisać metody, techniki i narzędzia badawcze.

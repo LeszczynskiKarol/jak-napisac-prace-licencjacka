@@ -1,0 +1,457 @@
+---
+pagetitle: "Analiza wyników"
+---
+
+\pagestyle{struktura}
+\thispagestyle{struktura}
+
+# Prezentacja i analiza wyników badań
+
+\sectionheader{acadnavy}{Od surowych danych do wartościowych wniosków}
+
+Zebrałeś dane --- teraz musisz je przedstawić i zinterpretować. Rozdział analityczny to miejsce, gdzie prezentujesz wyniki swoich badań, analizujesz je w kontekście teorii i odpowiadasz na pytania badawcze. To często najważniejsza część pracy empirycznej --- tutaj pokazujesz, co faktycznie odkryłeś.
+
+W tym rozdziale nauczysz się, jak prezentować dane w tabelach i wykresach, jak opisywać wyniki słownie, jak weryfikować hipotezy oraz jak unikać typowych błędów w analizie.
+
+\begin{zasada}[Dane mówią, Ty interpretujesz]
+Sama prezentacja liczb to za mało. Musisz \textbf{interpretować} wyniki --- wyjaśniać, co oznaczają, jak się mają do teorii i pytań badawczych. Tabela bez komentarza jest bezwartościowa. Komentarz bez danych jest gołosłowny. Potrzebujesz obu.
+\end{zasada}
+
+## Struktura rozdziału analitycznego
+
+Rozdział prezentujący wyniki badań powinien mieć przejrzystą, logiczną strukturę. Oto sprawdzony schemat:
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Typowa struktura rozdziału analitycznego:}
+\begin{navylist}
+\item \textbf{Wprowadzenie} --- krótkie przypomnienie celu badań i metodologii
+\item \textbf{Charakterystyka próby badawczej} --- kim są respondenci (dane z metryczki)
+\item \textbf{Prezentacja wyników} --- uporządkowana według pytań badawczych lub tematów
+\item \textbf{Weryfikacja hipotez} --- czy hipotezy się potwierdziły?
+\item \textbf{Dyskusja wyników} --- interpretacja w kontekście teorii i innych badań
+\item \textbf{Podsumowanie} --- najważniejsze ustalenia, przejście do zakończenia
+\end{navylist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Uporządkuj prezentację wyników według pytań badawczych --- każdemu pytaniu poświęć osobny podrozdział. Dzięki temu czytelnik łatwo zobaczy, jak odpowiadasz na postawione wcześniej pytania.
+\end{wskazowka}
+
+## Charakterystyka próby badawczej
+
+Rozdział analityczny zazwyczaj zaczyna się od opisu, kogo przebadałeś. To dane z metryczki ankiety.
+
+\begin{przyklad}[Charakterystyka próby]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+W badaniu wzięło udział 127 programistów zatrudnionych w firmach IT z województwa mazowieckiego. Strukturę próby przedstawiono w tabeli 1.
+
+\textbf{Płeć:} W badanej grupie przeważali mężczyźni (78\%), kobiety stanowiły 22\% respondentów. Proporcja ta odpowiada strukturze płci w branży IT w Polsce.
+
+\textbf{Wiek:} Największą grupę stanowiły osoby w wieku 26--35 lat (58\%), następnie 18--25 lat (24\%) i 36--45 lat (15\%). Osoby powyżej 45. roku życia stanowiły jedynie 3\% próby.
+
+\textbf{Staż pracy:} Średni staż pracy w branży IT wynosił 6,2 roku (odchylenie standardowe 4,1). Najliczniejszą grupę (42\%) stanowiły osoby ze stażem 3--7 lat.
+
+\textbf{Typ firmy:} 45\% respondentów pracowało w korporacjach (powyżej 250 pracowników), 35\% w średnich firmach (50--250 pracowników), a 20\% w startupach i małych firmach (poniżej 50 pracowników).
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{zasada}[Nie tylko liczby]
+Przy charakterystyce próby nie wystarczy podać samych liczb. Krótko skomentuj, czy struktura próby jest typowa dla badanej populacji, czy są jakieś zniekształcenia, które mogą wpływać na wyniki.
+\end{zasada}
+
+\sectionbreak
+
+## Tabele --- jak je tworzyć i opisywać?
+
+Tabele to podstawowy sposób prezentacji danych ilościowych. Muszą być czytelne, poprawnie sformatowane i opatrzone opisem.
+
+\sectionheader{acadnavy}{Zasady tworzenia tabel}
+
+\begin{forestlist}
+\item Każda tabela ma \textbf{numer} i \textbf{tytuł} (nad tabelą)
+\item Tytuł jest rzeczowy i informacyjny (nie: ``Tabela 1'', ale: ``Tabela 1. Struktura respondentów według płci'')
+\item Kolumny i wiersze mają jasne nagłówki
+\item Podaj jednostki (np. \%, liczba, średnia)
+\item Pod tabelą umieść \textbf{źródło} (``Opracowanie własne'' lub ``Opracowanie własne na podstawie...'')
+\item Tabela musi być czytelna w druku czarno-białym
+\item Unikaj pustych komórek --- wpisz ``--'' lub ``brak danych''
+\end{forestlist}
+
+\begin{przyklad}[Poprawnie sformatowana tabela]
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadslate, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\small
+\textbf{Tabela 1. Struktura respondentów według wieku}
+\vspace{2mm}
+
+\begin{tabularx}{\textwidth-8mm}{L X X}
+\rowcolor{acadslate}\textcolor{white}{\textbf{Przedział wiekowy}} & \textcolor{white}{\textbf{Liczba (n)}} & \textcolor{white}{\textbf{Udział (\%)}} \\
+18--25 lat & 30 & 23,6 \\
+\rowcolor{acadlightslate} 26--35 lat & 74 & 58,3 \\
+36--45 lat & 19 & 15,0 \\
+\rowcolor{acadlightslate} powyżej 45 lat & 4 & 3,1 \\
+\textbf{Razem} & \textbf{127} & \textbf{100,0} \\
+\end{tabularx}
+
+\vspace{2mm}
+\textit{Źródło: Opracowanie własne na podstawie badań ankietowych.}
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błędy w tabelach:}
+\begin{burgundylist}
+\item Brak tytułu lub niejasny tytuł (``Tabela 1'' bez opisu)
+\item Brak źródła pod tabelą
+\item Niespójne jednostki (raz \%, raz ułamki dziesiętne)
+\item Zbyt wiele miejsc po przecinku (23,622\% zamiast 23,6\%)
+\item Procenty nie sumują się do 100\% (błąd zaokrągleń --- dodaj notę)
+\item Tabela bez żadnego komentarza w tekście
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadnavy}{Jak opisywać tabele w tekście?}
+
+\begin{zasada}[Tabela + opis]
+Każda tabela musi być \textbf{omówiona w tekście}. Nie wystarczy wstawić tabelę --- musisz wskazać najważniejsze wnioski, które z niej płyną. Jednocześnie nie przepisuj wszystkich liczb z tabeli --- czytelnik może je sam odczytać.
+\end{zasada}
+
+\begin{przyklad}[Opis tabeli w tekście]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Strukturę wiekową respondentów przedstawiono w tabeli 1. \textbf{Zdecydowanie dominowały osoby w wieku 26--35 lat}, stanowiące niemal 60\% próby. Najmniej liczną grupę (3\%) stanowiły osoby powyżej 45. roku życia. Taka struktura wiekowa jest typowa dla branży IT, charakteryzującej się młodą kadrą pracowniczą (por. raport Antal, 2023).
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd --- przepisywanie tabeli:}
+
+``W tabeli 1 przedstawiono strukturę wiekową. W grupie 18--25 lat było 30 osób (23,6\%), w grupie 26--35 lat było 74 osoby (58,3\%), w grupie 36--45 lat było 19 osób (15,0\%), a w grupie powyżej 45 lat 4 osoby (3,1\%).''
+
+Problem: To dosłowne przepisanie tabeli, nie analiza. Czytelnik nie dowiaduje się niczego, czego by sam nie odczytał.
+\end{blad}
+
+\sectionbreak
+
+## Wykresy --- kiedy i jakie stosować?
+
+Wykresy pomagają wizualizować dane i dostrzegać wzorce. Ale nie każda dana wymaga wykresu --- stosuj je z umiarem.
+
+\sectionheader{acadnavy}{Rodzaje wykresów i ich zastosowanie}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ wykresu}} & \textcolor{white}{\textbf{Kiedy stosować?}} \\
+Słupkowy & Porównywanie wartości między kategoriami (np. odpowiedzi na pytanie) \\
+\rowcolor{acadlightnavy} Kołowy (pierścieniowy) & Pokazywanie struktury/udziałów (max. 5--6 kategorii) \\
+Liniowy & Pokazywanie zmian w czasie, trendów \\
+\rowcolor{acadlightnavy} Punktowy (rozrzutu) & Pokazywanie zależności między dwiema zmiennymi \\
+Histogram & Rozkład wartości zmiennej ciągłej \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Wykres czy tabela?]
+\textbf{Wykres} stosuj, gdy chcesz pokazać wzorce, trendy, proporcje lub porównania --- gdy obraz mówi więcej niż liczby. \textbf{Tabelę} stosuj, gdy ważne są dokładne wartości liczbowe lub gdy masz wiele szczegółowych danych. Nigdy nie powielaj tej samej informacji w tabeli i wykresie.
+\end{zasada}
+
+\sectionheader{acadnavy}{Zasady tworzenia wykresów}
+
+\begin{forestlist}
+\item Każdy wykres ma \textbf{numer} i \textbf{tytuł} (``Wykres 1. ..." lub ``Rysunek 1. ...")
+\item Osie są podpisane (co przedstawiają, w jakich jednostkach)
+\item Legenda jest czytelna (jeśli potrzebna)
+\item Wykres jest czytelny w druku czarno-białym (różne wzory, nie tylko kolory)
+\item Pod wykresem źródło (``Opracowanie własne'')
+\item Wykres jest omówiony w tekście
+\end{forestlist}
+
+\begin{blad}
+\textbf{Błędy w wykresach:}
+\begin{burgundylist}
+\item Wykres kołowy z 15 kategoriami (nieczytelny)
+\item Wykres 3D (zniekształca proporcje, wygląda ``amatorsko'')
+\item Oś Y nie zaczyna się od zera (wyolbrzymia różnice)
+\item Brak podpisów osi
+\item Wykres bez tytułu i źródła
+\item Kolory nierozróżnialne w druku czarno-białym
+\end{burgundylist}
+\end{blad}
+
+\begin{wskazowka}
+W pracy licencjackiej lepiej mieć 5 dobrych wykresów niż 15 byle jakich. Każdy wykres powinien pokazywać coś istotnego dla Twoich wniosków. Nie twórz wykresu do każdego pytania ankiety ``bo tak wypada''.
+\end{wskazowka}
+
+\sectionbreak
+
+## Opisywanie wyników --- język i styl
+
+Prezentacja wyników wymaga specyficznego języka --- precyzyjnego, obiektywnego i opartego na danych.
+
+\sectionheader{acadnavy}{Zwroty przydatne w opisie wyników}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wprowadzanie danych:}
+\begin{goldlist}
+\item ``Z przeprowadzonych badań wynika, że...''
+\item ``Analiza danych wskazuje, że...''
+\item ``Jak pokazano w tabeli X...''
+\item ``Rozkład odpowiedzi przedstawiono na wykresie Y...''
+\end{goldlist}
+
+\textbf{Opisywanie proporcji:}
+\begin{goldlist}
+\item ``Większość respondentów (68\%) wskazała...''
+\item ``Niemal co trzeci badany (31\%) stwierdził...''
+\item ``Jedynie 5\% ankietowanych...''
+\item ``Odpowiedzi rozłożyły się równomiernie...''
+\end{goldlist}
+
+\textbf{Opisywanie różnic:}
+\begin{goldlist}
+\item ``Znacząco wyższą wartość odnotowano w grupie...''
+\item ``Różnica między grupami wyniosła X punktów procentowych''
+\item ``Mężczyźni częściej niż kobiety wskazywali...''
+\item ``Nie zaobserwowano istotnych różnic między...''
+\end{goldlist}
+\end{tcolorbox}
+
+\begin{zasada}[Czas gramatyczny]
+W rozdziale analitycznym używaj \textbf{czasu przeszłego} --- opisujesz badania, które już przeprowadziłeś: ``respondenci wskazali'', ``analiza wykazała'', ``zaobserwowano''. Czas teraźniejszy możesz stosować przy odwoływaniu się do tabel: ``Tabela 3 przedstawia...''.
+\end{zasada}
+
+\begin{blad}
+\textbf{Błędy językowe w opisie wyników:}
+\begin{burgundylist}
+\item Subiektywne oceny: ``Zadziwiająco dużo osób...'', ``Niestety tylko 20\%...''
+\item Nadinterpretacja: ``Wszyscy programiści uważają...'' (badałeś 127, nie wszystkich)
+\item Brak odniesień do danych: ``Respondenci byli zadowoleni'' (ilu? jak bardzo?)
+\item Nieuzasadnione uogólnienia: ``Polacy preferują...'' (badałeś Mazowsze)
+\end{burgundylist}
+\end{blad}
+
+## Analiza danych --- podstawowe miary
+
+W pracy licencjackiej nie musisz stosować zaawansowanej statystyki, ale powinieneś znać podstawowe miary opisowe.
+
+\sectionheader{acadnavy}{Miary tendencji centralnej}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Miara}} & \textcolor{white}{\textbf{Co pokazuje i kiedy stosować?}} \\
+Średnia arytmetyczna & Przeciętna wartość; dla danych ilościowych bez wartości skrajnych \\
+\rowcolor{acadlightnavy} Mediana & Wartość środkowa; odporna na wartości skrajne \\
+Dominanta (moda) & Najczęściej występująca wartość; dla danych jakościowych \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Miary rozproszenia}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Miara}} & \textcolor{white}{\textbf{Co pokazuje?}} \\
+Odchylenie standardowe & Jak bardzo wartości rozpraszają się wokół średniej \\
+\rowcolor{acadlightnavy} Rozstęp & Różnica między wartością maksymalną a minimalną \\
+Kwartyle & Podział danych na ćwiartki (Q1, Q2=mediana, Q3) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Zastosowanie miar opisowych]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Zadowolenie z możliwości rozwoju zawodowego mierzono na skali 1--5. \textbf{Średnia ocena} wyniosła 3,72 (SD=0,89), co wskazuje na umiarkowanie pozytywną ocenę tego aspektu pracy. \textbf{Mediana} równa 4 sugeruje, że ponad połowa respondentów oceniła możliwości rozwoju na 4 lub wyżej. \textbf{Dominantą} była ocena 4 (wybrało ją 42\% badanych).
+
+Warto zauważyć, że \textbf{rozstęp odpowiedzi} obejmował całą skalę (od 1 do 5), co świadczy o zróżnicowaniu opinii w badanej grupie.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+W pracy licencjackiej zazwyczaj wystarczą: średnia, odchylenie standardowe, procenty i ewentualnie korelacja. Jeśli nie masz przygotowania statystycznego, nie na siłę stosuj zaawansowanych testów --- lepiej poprawna analiza prosta niż błędna analiza skomplikowana.
+\end{wskazowka}
+
+\sectionbreak
+
+## Weryfikacja hipotez
+
+Jeśli w metodologii sformułowałeś hipotezy, w rozdziale analitycznym musisz je zweryfikować.
+
+\sectionheader{acadnavy}{Struktura weryfikacji hipotezy}
+
+\resetsteps
+
+\begin{krok}[acadnavy]{Przypomnij hipotezę}
+Przywołaj dokładne brzmienie hipotezy z rozdziału metodologicznego.
+\end{krok}
+
+\begin{krok}[acadnavy]{Przedstaw dane}
+Pokaż wyniki badań odnoszące się do hipotezy (tabela, wykres, statystyki).
+\end{krok}
+
+\begin{krok}[acadnavy]{Zinterpretuj dane}
+Wyjaśnij, co dane oznaczają w kontekście hipotezy.
+\end{krok}
+
+\begin{krok}[acadnavy]{Sformułuj wniosek}
+Jednoznacznie stwierdź, czy hipoteza została potwierdzona, częściowo potwierdzona, czy obalona.
+\end{krok}
+
+\begin{przyklad}[Weryfikacja hipotezy]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{H1: Autonomia w pracy jest pozytywnie skorelowana z satysfakcją zawodową programistów.}
+
+W celu weryfikacji hipotezy obliczono współczynnik korelacji Pearsona między zmiennymi ``autonomia w pracy'' (średnia z pytań 1--4) a ``satysfakcja zawodowa'' (średnia z pytań 15--18). Uzyskany współczynnik r=0,54 (p<0,001) wskazuje na \textbf{umiarkowanie silną, pozytywną korelację} między badanymi zmiennymi.
+
+Wynik ten oznacza, że respondenci deklarujący wyższy poziom autonomii w pracy wykazywali jednocześnie wyższy poziom satysfakcji zawodowej. Zależność jest istotna statystycznie (p<0,001).
+
+\textbf{Wniosek: Hipoteza H1 została potwierdzona.} Autonomia w pracy jest pozytywnie związana z satysfakcją zawodową programistów.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wazne}
+\textbf{Obalenie hipotezy to też wynik!} Jeśli Twoje dane nie potwierdzają hipotezy, napisz to uczciwie. Nauka rozwija się także dzięki obalaniu błędnych przypuszczeń. Nie ``naciągaj'' danych, żeby pasowały do hipotezy.
+\end{wazne}
+
+\begin{zasada}[Formułowanie wniosków]
+Przy weryfikacji hipotezy używaj jednoznacznych sformułowań:
+\begin{navylist}
+\item ``Hipoteza H1 została \textbf{potwierdzona}.''
+\item ``Hipoteza H2 została \textbf{częściowo potwierdzona} --- zaobserwowano związek, ale słabszy niż zakładano.''
+\item ``Hipoteza H3 \textbf{nie znalazła potwierdzenia} w przeprowadzonych badaniach.''
+\item ``Uzyskane dane \textbf{nie pozwalają na potwierdzenie} hipotezy H4.''
+\end{navylist}
+\end{zasada}
+
+## Dyskusja wyników
+
+Sama prezentacja wyników to nie wszystko. Musisz je zinterpretować w szerszym kontekście --- odnieść do teorii, porównać z innymi badaniami, wyjaśnić.
+
+\sectionheader{acadnavy}{Co zawiera dyskusja?}
+
+\begin{forestlist}
+\item \textbf{Odniesienie do teorii} --- jak wyniki mają się do omówionych w części teoretycznej koncepcji?
+\item \textbf{Porównanie z innymi badaniami} --- czy inni badacze uzyskali podobne wyniki?
+\item \textbf{Wyjaśnienie wyników} --- dlaczego wyniki są takie, jakie są?
+\item \textbf{Implikacje praktyczne} --- co wyniki oznaczają dla praktyki?
+\item \textbf{Niespodzianki i anomalie} --- czy coś Cię zaskoczyło? Jak to wyjaśnić?
+\end{forestlist}
+
+\begin{przyklad}[Fragment dyskusji wyników]
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+Uzyskane wyniki potwierdzają znaczenie autonomii dla satysfakcji zawodowej, co \textbf{jest zgodne z teorią autodeterminacji} Deciego i Ryana (1985), według której autonomia stanowi jedną z trzech podstawowych potrzeb psychologicznych wpływających na motywację wewnętrzną.
+
+\textbf{Podobne wyniki} uzyskali Saragih (2011) w badaniach wśród pracowników IT w Indonezji (r=0,48) oraz Gagne i Deci (2005) w meta-analizie badań nad autonomią w pracy (średnie r=0,51). Nieco silniejsza korelacja w niniejszych badaniach (r=0,54) może wynikać ze specyfiki branży IT w Polsce, gdzie programiści mają relatywnie silną pozycję negocjacyjną na rynku pracy.
+
+Wyniki te \textbf{mają istotne implikacje praktyczne} dla menedżerów firm IT. Sugerują, że zwiększanie autonomii pracowników --- np. poprzez swobodę wyboru narzędzi, elastyczny czas pracy czy możliwość pracy zdalnej --- może być skuteczniejszym sposobem budowania satysfakcji niż tradycyjne podwyżki.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Błąd:} Brak dyskusji --- sama prezentacja liczb bez interpretacji.
+
+Problem: Czytelnik dostaje surowe dane, ale nie wie, co z nich wynika. Praca staje się raportem statystycznym, nie analizą naukową.
+\end{blad}
+
+\sectionbreak
+
+## Odpowiedzi na pytania badawcze
+
+Oprócz weryfikacji hipotez, musisz bezpośrednio odpowiedzieć na pytania badawcze sformułowane we wstępie.
+
+\begin{przyklad}[Odpowiedź na pytanie badawcze]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Pytanie badawcze 1:} Jakie czynniki motywacji pozafinansowej są najważniejsze dla programistów?
+
+\textbf{Odpowiedź:} Na podstawie przeprowadzonych badań ustalono, że \textbf{najważniejszymi czynnikami motywacji pozafinansowej} dla programistów są (w kolejności od najwyżej ocenianych):
+
+\begin{enumerate}[leftmargin=*, itemsep=2pt]
+\item Możliwość rozwoju zawodowego i uczenia się nowych technologii (średnia 4,52)
+\item Autonomia w wyborze narzędzi i metod pracy (średnia 4,41)
+\item Elastyczny czas pracy (średnia 4,38)
+\item Możliwość pracy zdalnej (średnia 4,21)
+\item Ciekawe, ambitne projekty (średnia 4,15)
+\end{enumerate}
+
+Najniżej oceniono tradycyjne benefity materialne: kartę sportową (2,87), owoce w biurze (2,34) i imprezy integracyjne (2,91).
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{wskazowka}
+Upewnij się, że na każde pytanie badawcze z wstępu jest jasna odpowiedź w rozdziale analitycznym. Recenzent sprawdzi, czy ``zamknąłeś'' wszystkie wątki.
+\end{wskazowka}
+
+## Typowe błędy w rozdziale analitycznym
+
+\begin{blad}
+\textbf{Tabele i wykresy bez komentarza} --- wstawiasz grafikę i przechodzisz dalej. Każdy element wizualny wymaga omówienia.
+\end{blad}
+
+\begin{blad}
+\textbf{Przepisywanie danych z tabel} --- zamiast interpretacji, powtarzasz wszystkie liczby słownie.
+\end{blad}
+
+\begin{blad}
+\textbf{Nadinterpretacja} --- wyciągasz daleko idące wnioski z niewielkiej próby lub słabych korelacji.
+\end{blad}
+
+\begin{blad}
+\textbf{Ignorowanie wyników niezgodnych z hipotezami} --- pokazujesz tylko to, co ``pasuje'', pomijając niewygodne dane.
+\end{blad}
+
+\begin{blad}
+\textbf{Brak odniesienia do teorii} --- prezentujesz wyniki w próżni, bez łączenia z częścią teoretyczną.
+\end{blad}
+
+\begin{blad}
+\textbf{Brak jasnej weryfikacji hipotez} --- nie wiadomo, czy hipotezy się potwierdziły, czy nie.
+\end{blad}
+
+\begin{blad}
+\textbf{Mieszanie prezentacji z dyskusją} --- w jednym akapicie dane, interpretacja, porównania, wnioski --- chaos.
+\end{blad}
+
+\sectionbreak
+
+## Checklist rozdziału analitycznego
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Lista kontrolna --- analiza wyników:}
+\begin{forestlist}
+\item Próba badawcza jest scharakteryzowana (dane z metryczki)
+\item Wyniki są uporządkowane logicznie (np. według pytań badawczych)
+\item Każda tabela ma numer, tytuł i źródło
+\item Każdy wykres ma numer, tytuł, podpisane osie i źródło
+\item Tabele i wykresy są omówione w tekście (nie tylko wstawione)
+\item Opis nie przepisuje danych, ale je interpretuje
+\item Hipotezy są jednoznacznie zweryfikowane (potwierdzona/obalona)
+\item Na każde pytanie badawcze jest odpowiedź
+\item Wyniki są odniesione do teorii z części teoretycznej
+\item Wyniki są porównane z innymi badaniami
+\item Używany jest odpowiedni czas gramatyczny (przeszły)
+\item Język jest obiektywny, bez subiektywnych ocen
+\item Wnioski nie wykraczają poza dane (brak nadinterpretacji)
+\end{forestlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy prezentację i analizę wyników badań: strukturę rozdziału analitycznego, tworzenie tabel i wykresów, opisywanie wyników, weryfikację hipotez oraz dyskusję w kontekście teorii.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Dane wymagają interpretacji --- sama tabela bez komentarza jest bezwartościowa
+\item Każda tabela i wykres musi mieć numer, tytuł i źródło
+\item Nie przepisuj danych z tabel --- wskazuj wzorce i wnioski
+\item Wykresy stosuj, gdy wizualizacja wnosi wartość; nie do wszystkiego
+\item Weryfikacja hipotezy: przypomnij → dane → interpretacja → wniosek
+\item Obalenie hipotezy to też wartościowy wynik naukowy
+\item Dyskusja łączy wyniki z teorią i innymi badaniami
+\item Na każde pytanie badawcze musi być odpowiedź
+\item Używaj czasu przeszłego i języka obiektywnego
+\item Unikaj nadinterpretacji --- wnioski muszą wynikać z danych
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Weź jedną ze swoich tabel z wynikami i napisz do niej dwuakapitowy komentarz. W pierwszym akapicie wskaż najważniejsze wzorce widoczne w danych. W drugim odnieś wyniki do teorii lub innych badań.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się zakończeniem pracy --- dowiesz się, jak podsumować badania, sformułować wnioski i wskazać kierunki dalszych badań.
