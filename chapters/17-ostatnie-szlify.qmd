@@ -1,0 +1,469 @@
+---
+pagetitle: "Ostatnie szlify przed oddaniem"
+---
+
+\pagestyle{pisanie}
+\thispagestyle{pisanie}
+
+# Ostatnie szlify przed oddaniem
+
+\sectionheader{acadcopper}{Finisz — nie czas na błędy}
+
+Napisałeś wszystkie rozdziały, zebrałeś bibliografię, sformatowałeś tekst. Wydaje Ci się, że praca jest gotowa. Ale czy na pewno? Ostatni etap — weryfikacja i korekta — jest równie ważny jak samo pisanie. To właśnie teraz możesz wyłapać błędy, które obniżyłyby ocenę, poprawić niespójności i upewnić się, że praca robi profesjonalne wrażenie.
+
+Wielu studentów bagatelizuje ten etap, sądząc, że „jakoś przejdzie". To poważny błąd. Recenzent i komisja egzaminacyjna zwracają uwagę na detale — literówki, niespójną numerację, brakujące źródła w bibliografii. Każdy taki błąd świadczy o braku staranności i może wpłynąć na końcową ocenę. Poświęć kilka dni na dokładne sprawdzenie pracy — to inwestycja, która się opłaci.
+
+\begin{wazne}
+Ostatnie szlify to \textbf{nie} pobieżne przejrzenie pracy wieczorem przed oddaniem. To systematyczny proces, który powinien zająć \textbf{minimum 3--5 dni}. Zaplanuj ten czas w swoim harmonogramie — nie zostawiaj go na ostatnią chwilę.
+\end{wazne}
+
+\begin{definicja}[Korekta i redakcja]
+\textbf{Korekta} (ang. \textit{proofreading}) to sprawdzanie tekstu pod kątem błędów językowych: ortograficznych, interpunkcyjnych, gramatycznych i literówek. \textbf{Redakcja} (ang. \textit{editing}) to głębsza praca nad tekstem: poprawa stylu, jasności przekazu, logiki argumentacji. W przypadku pracy dyplomowej powinieneś wykonać obie czynności.
+\end{definicja}
+
+## Checklist końcowy — czy niczego nie pominąłeś?
+
+Przed oddaniem pracy przejdź przez kompleksową listę kontrolną. Sprawdź każdy element systematycznie — nie polegaj na pamięci.
+
+\sectionheader{acadnavy}{Elementy formalne pracy}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Co sprawdzić?}} \\
+Strona tytułowa & Poprawność danych: imię, nazwisko, tytuł pracy, dane promotora, rok \\
+\rowcolor{acadlightnavy} Oświadczenie o samodzielności & Czy jest dołączone? Czy wymaga podpisu? \\
+Spis treści & Czy jest aktualny? Czy numery stron się zgadzają? \\
+\rowcolor{acadlightnavy} Wstęp & Czy zawiera wszystkie wymagane elementy? Czy cel jest jasny? \\
+Rozdziały teoretyczne & Czy są kompletne? Czy mają logiczną strukturę? \\
+\rowcolor{acadlightnavy} Rozdział metodologiczny & Czy opisuje metody, próbę, narzędzia? \\
+Rozdział badawczy/analityczny & Czy prezentuje wyniki? Czy są tabele/wykresy? \\
+\rowcolor{acadlightnavy} Zakończenie & Czy odpowiada na cele ze wstępu? Czy są wnioski? \\
+Bibliografia & Czy zawiera wszystkie cytowane źródła? Czy format jest spójny? \\
+\rowcolor{acadlightnavy} Spis tabel/rysunków & Czy jest potrzebny? Czy jest aktualny? \\
+Załączniki & Czy są kompletne? Czy są ponumerowane? \\
+\rowcolor{acadlightnavy} Streszczenie/abstract & Czy jest wymagane? Czy spełnia wymogi objętościowe? \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Checklist szczegółowy}
+
+Poniższa lista kontrolna pomoże Ci systematycznie sprawdzić wszystkie aspekty pracy. Wydrukuj ją i zaznaczaj kolejne punkty.
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{STRONA TYTUŁOWA}
+\begin{forestlist}
+\item Nazwa uczelni i wydziału — poprawna, pełna
+\item Kierunek studiów — poprawny
+\item Twoje imię i nazwisko — bez literówek
+\item Numer albumu — poprawny (jeśli wymagany)
+\item Tytuł pracy — dokładnie taki jak zatwierdzony
+\item Rodzaj pracy — „Praca licencjacka" / „Praca magisterska"
+\item Tytuł naukowy promotora — poprawny, w odpowiedniej formie
+\item Imię i nazwisko promotora — bez literówek
+\item Miejscowość i rok — aktualne
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{STRUKTURA I TREŚĆ}
+\begin{forestlist}
+\item Spis treści — zaktualizowany, numery stron poprawne
+\item Wstęp — zawiera: uzasadnienie tematu, cel, pytania/hipotezy, opis struktury
+\item Każdy rozdział — ma wprowadzenie i podsumowanie
+\item Rozdziały — są zrównoważone objętościowo (żaden nie jest rażąco krótszy/dłuższy)
+\item Podrozdziały — mają sens jako samodzielne jednostki (min. pół strony)
+\item Zakończenie — odpowiada na pytania badawcze, zawiera wnioski
+\item Zakończenie — NIE wprowadza nowych informacji
+\item Streszczenie — mieści się w wymaganej objętości
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightcopper, colframe=acadcopper, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{BIBLIOGRAFIA I PRZYPISY}
+\begin{forestlist}
+\item Każde źródło z przypisów — jest w bibliografii
+\item Każda pozycja w bibliografii — jest cytowana w tekście
+\item Format przypisów — jest spójny w całej pracy
+\item Format bibliografii — jest spójny (jeden styl)
+\item Pozycje bibliograficzne — są posortowane alfabetycznie
+\item Źródła internetowe — mają daty dostępu
+\item Dane bibliograficzne — są kompletne (autor, tytuł, rok, wydawnictwo/czasopismo, strony)
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{TABELE I RYSUNKI}
+\begin{forestlist}
+\item Każda tabela — ma numer i tytuł NAD tabelą
+\item Każdy rysunek/wykres — ma numer i tytuł POD rysunkiem
+\item Każdy element graficzny — ma podane źródło
+\item Numeracja — jest ciągła i poprawna (Tabela 1, 2, 3...)
+\item Każda tabela/rysunek — jest omówiona w tekście
+\item Odwołania w tekście — zgadzają się z numeracją („jak pokazano w Tabeli 3")
+\item Spis tabel/rysunków — jest aktualny (jeśli wymagany)
+\item Jakość grafik — jest wystarczająca do druku
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightplum, colframe=acadplum, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{FORMATOWANIE}
+\begin{forestlist}
+\item Czcionka — Times New Roman 12pt w całym tekście głównym
+\item Interlinia — 1,5 wiersza w tekście głównym
+\item Marginesy — zgodne z wymogami (lewy 3,5 cm, pozostałe 2,5 cm)
+\item Justowanie — tekst wyjustowany
+\item Wcięcia akapitowe — konsekwentne (1,25 cm)
+\item Numeracja stron — poprawna, brak numeru na stronie tytułowej
+\item Numeracja rozdziałów — poprawna i spójna
+\item Formatowanie tytułów — spójne w całej pracy
+\item Dzielenie wyrazów — włączone (brak „dziur" w tekście)
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Wydrukuj checklistę i sprawdzaj punkt po punkcie, zaznaczając wykonane. Nie rób tego „w głowie" — łatwo coś pominąć. Rozłóż sprawdzanie na kilka dni: jednego dnia struktura, drugiego bibliografia, trzeciego formatowanie.
+\end{wskazowka}
+
+\sectionbreak
+
+## Korekta językowa — na co zwrócić uwagę?
+
+Błędy językowe to najczęstszy problem prac dyplomowych. Nawet świetna merytorycznie praca traci na wartości, gdy roi się od literówek i błędów gramatycznych. Korekta wymaga skupienia i systematyczności.
+
+\sectionheader{acadnavy}{Techniki skutecznej korekty}
+
+\begin{zasada}[Odłóż pracę przed korektą]
+Po zakończeniu pisania odłóż pracę na \textbf{minimum 2--3 dni}. Świeże spojrzenie pozwala dostrzec błędy, które wcześniej umykały. Czytając tekst „na świeżo", widzisz to, co faktycznie jest napisane, a nie to, co zamierzałeś napisać.
+\end{zasada}
+
+\resetsteps
+
+\begin{krok}[acadcopper]{Czytaj na głos}
+Czytanie na głos zmusza do zwolnienia i pozwala usłyszeć niezręczne sformułowania, powtórzenia, zbyt długie zdania. Jeśli musisz nabrać powietrza w środku zdania — zdanie jest za długie.
+\end{krok}
+
+\begin{krok}[acadcopper]{Czytaj od końca}
+Zacznij od ostatniego akapitu i idź do góry. Ta technika „rozbija" znajomość tekstu i pozwala skupić się na pojedynczych fragmentach, zamiast „płynąć" z narracją.
+\end{krok}
+
+\begin{krok}[acadcopper]{Wydrukuj i poprawiaj na papierze}
+Na wydruku łatwiej dostrzec błędy niż na ekranie. Użyj kolorowego długopisu do nanoszenia poprawek. Zmiana medium (ekran → papier) zmienia percepcję tekstu.
+\end{krok}
+
+\begin{krok}[acadcopper]{Poproś kogoś o przeczytanie}
+Najlepiej osobę, która nie zna tematu — zwróci uwagę na niejasności i błędy językowe. Świeże oczy widzą więcej. Może to być kolega, rodzic, partner — nie musi być ekspertem.
+\end{krok}
+
+\begin{krok}[acadcopper]{Użyj narzędzi komputerowych}
+Sprawdzanie pisowni w Wordzie (F7), LanguageTool, Ortograf.pl — narzędzia te wyłapią oczywiste błędy. Ale nie polegaj na nich w 100\% — nie wyłapią wszystkiego (np. „dwa" zamiast „dwa" nie jest błędem dla komputera).
+\end{krok}
+
+\sectionheader{acadnavy}{Najczęstsze błędy językowe}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Typ błędu}} & \textcolor{white}{\textbf{Przykłady i jak unikać}} \\
+Literówki & ``anlizy'' zamiast ``analizy''; ``wkonaniu'' zamiast ``wykonaniu'' — czytaj uważnie! \\
+\rowcolor{acadlightburgundy} Błędy ortograficzne & ``żadko'' (powinno: rzadko), ``włączając'' (powinno: włączając) — sprawdź w słowniku \\
+Błędy interpunkcyjne & Brak przecinka przed „który", „że", „aby"; przecinek przed „i" (zwykle niepotrzebny) \\
+\rowcolor{acadlightburgundy} Powtórzenia & ``Następnie... Następnie... Następnie...'' — używaj synonimów \\
+Zbyt długie zdania & Zdania na 5+ wierszy — dziel na krótsze \\
+\rowcolor{acadlightburgundy} Strona bierna & ``Badania zostały przeprowadzone'' — lepiej: ``Przeprowadzono badania'' \\
+Nieodmienianie nazwisk & ``według Kowalski'' — powinno być ``według Kowalskiego'' \\
+\rowcolor{acadlightburgundy} Kalkowanie z angielskiego & ``w 2020'' (powinno: ``w 2020 roku''), ``to jest'' (ang. that is) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Interpunkcja — najczęstsze problemy}
+
+\begin{przyklad}[Przecinki — kiedy stawiać?]
+\textbf{Zawsze stawiamy przecinek:}
+\begin{forestlist}
+\item Przed: który, która, które, że, aby, żeby, ponieważ, gdyż, bowiem, choć, mimo że
+\item Między równorzędnymi częściami zdania: ``Analiza obejmowała dane jakościowe, ilościowe i mieszane.''
+\item Po wtrąceniach: ``Autor, co warto podkreślić, nie zgadza się z tą tezą.''
+\end{forestlist}
+
+\textbf{Nie stawiamy przecinka:}
+\begin{burgundylist}
+\item Przed ``i'' łączącym dwa ostatnie elementy wyliczenia: ``A, B i C'' (nie: ``A, B, i C'')
+\item Przed ``i'' łączącym dwa zdania współrzędne z tym samym podmiotem
+\item Po ``np.'' — to skrót, nie wtrącenie: ``np. w badaniach Kowalskiego'' (nie: ``np., w badaniach'')
+\end{burgundylist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Typowy błąd:} ``Jak wskazuje Kowalski, że...''
+
+Po zwrocie ``jak wskazuje X'' nie stawiamy ``że''. Poprawnie: ``Jak wskazuje Kowalski, analiza wykazała...'' lub ``Kowalski wskazuje, że analiza wykazała...''.
+\end{blad}
+
+\sectionheader{acadnavy}{Styl naukowy — na co zwracać uwagę}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Unikaj}} & \textcolor{white}{\textbf{Stosuj}} \\
+Słów potocznych & Terminologię naukową \\
+\rowcolor{acadlightforest} ``bardzo'', ``ogromnie'', ``niesamowicie'' & Konkretne dane: ``o 45\%'', ``trzykrotnie'' \\
+``Ja uważam'', ``moim zdaniem'' & ``Można stwierdzić'', ``Analiza wskazuje'' \\
+\rowcolor{acadlightforest} ``Na pewno'', ``oczywiście'' & ``Prawdopodobnie'', ``Wydaje się, że'' \\
+Skrótów typu ``itp.'', ``itd.'' (nadmiernie) & Pełne wyliczenia lub ``i inne'' \\
+\rowcolor{acadlightforest} Pytań retorycznych & Stwierdzenia i argumenty \\
+Wykrzykników (!) & Neutralny, rzeczowy ton \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Zrób listę swoich ``ulubionych'' błędów — słów, które nadużywasz, konstrukcji, które powtarzasz. Użyj funkcji ``Znajdź'' (Ctrl+F) w Wordzie, aby wyszukać je w całym tekście i poprawić.
+\end{wskazowka}
+
+\sectionbreak
+
+## Sprawdzenie spójności (tytuły, numeracja, formatowanie)
+
+Spójność to cecha profesjonalnego dokumentu. Brak spójności — różne formatowanie w różnych miejscach, niespójna numeracja, rozbieżne nazewnictwo — świadczy o niestaranności.
+
+\sectionheader{acadnavy}{Spójność tytułów i nazewnictwa}
+
+\begin{zasada}[Jeden termin = jedno znaczenie]
+Jeśli raz użyłeś terminu ``respondenci'', używaj go konsekwentnie w całej pracy. Nie zamieniaj na ``ankietowani'', ``badani'', ``uczestnicy badania'' bez powodu. To samo dotyczy nazw własnych, skrótów, tytułów rozdziałów.
+\end{zasada}
+
+\begin{forestlist}
+\item \textbf{Tytuły rozdziałów} — sprawdź, czy tytuł w spisie treści jest identyczny z tytułem w tekście
+\item \textbf{Skróty} — przy pierwszym użyciu podaj pełną nazwę i skrót w nawiasie, potem używaj tylko skrótu
+\item \textbf{Nazwy własne} — sprawdź pisownię nazw firm, instytucji, osób w całym tekście
+\item \textbf{Terminy} — używaj konsekwentnie tych samych terminów na te same pojęcia
+\end{forestlist}
+
+\begin{przyklad}[Spójność skrótów]
+\textbf{Poprawnie:}
+
+``Unia Europejska (UE) przyjęła nowe regulacje. Przepisy UE wejdą w życie w 2025 roku. Państwa członkowskie UE mają dwa lata na implementację.''
+
+\textbf{Niepoprawnie:}
+
+``Unia Europejska przyjęła nowe regulacje. Przepisy UE wejdą w życie w 2025 roku. Państwa członkowskie Unii mają dwa lata na implementację.'' (niekonsekwentne: raz UE, raz Unia)
+\end{przyklad}
+
+\sectionheader{acadnavy}{Spójność numeracji}
+
+Sprawdź systematycznie wszystkie elementy numerowane:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadplum, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadplum}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Co sprawdzić?}} \\
+Rozdziały & Czy numeracja jest ciągła (1, 2, 3...)? Czy podrozdziały są poprawne (1.1, 1.2, 2.1...)? \\
+\rowcolor{acadlightplum} Strony & Czy numeracja jest ciągła? Czy nie ma powtórzonych/pominiętych numerów? \\
+Tabele & Czy numeracja jest ciągła (Tabela 1, 2, 3...)? Czy odwołania w tekście są poprawne? \\
+\rowcolor{acadlightplum} Rysunki/Wykresy & Czy numeracja jest osobna od tabel? Czy jest ciągła? \\
+Przypisy & Czy numeracja zaczyna się od 1 na każdej stronie (dolne) lub jest ciągła (końcowe)? \\
+\rowcolor{acadlightplum} Załączniki & Czy są ponumerowane (Załącznik 1, 2... lub A, B, C...)? \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{krok}[acadcopper]{Sprawdzenie krzyżowe odwołań}
+Wyszukaj w tekście wszystkie odwołania do tabel i rysunków (``Tabela'', ``Tab.'', ``Rysunek'', ``Rys.'') i sprawdź, czy numery zgadzają się z rzeczywistą numeracją. Częsty błąd: ``jak pokazano w Tabeli 3'' — a tabela ma numer 4, bo wcześniej dodano nową.
+\end{krok}
+
+\begin{blad}
+\textbf{Typowy błąd:} Odwołania do nieistniejących elementów.
+
+Po edycji tekstu mogą pozostać ``martwe'' odwołania: ``jak opisano w rozdziale 4'' — gdy rozdział został przenumerowany lub usunięty. Sprawdź każde odwołanie typu ``patrz rozdział X'', ``por. Tabela Y''.
+\end{blad}
+
+\sectionheader{acadnavy}{Spójność formatowania}
+
+\begin{navylist}
+\item \textbf{Tytuły rozdziałów} — ten sam krój, rozmiar, odstępy w całej pracy
+\item \textbf{Tytuły podrozdziałów} — jw., ale inne niż rozdziały główne
+\item \textbf{Cytaty blokowe} — ten sam format (wcięcie, czcionka, interlinia)
+\item \textbf{Punktory i numeracja} — ten sam styl w całej pracy (•, –, *, albo 1., a), i))
+\item \textbf{Podpisy tabel/rysunków} — ten sam format (czcionka, wyrównanie)
+\item \textbf{Bibliografia} — wszystkie pozycje w tym samym formacie
+\end{navylist}
+
+\begin{wskazowka}
+Użyj stylów Worda (Nagłówek 1, Nagłówek 2, Normalny, Podpis) konsekwentnie. Jeśli musisz zmienić formatowanie nagłówków, wystarczy zmodyfikować styl — zmiana zastosuje się automatycznie do wszystkich elementów w tym stylu.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Weryfikacja spisu treści i spisów pomocniczych}
+
+\begin{krok}[acadcopper]{Aktualizacja spisów}
+Tuż przed wydrukiem zaktualizuj wszystkie automatyczne spisy:
+\begin{goldlist}
+\item Spis treści — kliknij prawym przyciskiem → ``Aktualizuj pole'' → ``Aktualizuj całą tabelę''
+\item Spis tabel — jw.
+\item Spis rysunków — jw.
+\end{goldlist}
+Po aktualizacji \textbf{sprawdź wizualnie}, czy wszystko się zgadza.
+\end{krok}
+
+\begin{krok}[acadcopper]{Weryfikacja krzyżowa}
+Porównaj tytuły w spisie treści z tytułami w tekście. Czasem Word nieprawidłowo aktualizuje spis (np. wciąga fragment tekstu jako tytuł). Sprawdź każdą pozycję.
+\end{krok}
+
+\sectionbreak
+
+## Wydruk i oprawa — wymogi formalne
+
+Ostatni etap to przygotowanie fizycznej wersji pracy do złożenia. Wymogi dotyczące wydruku i oprawy różnią się między uczelniami — sprawdź regulamin swojego wydziału.
+
+\sectionheader{acadnavy}{Przed wydrukiem — ostatnie sprawdzenie}
+
+\begin{forestlist}
+\item \textbf{Zapisz kopię zapasową} — przed wydrukiem zapisz plik w kilku miejscach (dysk, chmura, pendrive)
+\item \textbf{Sprawdź podgląd wydruku} — Plik → Drukuj → podgląd; upewnij się, że wszystko mieści się na stronach
+\item \textbf{Sprawdź puste strony} — czy nie ma zbędnych pustych stron? Czy są zamierzone (np. przed nowym rozdziałem)?
+\item \textbf{Eksportuj do PDF} — PDF zachowuje formatowanie; wielu promotorów/recenzentów preferuje PDF
+\end{forestlist}
+
+\begin{zasada}[Eksport do PDF]
+Przed wysłaniem pracy w formie elektronicznej lub przed wydrukiem \textbf{zawsze} eksportuj do PDF (Plik → Zapisz jako → PDF lub Eksportuj → PDF). PDF gwarantuje, że formatowanie będzie wyglądało tak samo na każdym komputerze i drukarce.
+\end{zasada}
+
+\sectionheader{acadnavy}{Standardowe wymogi wydruku}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Parametr}} & \textcolor{white}{\textbf{Typowe wymagania}} \\
+Druk & Jednostronny (najczęściej) lub dwustronny (sprawdź!) \\
+\rowcolor{acadlightnavy} Papier & Biały, format A4, gramatura 80--90 g/m² \\
+Kolor wydruku & Czarno-biały (tekst); kolorowy dozwolony dla wykresów/zdjęć \\
+\rowcolor{acadlightnavy} Jakość wydruku & Laserowy lub atramentowy wysokiej jakości \\
+Liczba egzemplarzy & Zazwyczaj 2--3 (promotor, recenzent, archiwum); sprawdź! \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wazne}
+Niektóre uczelnie wymagają \textbf{wydruku dwustronnego}. W takim przypadku pamiętaj o:
+\begin{goldlist}
+\item Ustawieniu marginesów lustrzanych (wewnętrzny większy na oprawę)
+\item Rozpoczynaniu rozdziałów od strony nieparzystej (prawej)
+\item Ewentualnych pustych stronach dla zachowania układu
+\end{goldlist}
+\end{wazne}
+
+\sectionheader{acadnavy}{Oprawa pracy}
+
+Większość uczelni wymaga trwałej oprawy pracy. Najczęstsze rodzaje:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Rodzaj oprawy}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Oprawa twarda & Sztywne okładki, elegancka, droga; czasem wymagana dla prac magisterskich/doktorskich \\
+\rowcolor{acadlightcopper} Oprawa miękka (termobindowanie) & Miękka okładka, grzbiet klejony; najczęstsza dla prac licencjackich \\
+Bindowanie spiralne/grzebieniowe & Spirala plastikowa lub metalowa; łatwe otwieranie, ale mniej eleganckie \\
+\rowcolor{acadlightcopper} Oprawa kanałowa & Plastikowy grzbiet wciskany; tania, ale mniej trwała \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Kolor okładki]
+Wiele uczelni określa kolor okładki dla prac dyplomowych (np. niebieski dla licencjatu, zielony dla magisterium). Sprawdź wymogi \textbf{przed} zamówieniem oprawy.
+\end{zasada}
+
+\sectionheader{acadnavy}{Co powinno być na okładce?}
+
+Jeśli uczelnia wymaga nadruku na okładce (nie tylko strona tytułowa wewnątrz), typowe elementy to:
+
+\begin{forestlist}
+\item Imię i nazwisko autora
+\item Tytuł pracy
+\item Rodzaj pracy (praca licencjacka/magisterska)
+\item Rok
+\item Czasem: nazwa uczelni, logo
+\end{forestlist}
+
+\begin{wskazowka}
+Zakłady poligraficzne przy uczelniach często znają wymogi i mają gotowe szablony okładek. Zapytaj, czy oferują taką usługę — zaoszczędzisz czas i unikniesz błędów.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Wersja elektroniczna}
+
+Większość uczelni wymaga również złożenia wersji elektronicznej pracy (do systemu antyplagiatowego i archiwum). Typowe wymagania:
+
+\begin{forestlist}
+\item \textbf{Format} — PDF (najczęściej), czasem również DOC/DOCX
+\item \textbf{Nazwa pliku} — według wzoru uczelni, np. ``Nazwisko\_Imię\_praca\_licencjacka\_2024.pdf''
+\item \textbf{Zawartość} — cała praca w jednym pliku, włącznie z załącznikami
+\item \textbf{Sposób złożenia} — system APD, platforma uczelniana, mail do dziekanatu
+\end{forestlist}
+
+\begin{blad}
+\textbf{Typowy błąd:} Różnice między wersją elektroniczną a papierową.
+
+Upewnij się, że wersja PDF, którą wysyłasz, jest \textbf{identyczna} z wersją drukowaną. Po wprowadzeniu ostatnich poprawek wyeksportuj ponownie do PDF i z tego pliku drukuj. Nie edytuj pracy po wyeksportowaniu PDF.
+\end{blad}
+
+\sectionheader{acadnavy}{Terminarz końcowy}
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Przykładowy harmonogram ostatniego tygodnia:}
+
+\textbf{7 dni przed oddaniem:}
+\begin{goldlist}
+\item Ostatnie poprawki merytoryczne
+\item Weryfikacja struktury i kompletności
+\end{goldlist}
+
+\textbf{5--6 dni przed oddaniem:}
+\begin{goldlist}
+\item Korekta językowa (czytanie na głos, wydruk)
+\item Sprawdzenie bibliografii i przypisów
+\end{goldlist}
+
+\textbf{3--4 dni przed oddaniem:}
+\begin{goldlist}
+\item Sprawdzenie spójności (numeracja, formatowanie)
+\item Aktualizacja spisów
+\item Danie do przeczytania osobie trzeciej
+\end{goldlist}
+
+\textbf{2 dni przed oddaniem:}
+\begin{goldlist}
+\item Wprowadzenie ostatnich poprawek
+\item Eksport do PDF
+\item Wydruk próbny (sprawdzenie, czy wszystko OK)
+\end{goldlist}
+
+\textbf{1 dzień przed oddaniem:}
+\begin{goldlist}
+\item Wydruk finalny
+\item Oprawa
+\item Przygotowanie wersji elektronicznej
+\end{goldlist}
+
+\textbf{Dzień oddania:}
+\begin{goldlist}
+\item Złożenie pracy w dziekanacie / wgranie do systemu
+\item Zachowanie potwierdzenia złożenia
+\end{goldlist}
+\end{tcolorbox}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie aspekty finalnego przygotowania pracy do oddania: kompleksową listę kontrolną, techniki korekty językowej, sprawdzanie spójności oraz wymogi dotyczące wydruku i oprawy.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Ostatnie szlify to minimum 3--5 dni systematycznej pracy, nie wieczór przed oddaniem
+\item Używaj checklisty — sprawdzaj punkt po punkcie, nie polegaj na pamięci
+\item Przed korektą odłóż pracę na 2--3 dni — świeże oczy widzą więcej błędów
+\item Czytaj na głos, wydrukuj, poproś kogoś o przeczytanie — różne techniki wyłapują różne błędy
+\item Sprawdź spójność: terminologia, numeracja, formatowanie muszą być jednolite
+\item Zaktualizuj wszystkie spisy tuż przed wydrukiem i zweryfikuj je wizualnie
+\item Sprawdź wymogi uczelni dotyczące wydruku i oprawy ZANIM zamówisz druk
+\item Eksportuj do PDF przed drukiem — gwarantuje zachowanie formatowania
+\item Wersja elektroniczna musi być identyczna z papierową
+\item Zaplanuj ostatni tydzień szczegółowo — nie zostawiaj wszystkiego na ostatni dzień
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Wydrukuj checklistę z tego rozdziału i przejdź przez nią dla fragmentu swojej pracy (np. jednego rozdziału). Ile elementów wymaga poprawy? Pomnóż to przez liczbę rozdziałów — tyle pracy Cię czeka. Lepiej zacząć wcześniej!
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się obroną pracy licencjackiej — dowiesz się, jak przebiega obrona, jak przygotować prezentację i jak radzić sobie z pytaniami komisji.

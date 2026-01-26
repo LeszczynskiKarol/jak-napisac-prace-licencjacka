@@ -1,0 +1,530 @@
+---
+pagetitle: "Formatowanie w MS Word"
+---
+
+\pagestyle{formatowanie}
+\thispagestyle{formatowanie}
+
+# Formatowanie w MS Word
+
+\sectionheader{acadplum}{Profesjonalny wygląd Twojej pracy}
+
+Formatowanie pracy dyplomowej to nie tylko kwestia estetyki — to wymóg formalny, który wpływa na ocenę Twojej pracy. Nawet najlepsza merytorycznie praca straci na wartości, jeśli będzie nieczytelna, niekonsekwentna w układzie lub niezgodna z wymaganiami uczelni. Dobre formatowanie ułatwia lekturę, świadczy o staranności autora i pokazuje, że potrafisz posługiwać się narzędziami edytorskimi na poziomie akademickim.
+
+Microsoft Word to najpopularniejszy edytor tekstu używany do pisania prac dyplomowych. Mimo że większość studentów korzysta z niego od lat, niewielu zna zaawansowane funkcje, które znacznie ułatwiają formatowanie długich dokumentów. W tym rozdziale poznasz wszystkie niezbędne techniki — od podstawowych ustawień czcionki i marginesów, przez automatyczny spis treści, po profesjonalne podpisywanie tabel i wykresów.
+
+\begin{wazne}
+Zanim zaczniesz formatować pracę, \textbf{sprawdź wytyczne swojej uczelni}. Większość wydziałów ma szczegółowe instrukcje dotyczące formatowania prac dyplomowych. Wymagania mogą się różnić — np. jedna uczelnia wymaga czcionki Times New Roman 12pt, inna dopuszcza Arial 11pt. Zawsze stosuj się do wytycznych uczelni, nawet jeśli różnią się od ogólnych standardów.
+\end{wazne}
+
+\begin{definicja}[Formatowanie dokumentu]
+Formatowanie dokumentu to proces nadawania tekstowi określonej formy wizualnej: wybór czcionki, ustawienie marginesów, interlinii, wcięć akapitowych, numeracji stron oraz innych elementów wpływających na wygląd i czytelność dokumentu. W kontekście pracy dyplomowej formatowanie musi spełniać określone standardy akademickie.
+\end{definicja}
+
+## Czcionka, marginesy, interlinia — standardy
+
+Podstawowe parametry formatowania to czcionka, marginesy i interlinia. Te trzy elementy determinują ogólny wygląd strony i czytelność tekstu.
+
+\sectionheader{acadnavy}{Czcionka}
+
+Wybór czcionki w pracy dyplomowej jest ściśle określony. Standardowo stosuje się czcionki szeryfowe (z ozdobnikami na końcach liter), które ułatwiają czytanie długich tekstów drukowanych.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Standardowe ustawienia}} \\
+Czcionka tekstu głównego & Times New Roman, 12 pt \\
+\rowcolor{acadlightnavy} Czcionka przypisów & Times New Roman, 10 pt \\
+Czcionka tytułów rozdziałów & Times New Roman, 14 pt, pogrubiona \\
+\rowcolor{acadlightnavy} Czcionka tytułów podrozdziałów & Times New Roman, 12 pt, pogrubiona \\
+Kolor czcionki & Czarny (automatyczny) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Konsekwencja w stosowaniu czcionek]
+W całej pracy stosuj \textbf{jedną} rodzinę czcionek. Nie mieszaj Times New Roman z Arialem czy Calibri. Wyjątkiem mogą być fragmenty kodu programistycznego (czcionka o stałej szerokości, np. Courier New) lub specjalne oznaczenia.
+\end{zasada}
+
+\resetsteps
+
+\begin{krok}[acadplum]{Ustawienie czcionki domyślnej}
+Zaznacz cały tekst (Ctrl+A), następnie na karcie \textbf{Narzędzia główne} w grupie \textbf{Czcionka} wybierz Times New Roman i rozmiar 12. Aby ustawić jako domyślną dla nowych dokumentów: kliknij strzałkę w rogu grupy Czcionka → w oknie dialogowym ustaw parametry → kliknij \textbf{Ustaw jako domyślne} → wybierz ``Wszystkie dokumenty oparte na szablonie Normal''.
+\end{krok}
+
+\begin{blad}
+\textbf{Typowe błędy dotyczące czcionki:}
+\begin{burgundylist}
+\item Stosowanie czcionki Calibri (domyślna w nowych wersjach Worda) zamiast Times New Roman
+\item Mieszanie różnych czcionek w tekście głównym
+\item Stosowanie kolorowej czcionki (np. niebieskiej dla hiperłączy)
+\item Używanie czcionek ozdobnych lub niestandardowych
+\item Różne rozmiary czcionki w podobnych elementach (np. raz 12pt, raz 11pt w tekście głównym)
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadnavy}{Marginesy}
+
+Marginesy określają odległość tekstu od krawędzi strony. W pracach dyplomowych lewy margines jest szerszy, aby pozostawić miejsce na oprawę (bindowanie).
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Standardowe marginesy pracy dyplomowej:}
+\begin{goldlist}
+\item Margines lewy: \textbf{3,5 cm} (lub 3 cm + 0,5 cm na oprawę)
+\item Margines prawy: \textbf{2,5 cm}
+\item Margines górny: \textbf{2,5 cm}
+\item Margines dolny: \textbf{2,5 cm}
+\end{goldlist}
+\end{tcolorbox}
+
+\begin{krok}[acadplum]{Ustawienie marginesów}
+Przejdź do karty \textbf{Układ} (lub \textbf{Układ strony}) → \textbf{Marginesy} → \textbf{Marginesy niestandardowe}. W oknie dialogowym wprowadź wartości: Górny: 2,5 cm, Dolny: 2,5 cm, Lewy: 3,5 cm, Prawy: 2,5 cm. Upewnij się, że w polu ``Zastosuj do'' wybrano ``Cały dokument''. Kliknij OK.
+\end{krok}
+
+\begin{wskazowka}
+Jeśli Twoja uczelnia wymaga marginesu na oprawę, możesz użyć opcji ``Margines na oprawę'' w oknie Ustawienia strony zamiast powiększać lewy margines. Ustaw margines na oprawę np. 1 cm i pozycję ``Z lewej''.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Interlinia}
+
+Interlinia (odstęp między wierszami) ma kluczowe znaczenie dla czytelności tekstu i umożliwia promotorowi nanoszenie uwag między wierszami.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadplum, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadplum}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Interlinia}} \\
+Tekst główny & 1,5 wiersza \\
+\rowcolor{acadlightplum} Przypisy dolne & 1,0 (pojedyncza) \\
+Bibliografia & 1,0 lub 1,5 (zależy od uczelni) \\
+\rowcolor{acadlightplum} Długie cytaty (wyodrębnione) & 1,0 (pojedyncza) \\
+Podpisy tabel i rysunków & 1,0 (pojedyncza) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{krok}[acadplum]{Ustawienie interlinii}
+Zaznacz tekst → karta \textbf{Narzędzia główne} → grupa \textbf{Akapit} → kliknij strzałkę w rogu grupy → w oknie ``Akapit'' w sekcji ``Odstępy'' ustaw ``Interlinia'' na ``1,5 wiersza''. Ustaw także ``Przed'' i ``Po'' na 0 pt (chyba że uczelnia wymaga inaczej).
+\end{krok}
+
+\begin{blad}
+\textbf{Typowy błąd:} Ustawienie interlinii ``Podwójna'' (2,0) zamiast ``1,5 wiersza''.
+
+Interlinia 1,5 to standard akademicki. Interlinia podwójna jest stosowana głównie w krajach anglosaskich i sprawia, że praca wygląda ``napompowana''. Interlinia pojedyncza (1,0) jest zbyt ciasna dla tekstu głównego.
+\end{blad}
+
+\sectionbreak
+
+## Akapity i wcięcia — jak ustawić poprawnie?
+
+Prawidłowe formatowanie akapitów to jeden z najbardziej zaniedbywanych aspektów prac studenckich. Tymczasem konsekwentne wcięcia i odstępy między akapitami znacząco wpływają na czytelność tekstu.
+
+\sectionheader{acadnavy}{Wcięcie akapitowe}
+
+Wcięcie pierwszego wiersza akapitu to tradycyjny sposób oznaczania nowego akapitu w tekstach polskich. Alternatywą jest odstęp między akapitami (styl anglosaski), ale w polskich pracach dyplomowych dominuje wcięcie.
+
+\begin{zasada}[Wcięcie pierwszego wiersza]
+Standardowe wcięcie pierwszego wiersza akapitu wynosi \textbf{1,25 cm} (lub 1,27 cm, co odpowiada 0,5 cala). Niektóre uczelnie akceptują wcięcie 0,63 cm. Sprawdź wytyczne swojej uczelni.
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Gdzie NIE stosujemy wcięcia pierwszego wiersza:}
+\begin{burgundylist}
+\item Pierwszy akapit po tytule rozdziału/podrozdziału
+\item Pierwszy akapit po tabeli, rysunku, cytacie blokowym
+\item Pozycje w bibliografii (tu stosuje się wcięcie wiszące)
+\item Elementy list wypunktowanych i numerowanych
+\end{burgundylist}
+\end{tcolorbox}
+
+\begin{krok}[acadplum]{Ustawienie wcięcia akapitowego}
+Zaznacz tekst → karta \textbf{Narzędzia główne} → strzałka w rogu grupy \textbf{Akapit} → w sekcji ``Wcięcie'' przy ``Specjalne'' wybierz ``Pierwszy wiersz'' → ustaw wartość 1,25 cm → OK.
+\end{krok}
+
+\begin{blad}
+\textbf{Najgorszy błąd:} Tworzenie wcięć za pomocą spacji lub tabulatora!
+
+Nigdy nie używaj spacji ani pojedynczego tabulatora do tworzenia wcięć akapitowych. Takie ``wcięcia'' są nierówne, utrudniają edycję tekstu i świadczą o braku umiejętności obsługi edytora. \textbf{Zawsze} używaj formatowania akapitu.
+\end{blad}
+
+\sectionheader{acadnavy}{Wcięcie wiszące (w bibliografii)}
+
+W bibliografii stosuje się wcięcie wiszące — pierwszy wiersz pozycji zaczyna się od lewego marginesu, a kolejne wiersze są wcięte. Ułatwia to odnalezienie początku każdej pozycji.
+
+\begin{przyklad}[Wcięcie wiszące w bibliografii]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\small
+\hangindent=1.25cm \hangafter=1
+Kowalski J., \textit{Bardzo długi tytuł książki, który nie mieści się w jednym wierszu i wymaga przeniesienia do kolejnej linii}, Wydawnictwo Naukowe PWN, Warszawa 2023.
+
+\hangindent=1.25cm \hangafter=1
+Nowak A., Wiśniewski B., \textit{Metodologia badań społecznych w praktyce akademickiej}, Kraków 2022.
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{krok}[acadplum]{Ustawienie wcięcia wiszącego}
+Zaznacz bibliografię → okno \textbf{Akapit} → w sekcji ``Wcięcie'' przy ``Specjalne'' wybierz ``Wysunięcie'' (nie ``Pierwszy wiersz''!) → ustaw wartość 1,25 cm → OK.
+\end{krok}
+
+\sectionheader{acadnavy}{Odstępy między akapitami}
+
+Oprócz wcięcia pierwszego wiersza można stosować dodatkowe odstępy przed lub po akapitach. W polskiej tradycji typograficznej najczęściej stosuje się samo wcięcie, bez dodatkowych odstępów.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Styl}} & \textcolor{white}{\textbf{Charakterystyka}} \\
+Polski (tradycyjny) & Wcięcie 1,25 cm, bez odstępów między akapitami \\
+\rowcolor{acadlightcopper} Anglosaski & Brak wcięcia, odstęp po akapicie (np. 6--12 pt) \\
+Mieszany & Wcięcie + mały odstęp (np. 6 pt po akapicie) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Jeśli używasz odstępów między akapitami, ustaw je w formatowaniu akapitu (pole ``Po''), a nie poprzez wstawianie pustych wierszy (Enter). Puste wiersze to błąd — utrudniają kontrolę nad układem tekstu i mogą powodować problemy przy druku.
+\end{wskazowka}
+
+\sectionbreak
+
+## Numerowanie stron (bez strony tytułowej)
+
+Prawidłowe numerowanie stron to częsty problem w pracach dyplomowych. Strona tytułowa jest liczona, ale numer na niej nie jest widoczny. Numeracja widoczna zaczyna się od strony ze spisem treści lub od wstępu.
+
+\sectionheader{acadnavy}{Zasady numerowania stron}
+
+\begin{forestlist}
+\item Strona tytułowa — \textbf{liczona} jako strona 1, ale \textbf{bez widocznego numeru}
+\item Strony wstępne (spis treści, wykazy) — numerowane cyframi rzymskimi (i, ii, iii...) lub arabskimi, zależnie od wymagań
+\item Tekst główny (od wstępu) — numerowane cyframi arabskimi (1, 2, 3...)
+\item Numery stron umieszcza się najczęściej \textbf{na dole strony, wyśrodkowane} lub w prawym dolnym rogu
+\end{forestlist}
+
+\begin{zasada}[Pozycja numeru strony]
+Najpopularniejsze umiejscowienie numeru strony to \textbf{dolna część strony, wyśrodkowany}. Niektóre uczelnie wymagają numeru w prawym dolnym rogu lub na zewnętrznych marginesach (prawy na stronach nieparzystych, lewy na parzystych). Sprawdź wytyczne.
+\end{zasada}
+
+\sectionheader{acadnavy}{Jak ukryć numer na stronie tytułowej?}
+
+Aby ukryć numer na pierwszej stronie, musisz użyć podziału sekcji lub opcji ``Inna pierwsza strona''.
+
+\resetsteps
+
+\begin{krok}[acadplum]{Metoda 1: Inna pierwsza strona}
+Kliknij dwukrotnie w obszarze stopki (dolna część strony) → na karcie \textbf{Nagłówek i stopka} zaznacz opcję \textbf{Inna pierwsza strona}. Numer zniknie z pierwszej strony, ale pozostanie na kolejnych. Ta metoda działa, gdy cała praca jest w jednej sekcji.
+\end{krok}
+
+\begin{krok}[acadplum]{Metoda 2: Podział sekcji (zalecana)}
+Ta metoda daje pełną kontrolę nad numeracją i jest niezbędna, gdy chcesz mieć różne formaty numeracji (np. rzymską i arabską).
+
+\textbf{Krok 2a:} Ustaw kursor na końcu strony tytułowej → karta \textbf{Układ} → \textbf{Znaki podziału} → \textbf{Następna strona} (w sekcji ``Podziały sekcji'').
+
+\textbf{Krok 2b:} Kliknij dwukrotnie w stopce na drugiej stronie → \textbf{odznacz} opcję ``Połącz z poprzednią'' (ważne!).
+
+\textbf{Krok 2c:} Wstaw numer strony: karta \textbf{Wstawianie} → \textbf{Numer strony} → wybierz pozycję (np. ``Dół strony'', ``Zwykły numer 2'' — wyśrodkowany).
+
+\textbf{Krok 2d:} Aby numeracja zaczynała się od 1 (nie od 2): \textbf{Numer strony} → \textbf{Formatuj numery stron} → ``Rozpocznij od'' → wpisz 1 (lub 2, jeśli strona tytułowa ma być liczona jako 1).
+\end{krok}
+
+\begin{blad}
+\textbf{Typowy błąd:} Zapomnienie o odznaczeniu ``Połącz z poprzednią''.
+
+Jeśli nie odznaczysz tej opcji, zmiany w stopce jednej sekcji będą automatycznie przenoszone do poprzedniej sekcji. Efekt: numer strony pojawi się też na stronie tytułowej lub numeracja będzie nieprawidłowa.
+\end{blad}
+
+\begin{wskazowka}
+Po zakończeniu edycji nagłówka/stopki kliknij \textbf{Zamknij nagłówek i stopkę} lub kliknij dwukrotnie w obszarze tekstu głównego. Nie zostawiaj otwartego trybu edycji nagłówka.
+\end{wskazowka}
+
+\sectionbreak
+
+## Automatyczny spis treści
+
+Automatyczny spis treści to jedna z najpotężniejszych funkcji Worda dla długich dokumentów. Generuje się automatycznie na podstawie nagłówków i aktualizuje numery stron jednym kliknięciem.
+
+\sectionheader{acadnavy}{Warunek: prawidłowe style nagłówków}
+
+Aby automatyczny spis treści działał, musisz formatować tytuły rozdziałów i podrozdziałów za pomocą \textbf{stylów nagłówków}, a nie ręcznego formatowania (pogrubienie + większa czcionka).
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Styl w Wordzie}} \\
+Tytuł rozdziału (Rozdział 1, 2, 3...) & Nagłówek 1 \\
+\rowcolor{acadlightforest} Tytuł podrozdziału (1.1, 1.2...) & Nagłówek 2 \\
+Tytuł punktu (1.1.1, 1.1.2...) & Nagłówek 3 \\
+\rowcolor{acadlightforest} Tekst główny & Normalny (lub Treść tekstu) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{krok}[acadplum]{Stosowanie stylów nagłówków}
+Zaznacz tytuł rozdziału → na karcie \textbf{Narzędzia główne} w galerii \textbf{Style} kliknij ``Nagłówek 1''. Powtórz dla wszystkich tytułów rozdziałów. Dla podrozdziałów użyj ``Nagłówek 2'', dla punktów — ``Nagłówek 3''.
+\end{krok}
+
+\begin{krok}[acadplum]{Modyfikacja wyglądu stylu}
+Domyślny wygląd stylów (niebieski, Calibri) nie pasuje do pracy dyplomowej. Aby zmodyfikować: kliknij prawym przyciskiem na styl ``Nagłówek 1'' → \textbf{Modyfikuj} → ustaw czcionkę (Times New Roman, 14pt, pogrubiona, czarna), wyrównanie, odstępy → zaznacz ``Nowe dokumenty oparte na tym szablonie'' → OK.
+\end{krok}
+
+\sectionheader{acadnavy}{Wstawianie spisu treści}
+
+\begin{krok}[acadplum]{Wstawienie automatycznego spisu treści}
+Ustaw kursor w miejscu, gdzie ma być spis (najczęściej po stronie tytułowej) → karta \textbf{Odwołania} → \textbf{Spis treści} → wybierz gotowy format (np. ``Tabela automatyczna 1'') lub kliknij \textbf{Niestandardowy spis treści} dla większej kontroli.
+\end{krok}
+
+\begin{krok}[acadplum]{Ustawienia niestandardowego spisu treści}
+W oknie ``Spis treści'':
+\begin{goldlist}
+\item \textbf{Pokaż poziomy} — ustaw 2 lub 3 (ile poziomów nagłówków pokazać)
+\item \textbf{Pokaż numery stron} — zaznacz
+\item \textbf{Wyrównaj numery stron do prawej} — zaznacz
+\item \textbf{Znak wiodący tabulatora} — wybierz (kropki, kreski lub brak)
+\item \textbf{Formaty} — wybierz ``Z szablonu'' i kliknij ``Modyfikuj'' dla pełnej kontroli
+\end{goldlist}
+\end{krok}
+
+\begin{zasada}[Aktualizacja spisu treści]
+Spis treści \textbf{nie aktualizuje się automatycznie} po zmianach w dokumencie! Po każdej edycji (dodaniu tekstu, zmianie tytułów) musisz go zaktualizować: kliknij w spis → przycisk \textbf{Aktualizuj spis treści} (lub F9) → wybierz ``Aktualizuj całą tabelę''.
+\end{zasada}
+
+\begin{wazne}
+\textbf{Zawsze aktualizuj spis treści przed wydrukiem i przed wysłaniem pracy!} To jeden z najczęstszych błędów — student wysyła pracę ze spisem treści pokazującym nieaktualne numery stron.
+\end{wazne}
+
+\sectionbreak
+
+## Wstawianie i podpisywanie tabel, wykresów, rysunków
+
+Prawidłowe wstawianie i podpisywanie elementów graficznych (tabel, wykresów, rysunków, schematów) to wymóg każdej pracy dyplomowej. Dzięki funkcji automatycznych podpisów Word sam numeruje elementy i umożliwia wygenerowanie spisów.
+
+\sectionheader{acadnavy}{Zasady podpisywania}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Pozycja podpisu}} \\
+Tabela & \textbf{Nad} tabelą \\
+\rowcolor{acadlightcopper} Rysunek, wykres, schemat & \textbf{Pod} rysunkiem \\
+Fotografia & \textbf{Pod} fotografią \\
+\rowcolor{acadlightcopper} Wzór matematyczny & Po prawej stronie lub pod wzorem \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Elementy podpisu]
+Każdy podpis powinien zawierać:
+\begin{navylist}
+\item \textbf{Oznaczenie typu} — ``Tabela'', ``Rysunek'', ``Wykres'' itp.
+\item \textbf{Numer} — kolejny w całej pracy lub w rozdziale (np. Tabela 1 lub Tabela 2.3)
+\item \textbf{Tytuł} — krótki, rzeczowy opis zawartości
+\item \textbf{Źródło} — skąd pochodzi (``Opracowanie własne'' lub pełny przypis)
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Prawidłowe podpisy]
+\textbf{Tabela:}
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=2mm, bottom=2mm]
+\small
+\textbf{Tabela 3.} Struktura zatrudnienia w badanych przedsiębiorstwach
+
+\vspace{1mm}
+\textit{[tutaj tabela]}
+\vspace{1mm}
+
+Źródło: opracowanie własne na podstawie badań ankietowych.
+\end{tcolorbox}
+
+\textbf{Rysunek:}
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=2mm, bottom=2mm]
+\small
+\textit{[tutaj rysunek]}
+\vspace{1mm}
+
+\textbf{Rysunek 5.} Schemat procesu rekrutacji
+
+Źródło: J. Kowalski, \textit{Zarządzanie zasobami ludzkimi}, Warszawa 2020, s. 156.
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Automatyczne podpisy w Wordzie}
+
+\resetsteps
+
+\begin{krok}[acadplum]{Wstawienie automatycznego podpisu}
+Kliknij w miejscu, gdzie ma być podpis (nad tabelą lub pod rysunkiem) → karta \textbf{Odwołania} → \textbf{Wstaw podpis}. W oknie dialogowym:
+\begin{goldlist}
+\item \textbf{Etykieta} — wybierz ``Tabela'', ``Rysunek'' lub kliknij ``Nowa etykieta'' dla własnej (np. ``Wykres'')
+\item \textbf{Pozycja} — ``Nad zaznaczeniem'' dla tabel, ``Pod zaznaczeniem'' dla rysunków
+\item W polu ``Podpis'' dopisz tytuł po numerze
+\end{goldlist}
+\end{krok}
+
+\begin{krok}[acadplum]{Wstawienie spisu tabel/rysunków}
+Ustaw kursor w miejscu spisu (na końcu pracy lub po spisie treści) → karta \textbf{Odwołania} → \textbf{Wstaw spis ilustracji}. Wybierz etykietę podpisu (np. ``Tabela'') → OK. Powtórz dla rysunków.
+\end{krok}
+
+\begin{wskazowka}
+Formatowanie podpisów możesz zmienić, modyfikując styl ``Podpis'' (Caption) w galerii stylów. Typowe ustawienia: Times New Roman, 10pt, wyśrodkowany lub wyrównany do lewej.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Pozycjonowanie tabel i rysunków}
+
+\begin{forestlist}
+\item Tabele i rysunki powinny być umieszczone \textbf{jak najbliżej} miejsca, w którym są omawiane w tekście
+\item Jeśli element nie mieści się na bieżącej stronie, przenieś go na \textbf{początek następnej strony}
+\item Nie zostawiaj dużych pustych przestrzeni — dostosuj układ tekstu
+\item Duże tabele można umieścić w \textbf{załącznikach}, a w tekście tylko się do nich odwoływać
+\item Tabele i rysunki \textbf{nigdy} nie powinny ``wisieć'' samotnie bez otaczającego tekstu
+\end{forestlist}
+
+\begin{blad}
+\textbf{Typowy błąd:} Wklejanie tabel i rysunków jako obrazów (zrzutów ekranu).
+
+Tabele powinny być tworzone jako prawdziwe tabele Worda — wtedy można je edytować, a tekst w nich jest przeszukiwalny. Wklejanie zrzutów ekranu tabel z Excela świadczy o braku umiejętności i wygląda nieprofesjonalnie.
+\end{blad}
+
+\sectionbreak
+
+## Dzielenie wyrazów i justowanie tekstu
+
+Justowanie i dzielenie wyrazów to elementy, które wpływają na równomierność tekstu i jego estetykę.
+
+\sectionheader{acadnavy}{Justowanie tekstu}
+
+Justowanie to wyrównanie tekstu do obu marginesów — lewego i prawego. Jest standardem w pracach dyplomowych.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Wyrównanie}} \\
+Tekst główny & Wyjustowany (do obu marginesów) \\
+\rowcolor{acadlightnavy} Tytuły rozdziałów & Wyśrodkowane lub wyrównane do lewej \\
+Bibliografia & Wyjustowana (z wcięciem wiszącym) \\
+\rowcolor{acadlightnavy} Podpisy tabel/rysunków & Wyśrodkowane lub wyrównane do lewej \\
+Cytaty blokowe & Wyjustowane (z wcięciem z obu stron) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{krok}[acadplum]{Ustawienie justowania}
+Zaznacz tekst → karta \textbf{Narzędzia główne} → grupa \textbf{Akapit} → kliknij przycisk \textbf{Wyjustuj} (ikona z równymi liniami po obu stronach) lub użyj skrótu Ctrl+J.
+\end{krok}
+
+\sectionheader{acadnavy}{Dzielenie wyrazów}
+
+Justowanie bez dzielenia wyrazów może powodować nierówne odstępy między wyrazami (``dziury'' w tekście). Włączenie automatycznego dzielenia wyrazów rozwiązuje ten problem.
+
+\begin{krok}[acadplum]{Włączenie automatycznego dzielenia wyrazów}
+Karta \textbf{Układ} → \textbf{Dzielenie wyrazów} → \textbf{Automatyczne}.
+
+Dla większej kontroli: \textbf{Dzielenie wyrazów} → \textbf{Opcje dzielenia wyrazów} → ustaw:
+\begin{goldlist}
+\item ``Automatycznie dziel wyrazy w dokumencie'' — zaznacz
+\item ``Strefa dzielenia wyrazów'' — 0,5 cm (standardowo)
+\item ``Ogranicz kolejne łączniki do'' — 2 lub 3
+\end{goldlist}
+\end{krok}
+
+\begin{wskazowka}
+Jeśli Word dzieli wyraz w niefortunnym miejscu, możesz wstawić \textbf{łącznik opcjonalny} (Ctrl + -) w preferowanym miejscu podziału lub \textbf{łącznik nierozdzielający} (Ctrl + Shift + -), aby zapobiec podziałowi.
+\end{wskazowka}
+
+\begin{blad}
+\textbf{Typowy błąd:} Pozostawianie ``dziur'' w tekście.
+
+Tekst wyjustowany bez dzielenia wyrazów często ma nierówne odstępy między wyrazami — czasem bardzo duże ``dziury''. Włącz dzielenie wyrazów lub ręcznie popraw problematyczne miejsca.
+\end{blad}
+
+\sectionheader{acadnavy}{Spacje nierozdzielające}
+
+Niektóre elementy nie powinny być rozdzielane między wiersze: inicjały z nazwiskami, liczby z jednostkami, skróty wieloczłonowe.
+
+\begin{przyklad}[Gdzie stosować spację nierozdzielającą?]
+\begin{goldlist}
+\item J.~Kowalski (inicjał + nazwisko)
+\item 100~km (liczba + jednostka)
+\item 25~\% (liczba + procent)
+\item s.~125 (skrót ``strona'' + numer)
+\item r.~2023 (skrót ``rok'' + numer)
+\item dr~hab. (elementy tytułu naukowego)
+\end{goldlist}
+\end{przyklad}
+
+\begin{krok}[acadplum]{Wstawienie spacji nierozdzielającej}
+Zamiast zwykłej spacji wciśnij \textbf{Ctrl + Shift + Spacja}. Spacja nierozdzielająca zapobiega przeniesieniu tekstu po niej do nowej linii.
+\end{krok}
+
+\sectionbreak
+
+## Punktory i numerowanie — konsekwencja
+
+Listy wypunktowane i numerowane są często używane w pracach dyplomowych. Kluczowa jest konsekwencja w ich stosowaniu i formatowaniu.
+
+\sectionheader{acadnavy}{Kiedy używać list?}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Typ listy}} & \textcolor{white}{\textbf{Kiedy stosować?}} \\
+Lista numerowana (1, 2, 3...) & Gdy kolejność elementów ma znaczenie lub gdy odwołujesz się do konkretnych punktów \\
+\rowcolor{acadlightforest} Lista wypunktowana (•) & Gdy kolejność nie ma znaczenia, wyliczasz równorzędne elementy \\
+Lista wielopoziomowa & Gdy masz podpunkty (np. 1, 1.1, 1.2, 2, 2.1...) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Konsekwencja w stosowaniu list]
+W całej pracy stosuj \textbf{jeden rodzaj} punktorów (np. tylko kropki • lub tylko myślniki –). Nie mieszaj różnych symboli. To samo dotyczy numeracji — wybierz jeden format (1., 2., 3. lub 1), 2), 3)) i stosuj go konsekwentnie.
+\end{zasada}
+
+\sectionheader{acadnavy}{Interpunkcja w listach}
+
+Zasady interpunkcji w listach zależą od tego, czy elementy są zdaniami czy fragmentami zdań:
+
+\begin{przyklad}[Interpunkcja w listach]
+\textbf{Elementy jako fragmenty zdania} (kontynuacja zdania wprowadzającego):
+
+Do czynników motywacyjnych zalicza się:
+\begin{goldlist}
+\item wynagrodzenie podstawowe,
+\item premie i nagrody,
+\item możliwość awansu,
+\item szkolenia i rozwój.
+\end{goldlist}
+
+\textbf{Elementy jako pełne zdania}:
+
+Badanie wykazało następujące zależności:
+\begin{navylist}
+\item Wynagrodzenie ma kluczowe znaczenie dla młodszych pracowników.
+\item Starsi pracownicy cenią stabilność zatrudnienia.
+\item Kobiety częściej wskazują na atmosferę w pracy.
+\end{navylist}
+\end{przyklad}
+
+\begin{krok}[acadplum]{Dostosowanie wyglądu listy}
+Aby zmienić format punktorów lub numeracji: zaznacz listę → karta \textbf{Narzędzia główne} → strzałka przy przycisku \textbf{Punktory} lub \textbf{Numerowanie} → wybierz format z galerii lub kliknij \textbf{Definiuj nowy punktor}/\textbf{Definiuj nowy format numeracji} dla własnego formatu.
+\end{krok}
+
+\begin{krok}[acadplum]{Kontrola wcięć listy}
+Aby dostosować wcięcie listy: zaznacz listę → okno \textbf{Akapit} → ustaw wcięcia w sekcji ``Wcięcie''. Możesz też użyć przycisków \textbf{Zwiększ wcięcie}/\textbf{Zmniejsz wcięcie} na karcie Narzędzia główne.
+\end{krok}
+
+\begin{blad}
+\textbf{Typowy błąd:} Nadużywanie list w tekście naukowym.
+
+Listy są przydatne, ale praca dyplomowa to nie prezentacja PowerPoint. Nadmiar list sprawia, że tekst jest fragmentaryczny i trudny w odbiorze. Główna narracja powinna być prowadzona w formie ciągłego tekstu, a listy służą do wyeksponowania kluczowych elementów.
+\end{blad}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie kluczowe aspekty formatowania pracy dyplomowej w MS Word: od podstawowych ustawień czcionki i marginesów, przez numerowanie stron i automatyczny spis treści, po podpisywanie elementów graficznych i formatowanie list.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Zawsze sprawdź wytyczne formatowania swojej uczelni przed rozpoczęciem pracy
+\item Stosuj czcionkę Times New Roman 12pt, interlinia 1,5, margines lewy 3,5 cm
+\item Wcięcia akapitowe twórz przez formatowanie akapitu, nigdy spacjami ani tabulatorem
+\item Używaj stylów nagłówków (Nagłówek 1, 2, 3) — to warunek automatycznego spisu treści
+\item Aktualizuj spis treści przed każdym wydrukiem i wysłaniem pracy
+\item Tabele podpisuj \textbf{nad} nimi, rysunki \textbf{pod} nimi — z numerem i źródłem
+\item Stosuj automatyczne podpisy dla tabel i rysunków (funkcja ``Wstaw podpis'')
+\item Włącz justowanie i automatyczne dzielenie wyrazów dla równomiernego tekstu
+\item Używaj spacji nierozdzielającej (Ctrl+Shift+Spacja) przy inicjałach, liczbach z jednostkami
+\item Bądź konsekwentny — jeden rodzaj punktorów, jeden format numeracji w całej pracy
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Otwórz nowy dokument w Wordzie i skonfiguruj wszystkie omówione ustawienia: marginesy, czcionkę, style nagłówków, automatyczny spis treści, numerowanie stron z pominięciem strony tytułowej. Zapisz jako szablon do wykorzystania przy właściwej pracy.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się współpracą z promotorem — dowiesz się, jak przygotować się do konsultacji, jak prezentować postępy i jak reagować na uwagi krytyczne.

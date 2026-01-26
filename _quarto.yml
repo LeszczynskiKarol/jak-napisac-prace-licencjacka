@@ -24,6 +24,11 @@ book:
     - chapters/11-pisanie-tekstow-naukowych.qmd
     - chapters/12-cytaty.qmd
     - chapters/13-przypisy.qmd
+    - chapters/14-bibliografia.qmd
+    - chapters/15-formatowanie.qmd
+    - chapters/16-promotor.qmd
+    - chapters/17-ostatnie-szlify.qmd
+    - chapters/18-obrona.qmd
 
 format:
   pdf:

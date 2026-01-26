@@ -1,0 +1,427 @@
+---
+pagetitle: "Promotor — Twój sojusznik"
+---
+
+\pagestyle{obrona}
+\thispagestyle{obrona}
+
+# Promotor — Twój sojusznik
+
+\sectionheader{acadteal}{Klucz do sukcesu Twojej pracy}
+
+Promotor to osoba, która przeprowadzi Cię przez cały proces pisania pracy dyplomowej. To nie egzaminator, którego należy się bać, lecz doświadczony naukowiec, którego zadaniem jest pomóc Ci osiągnąć sukces. Dobra współpraca z promotorem może znacząco ułatwić pisanie pracy, podczas gdy nieporozumienia i brak komunikacji mogą zamienić ten proces w koszmar. W tym rozdziale dowiesz się, jak zbudować efektywną relację z promotorem i jak maksymalnie wykorzystać jego wsparcie.
+
+Pamiętaj: promotor chce, żebyś obronił pracę z dobrym wynikiem. Twój sukces jest również jego sukcesem. Każda nieoddana w terminie praca, każda słaba obrona to także porażka promotora. Dlatego jest on naturalnie zainteresowany tym, żebyś napisał dobrą pracę i dobrze ją obronił.
+
+\begin{definicja}[Promotor]
+Promotor (łac. \textit{promotor} --- ten, który posuwa naprzód) to samodzielny pracownik naukowy (co najmniej ze stopniem doktora), który sprawuje opiekę merytoryczną i formalną nad przygotowaniem pracy dyplomowej studenta. Promotor zatwierdza temat pracy, konsultuje jej strukturę i treść, ocenia postępy oraz rekomenduje pracę do obrony.
+\end{definicja}
+
+\begin{wazne}
+Promotor \textbf{nie pisze} za Ciebie pracy. Jego rolą jest kierowanie, doradzanie i korygowanie --- ale główny wysiłek musi być Twój. To Ty jesteś autorem pracy i to Ty ponosisz odpowiedzialność za jej treść, oryginalność i jakość.
+\end{wazne}
+
+## Rola promotora — czego możesz oczekiwać?
+
+Zrozumienie roli promotora pomoże Ci właściwie ukształtować wasze relacje i realistycznie ocenić, czego możesz od niego oczekiwać, a czego nie.
+
+\sectionheader{acadnavy}{Czego MOŻESZ oczekiwać od promotora}
+
+\begin{forestlist}
+\item \textbf{Pomocy w wyborze i sformułowaniu tematu} --- promotor pomoże zawęzić obszar zainteresowań, oceni realność tematu, zasugeruje modyfikacje
+\item \textbf{Wskazówek dotyczących literatury} --- podpowie kluczowe pozycje, autorów, czasopisma w danej dziedzinie
+\item \textbf{Konsultacji struktury pracy} --- oceni plan pracy, zaproponuje zmiany w układzie rozdziałów
+\item \textbf{Uwag merytorycznych do tekstu} --- wytknięcie błędów rzeczowych, nieścisłości, luk w argumentacji
+\item \textbf{Wskazówek metodologicznych} --- pomoc w doborze metod badawczych, konstrukcji narzędzi
+\item \textbf{Korekty kierunku myślenia} --- gdy zbaczasz z tematu lub błędnie interpretujesz zagadnienia
+\item \textbf{Informacji o wymogach formalnych} --- wymagania uczelni, terminy, procedury
+\item \textbf{Rekomendacji do obrony} --- po zaakceptowaniu ostatecznej wersji
+\end{forestlist}
+
+\sectionheader{acadburgundy}{Czego NIE MOŻESZ oczekiwać od promotora}
+
+\begin{burgundylist}
+\item Napisania jakiejkolwiek części pracy za Ciebie
+\item Szczegółowej korekty językowej i stylistycznej każdego zdania
+\item Wyszukiwania literatury za Ciebie
+\item Przeprowadzenia badań lub analizy danych
+\item Natychmiastowych odpowiedzi na maile i wiadomości
+\item Spotkań poza wyznaczonymi terminami konsultacji
+\item Wielokrotnego czytania tych samych fragmentów bez wprowadzenia poprawek
+\item Gwarancji wysokiej oceny pracy
+\end{burgundylist}
+
+\begin{zasada}[Wzajemny szacunek]
+Relacja z promotorem powinna opierać się na wzajemnym szacunku. Ty szanujesz jego czas, wiedzę i doświadczenie. On szanuje Twój wysiłek, zaangażowanie i prawo do własnych pomysłów. Ta symetria jest podstawą dobrej współpracy.
+\end{zasada}
+
+\sectionheader{acadnavy}{Różne style prowadzenia seminarium}
+
+Promotorzy różnią się stylem pracy. Warto na początku rozpoznać, z jakim typem promotora masz do czynienia:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadteal, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadteal}\textcolor{white}{\textbf{Typ promotora}} & \textcolor{white}{\textbf{Charakterystyka i jak z nim pracować}} \\
+Mentor-opiekun & Częste spotkania, szczegółowe uwagi, ścisłe prowadzenie. Słuchaj rad, ale zachowaj własną inicjatywę. \\
+\rowcolor{acadlightteal} Konsultant & Spotkania na życzenie studenta, ogólne wskazówki. Musisz sam wykazać inicjatywę i przychodzić z konkretnymi pytaniami. \\
+Ekspert-specjalista & Skupiony na merytoryce w swojej dziedzinie, mniej na formalnościach. Wykorzystaj jego wiedzę, ale samodzielnie dopilnuj wymogów formalnych. \\
+\rowcolor{acadlightteal} Zapracowany profesor & Mało czasu, krótkie spotkania, lakoniczne uwagi. Przygotowuj się bardzo starannie, wykorzystuj każdą minutę. \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Na pierwszym lub drugim spotkaniu zapytaj promotora wprost o jego oczekiwania: jak często chce się spotykać, w jakiej formie przesyłać materiały, jak szczegółowych uwag możesz oczekiwać. To zaoszczędzi nieporozumień później.
+\end{wskazowka}
+
+\sectionbreak
+
+## Jak przygotować się do konsultacji?
+
+Konsultacje z promotorem to cenny czas, który powinieneś maksymalnie wykorzystać. Nieprzygotowany student marnuje czas swój i promotora, a to buduje negatywną atmosferę współpracy.
+
+\sectionheader{acadnavy}{Przed spotkaniem}
+
+\resetsteps
+
+\begin{krok}[acadteal]{Przygotuj materiały z wyprzedzeniem}
+Wyślij promotorowi materiały do przejrzenia \textbf{minimum 3--5 dni} przed spotkaniem. Promotor musi mieć czas na lekturę. Nie przynoś tekstu na spotkanie z oczekiwaniem, że promotor przeczyta go przy Tobie.
+\end{krok}
+
+\begin{krok}[acadteal]{Przygotuj konkretne pytania}
+Spisz listę pytań i wątpliwości, które chcesz omówić. Uporządkuj je według ważności --- na wypadek, gdyby nie starczyło czasu na wszystkie. Unikaj pytań ogólnikowych typu ``Co Pan/Pani o tym sądzi?''. Zadawaj pytania konkretne: ``Czy bibliografia w podrozdziale 2.3 jest wystarczająca?'', ``Czy metodologia ankiety jest odpowiednia do zweryfikowania hipotezy H2?''.
+\end{krok}
+
+\begin{krok}[acadteal]{Przygotuj notatki z poprzednich spotkań}
+Przypomnij sobie, co było ustalane na poprzednim spotkaniu. Sprawdź, czy wykonałeś wszystkie zalecenia promotora. Jeśli któregoś nie wykonałeś --- przygotuj wyjaśnienie dlaczego.
+\end{krok}
+
+\begin{krok}[acadteal]{Przygotuj krótkie podsumowanie postępów}
+Na początku spotkania krótko zreferuj, co zrobiłeś od ostatniego razu. Promotor prowadzi wielu studentów i może nie pamiętać szczegółów Twojej pracy.
+\end{krok}
+
+\begin{przyklad}[Lista przygotowawcza do konsultacji]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\small
+\textbf{Konsultacja: 15.03.2024}
+
+\textbf{Materiały wysłane:} rozdział 2 (wersja 2), plan rozdziału 3
+
+\textbf{Postępy od ostatniego spotkania:}
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+\item Poprawiłem rozdział 2 według uwag (dodałem podrozdział 2.4, uzupełniłem bibliografię)
+\item Przygotowałem wstępny kwestionariusz ankiety
+\item Zebrałem literaturę do rozdziału 3 (15 nowych pozycji)
+\end{itemize}
+
+\textbf{Pytania do omówienia:}
+\begin{enumerate}[leftmargin=*, itemsep=1pt]
+\item Czy struktura rozdziału 3 jest logiczna?
+\item Czy kwestionariusz ankiety zawiera wszystkie potrzebne pytania?
+\item Jak duża powinna być próba badawcza?
+\item Czy mogę cytować raport firmy X jako źródło?
+\end{enumerate}
+
+\textbf{Problemy:}
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+\item Nie udało mi się dotrzeć do książki Y --- czy jest niezbędna?
+\item Mam wątpliwości co do hipotezy H3 --- czy nie jest zbyt szeroka?
+\end{itemize}
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Podczas spotkania}
+
+\begin{forestlist}
+\item \textbf{Notuj} --- zapisuj wszystkie uwagi promotora. Nie polegaj na pamięci.
+\item \textbf{Dopytuj} --- jeśli czegoś nie rozumiesz, pytaj od razu. Lepiej dopytać niż źle zrozumieć.
+\item \textbf{Nie dyskutuj z każdą uwagą} --- wysłuchaj najpierw wszystkich uwag, przemyśl je, a dopiero potem ewentualnie dyskutuj.
+\item \textbf{Podsumuj ustalenia} --- na końcu spotkania krótko powtórz, co masz zrobić do następnego razu.
+\item \textbf{Ustal termin} --- zanim wyjdziesz, umów się na następne spotkanie lub ustal sposób kontaktu.
+\end{forestlist}
+
+\begin{blad}
+\textbf{Czego NIE robić na konsultacjach:}
+\begin{burgundylist}
+\item Przychodzić bez przygotowania (``Nie wiem, o czym chciałbym porozmawiać'')
+\item Przynosić tekstu, którego promotor nie widział wcześniej
+\item Usprawiedliwiać się bez końca (lepiej przyznać się i iść dalej)
+\item Kłócić się z promotorem o każdą uwagę
+\item Ignorować uwag (``ale ja chcę tak napisać'')
+\item Oczekiwać, że promotor powie dokładnie, co i jak napisać
+\item Siedzieć cicho i czekać, aż promotor sam zacznie mówić
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadnavy}{Po spotkaniu}
+
+\begin{krok}[acadteal]{Uporządkuj notatki}
+Zaraz po spotkaniu (tego samego dnia) przejrzyj notatki i uporządkuj je. Doprecyzuj nieczytelne fragmenty, dopóki pamiętasz kontekst.
+\end{krok}
+
+\begin{krok}[acadteal]{Wyślij podsumowanie (opcjonalnie)}
+Jeśli spotkanie było ważne lub ustalenia były skomplikowane, wyślij promotorowi krótkie podsumowanie mailowe: ``Potwierdzam ustalenia z dzisiejszego spotkania: 1) ..., 2) ..., 3) ...''. To zabezpiecza przed nieporozumieniami.
+\end{krok}
+
+\begin{krok}[acadteal]{Wprowadź poprawki w rozsądnym czasie}
+Nie odkładaj wprowadzenia poprawek. Im szybciej to zrobisz, tym lepiej pamiętasz kontekst uwag. Idealne tempo: wprowadzenie poprawek w ciągu 1--2 tygodni od spotkania.
+\end{krok}
+
+\sectionbreak
+
+## Jak reagować na uwagi i krytykę?
+
+Otrzymywanie krytyki to najtrudniejszy element współpracy z promotorem. Nawet konstruktywne uwagi mogą być bolesne, szczególnie gdy włożyłeś dużo pracy w tekst. Umiejętność przyjmowania krytyki jest jednak niezbędna dla rozwoju --- nie tylko w pisaniu pracy, ale w całej przyszłej karierze.
+
+\sectionheader{acadnavy}{Nastawienie mentalne}
+
+\begin{zasada}[Krytyka jako pomoc]
+Krytyka promotora to \textbf{pomoc}, nie atak. Promotor wskazuje słabości Twojej pracy nie po to, żeby Cię zranić, ale żebyś mógł je poprawić \textbf{zanim} pracę przeczyta recenzent i komisja. Lepiej usłyszeć krytykę teraz niż na obronie.
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Jak zmienić perspektywę:}
+\begin{goldlist}
+\item Zamiast: ``Promotor nie docenia mojej pracy'' → Pomyśl: ``Promotor pokazuje mi, jak ją ulepszyć''
+\item Zamiast: ``Te uwagi są niesprawiedliwe'' → Pomyśl: ``Co konkretnie muszę poprawić?''
+\item Zamiast: ``Wszystko jest źle'' → Pomyśl: ``Które elementy wymagają poprawy, a które są dobre?''
+\item Zamiast: ``Nie dam rady tego naprawić'' → Pomyśl: ``Krok po kroku --- od czego zacznę?''
+\end{goldlist}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Praktyczne wskazówki}
+
+\begin{navylist}
+\item \textbf{Nie reaguj emocjonalnie} --- jeśli czujesz złość lub frustrację, weź głęboki oddech. Poproś o czas do namysłu (``Muszę to przemyśleć'').
+
+\item \textbf{Oddziel siebie od tekstu} --- krytykowany jest tekst, nie Ty jako osoba. To, że fragment wymaga poprawy, nie oznacza, że jesteś złym studentem.
+
+\item \textbf{Szukaj konkretów} --- jeśli uwaga jest ogólna (``ten fragment jest słaby''), dopytaj: ``Co konkretnie jest nie tak? Jak mogę to poprawić?''
+
+\item \textbf{Rób notatki} --- zapisuj uwagi. To pozwala później wrócić do nich na spokojnie.
+
+\item \textbf{Nie dyskutuj z każdą uwagą} --- niektóre uwagi warto przyjąć bez dyskusji, nawet jeśli się nie zgadzasz. Wybieraj bitwy --- broń tylko tego, co naprawdę ważne.
+
+\item \textbf{Przyznawaj się do błędów} --- ``Ma Pan/Pani rację, tego nie przemyślałem. Poprawię.'' To dojrzała reakcja, która buduje szacunek.
+
+\item \textbf{Dziękuj za uwagi} --- nawet jeśli są bolesne. Promotor poświęca swój czas na czytanie Twojej pracy.
+\end{navylist}
+
+\sectionheader{acadnavy}{Gdy się nie zgadzasz}
+
+Czasami możesz mieć uzasadnione wątpliwości co do uwag promotora. To normalne --- masz prawo do własnego zdania. Ważny jest sposób, w jaki wyrażasz niezgodę.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Źle}} & \textcolor{white}{\textbf{Dobrze}} \\
+``Nie zgadzam się'' & ``Rozumiem Pana/Pani uwagę. Chciałbym jednak przedstawić inną perspektywę...'' \\
+\rowcolor{acadlightcopper} ``Ale w książce X jest inaczej'' & ``W książce X znalazłem odmienne stanowisko. Czy mógłby Pan/Pani to skomentować?'' \\
+``To moja praca i chcę tak napisać'' & ``Zależy mi na tym fragmencie, bo... Czy mogę go zostawić w zmienionej formie?'' \\
+\rowcolor{acadlightcopper} ``To nie ma sensu'' & ``Nie do końca rozumiem tę uwagę. Czy mógłby Pan/Pani wyjaśnić?'' \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Jeśli po przemyśleniu nadal się nie zgadzasz z uwagą, możesz to powiedzieć --- ale z argumentami. ``Rozważyłem Pani uwagę dotyczącą X. Chciałbym jednak zaproponować inne rozwiązanie, ponieważ...'' Promotor może się zgodzić lub nie, ale będzie szanował Twoje przemyślane stanowisko.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Rodzaje uwag promotora}
+
+Nie wszystkie uwagi są równie kategoryczne. Naucz się je rozróżniać:
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Typ uwagi}} & \textcolor{white}{\textbf{Jak reagować?}} \\
+Błąd merytoryczny & Popraw bezwzględnie. To błąd, który obniży ocenę. \\
+\rowcolor{acadlightnavy} Wymóg formalny & Popraw --- to kwestia regulaminu, nie dyskusji. \\
+Propozycja strukturalna & Przemyśl i wdróż lub przedstaw alternatywę. \\
+\rowcolor{acadlightnavy} Sugestia stylistyczna & Rozważ, ale możesz zachować własny styl. \\
+Pytanie retoryczne & Przemyśl i uzupełnij argumentację. \\
+\rowcolor{acadlightnavy} Luźna uwaga & Rozważ --- nie musisz wdrażać każdej luźnej myśli. \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{blad}
+\textbf{Typowy błąd:} Ignorowanie uwag promotora i liczenie, że ``jakoś przejdzie''.
+
+Jeśli promotor kilkakrotnie zwraca uwagę na ten sam problem, a Ty go ignorujesz, to poważny błąd. Promotor może odmówić dopuszczenia pracy do obrony lub napisać negatywną opinię. Nawet jeśli nie zgadzasz się z uwagą, musisz jakoś ją zaadresować --- poprawić lub przedstawić argumenty przeciwne.
+\end{blad}
+
+\sectionbreak
+
+## Komunikacja mailowa — dobre praktyki
+
+Większość komunikacji z promotorem między spotkaniami odbywa się mailowo. Profesjonalna komunikacja mailowa jest ważna --- buduje Twój wizerunek jako dojrzałego studenta.
+
+\sectionheader{acadnavy}{Zasady pisania maili do promotora}
+
+\begin{forestlist}
+\item \textbf{Używaj właściwego tytułu maila} --- nie ``Praca'' ani ``Pytanie'', ale konkretnie: ``Praca licencjacka --- rozdział 2 do konsultacji'' lub ``Pytanie dot. metodologii badań''
+\item \textbf{Zacznij od grzecznego pozdrowienia} --- ``Szanowny Panie Profesorze / Szanowna Pani Doktor'' (forma zależy od stopnia naukowego)
+\item \textbf{Przedstaw się} --- szczególnie na początku współpracy: ``Piszę w sprawie pracy licencjackiej na temat X''
+\item \textbf{Bądź konkretny} --- napisz jasno, czego potrzebujesz: opinii, odpowiedzi na pytanie, ustalenia terminu
+\item \textbf{Ogranicz liczbę pytań} --- jeden mail = jeden główny temat. Wiele pytań lepiej omówić na spotkaniu
+\item \textbf{Dołącz załączniki prawidłowo} --- nazwij plik zrozumiale (``Kowalski\_rozdzial2\_v3.docx'', nie ``dokument1.docx'')
+\item \textbf{Zakończ grzecznie} --- ``Z poważaniem / Z wyrazami szacunku'' + imię i nazwisko
+\end{forestlist}
+
+\begin{przyklad}[Prawidłowy mail do promotora]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\small
+\textbf{Temat:} Praca licencjacka --- rozdział 2 do konsultacji
+
+Szanowny Panie Doktorze,
+
+przesyłam poprawioną wersję rozdziału 2 mojej pracy licencjackiej. Uwzględniłem wszystkie uwagi z ostatniego spotkania, w szczególności:
+\begin{itemize}[leftmargin=*, itemsep=1pt]
+\item dodałem podrozdział 2.4 dotyczący teorii X,
+\item uzupełniłem bibliografię o pozycje anglojęzyczne,
+\item poprawiłem definicję pojęcia Y.
+\end{itemize}
+
+Mam jedną wątpliwość: czy fragment na stronie 15 dotyczący modelu Z jest wystarczająco rozwinięty, czy powinienem dodać więcej przykładów?
+
+Byłbym wdzięczny za uwagi do tego rozdziału przed naszym spotkaniem w przyszłym tygodniu.
+
+Z poważaniem,\\
+Jan Kowalski\\
+Kierunek: Zarządzanie, III rok\\
+Nr albumu: 123456
+\end{tcolorbox}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Przykłady złych maili:}
+\begin{burgundylist}
+\item ``Hej, przesyłam pracę'' (zbyt potoczny ton, brak konkretów)
+\item Mail bez tematu lub z tematem ``(brak tematu)''
+\item ``Kiedy mogę przyjść?'' (bez kontekstu, bez zaproponowania terminów)
+\item Mail z załącznikiem ``Nowy dokument.docx'' bez żadnej treści
+\item Bardzo długi mail z dziesiątkami pytań (lepiej umówić się na spotkanie)
+\item Mail wysłany o 3:00 w nocy z oczekiwaniem odpowiedzi rano
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadnavy}{Oczekiwanie na odpowiedź}
+
+\begin{zasada}[Cierpliwość w oczekiwaniu]
+Promotorzy są zajęci --- prowadzą zajęcia, badania, mają innych studentów. Standardowy czas oczekiwania na odpowiedź mailową to \textbf{3--7 dni roboczych}. Nie wysyłaj ponagleń po jednym dniu. Jeśli sprawa jest pilna, zaznacz to w tytule maila (``Pilne --- termin 15.03'').
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Gdy nie ma odpowiedzi:}
+\begin{navylist}
+\item Po tygodniu --- wyślij grzeczne przypomnienie: ``Pozwalam sobie przypomnieć o mailu z dnia X dotyczącym Y. Czy miał/a Pan/Pani okazję go przejrzeć?''
+\item Po dwóch tygodniach --- spróbuj innego kanału (telefon do sekretariatu, wizyta w godzinach dyżuru)
+\item Nie bombarduj dziesiątkami maili --- to irytujące i nieprofesjonalne
+\end{navylist}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Częste błędy komunikacyjne}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Błąd}} & \textcolor{white}{\textbf{Dlaczego to problem?}} \\
+Zwracanie się po imieniu & Zbyt poufały ton; używaj tytułu naukowego \\
+\rowcolor{acadlightburgundy} Pisanie SMS-ów & Nieformalny kanał; używaj maila lub kontaktu przez uczelnię \\
+Kontakt przez media społecznościowe & Nieprofesjonalne; nie wysyłaj zaproszeń na Facebooku \\
+\rowcolor{acadlightburgundy} Maile w weekend z oczekiwaniem szybkiej odpowiedzi & Promotor ma prawo do czasu wolnego \\
+Wysyłanie wielu wersji tego samego rozdziału jednego dnia & Zaczekaj na uwagi do jednej wersji \\
+\rowcolor{acadlightburgundy} Pisanie w emocjach & Jeśli jesteś zły/zestresowany, napisz maila, ale wyślij następnego dnia \\
+\end{tabularx}
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Nazewnictwo plików}
+
+Prawidłowe nazywanie plików ułatwia promotorowi organizację materiałów od wielu studentów:
+
+\begin{przyklad}[Prawidłowe nazwy plików]
+\begin{forestlist}
+\item \texttt{Kowalski\_praca\_licencjacka\_v1.docx}
+\item \texttt{Kowalski\_rozdzial2\_20240315.docx}
+\item \texttt{Kowalski\_kwestionariusz\_ankiety.docx}
+\item \texttt{Kowalski\_bibliografia.docx}
+\end{forestlist}
+
+\textbf{Źle:}
+\begin{burgundylist}
+\item \texttt{praca.docx}
+\item \texttt{Nowy dokument (3).docx}
+\item \texttt{rozdział poprawiony FINAL ostateczny v2 NOWY.docx}
+\end{burgundylist}
+\end{przyklad}
+
+\sectionbreak
+
+## Sytuacje trudne
+
+Czasami współpraca z promotorem napotyka problemy. Oto jak radzić sobie z typowymi trudnymi sytuacjami.
+
+\sectionheader{acadnavy}{Promotor nie odpowiada na maile}
+
+\begin{navylist}
+\item Upewnij się, że mail dotarł (sprawdź folder ``Wysłane'', poprawność adresu)
+\item Wyślij grzeczne przypomnienie po tygodniu
+\item Spróbuj skontaktować się przez sekretariat
+\item Przyjdź na dyżur bez zapowiedzi (jako ostateczność)
+\item Jeśli problem się powtarza --- porozmawiaj z promotorem o preferowanej formie kontaktu
+\end{navylist}
+
+\sectionheader{acadnavy}{Promotor jest bardzo krytyczny}
+
+\begin{navylist}
+\item Sprawdź, czy krytyka jest merytoryczna --- może masz rzeczywiście dużo do poprawy?
+\item Poproś o konkretne wskazówki: ``Co konkretnie powinienem zmienić?''
+\item Skup się na poprawkach, nie na emocjach
+\item Jeśli krytyka jest niesprawiedliwa lub nieprofesjonalna --- rozważ rozmowę z kierownikiem katedry
+\end{navylist}
+
+\sectionheader{acadnavy}{Promotor ma inne zdanie niż literatura}
+
+\begin{navylist}
+\item Pamiętaj, że promotor może mieć rację --- literatura nie zawsze jest aktualna lub kompletna
+\item Przedstaw swoje źródła: ``W książce X znalazłem takie stanowisko...''
+\item Zapytaj o wyjaśnienie rozbieżności
+\item Ostatecznie --- promotor ma decydujący głos w kwestii Twojej pracy
+\end{navylist}
+
+\sectionheader{acadnavy}{Chcesz zmienić promotora}
+
+Zmiana promotora jest możliwa, ale powinna być ostatecznością:
+
+\begin{wazne}
+Przed decyzją o zmianie promotora rozważ:
+\begin{goldlist}
+\item Czy problem można rozwiązać rozmową?
+\item Czy to konflikt personalny czy merytoryczny?
+\item Jak zmiana wpłynie na terminowość pracy?
+\item Czy nowy promotor będzie znał Twój temat?
+\end{goldlist}
+Zmiana promotora wymaga formalnej procedury (wniosek, zgoda dziekana). Skonsultuj się z dziekanatem.
+\end{wazne}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy wszystkie aspekty współpracy z promotorem: jego rolę, przygotowanie do konsultacji, przyjmowanie krytyki oraz profesjonalną komunikację mailową.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Promotor to sojusznik, nie przeciwnik --- jego celem jest Twój sukces
+\item Promotor doradza i koryguje, ale nie pisze pracy za Ciebie
+\item Na konsultacje przychodź przygotowany: z materiałami wysłanymi wcześniej, listą pytań, notatkami
+\item Podczas spotkania notuj uwagi, dopytuj o niejasności, podsumuj ustalenia
+\item Krytykę przyjmuj jako pomoc, nie jako atak --- oddziel siebie od tekstu
+\item Jeśli się nie zgadzasz --- przedstaw argumenty, ale z szacunkiem
+\item W mailach bądź konkretny, profesjonalny i cierpliwy (3--7 dni na odpowiedź)
+\item Nazywaj pliki zrozumiale: Nazwisko\_element\_wersja.docx
+\item Problemy rozwiązuj rozmową --- zmiana promotora to ostateczność
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Przed następną konsultacją przygotuj ``kartę spotkania'' według wzoru z tego rozdziału: materiały wysłane, postępy, pytania, problemy. Zobacz, jak zmieni się jakość spotkania.
+\end{wskazowka}
+
+W kolejnym rozdziale zajmiemy się ostatnimi szlifami przed oddaniem pracy --- dowiesz się, jak przeprowadzić końcową korektę, sprawdzić spójność i upewnić się, że praca spełnia wszystkie wymogi formalne.

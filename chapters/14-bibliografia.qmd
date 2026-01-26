@@ -1,0 +1,562 @@
+---
+pagetitle: "Bibliografia"
+---
+
+\pagestyle{zrodla}
+\thispagestyle{zrodla}
+
+# Bibliografia — jak ją poprawnie sporządzić
+
+\sectionheader{acadforest}{Wizytówka Twojej pracy naukowej}
+
+Bibliografia to uporządkowany wykaz wszystkich źródeł, z których korzystałeś przy pisaniu pracy licencjackiej. Jest ona nie tylko formalnym wymogiem, ale przede wszystkim świadectwem Twojej rzetelności naukowej i erudycji. Dobrze sporządzona bibliografia pokazuje, że Twoja praca opiera się na solidnych podstawach merytorycznych i że potrafisz korzystać z literatury naukowej.
+
+Wykaz literatury pozwala również czytelnikowi zweryfikować Twoje źródła, pogłębić wiedzę na dany temat oraz ocenić aktualność i jakość wykorzystanych materiałów. Dlatego tak ważne jest, aby bibliografia była sporządzona starannie, konsekwentnie i zgodnie z przyjętymi standardami.
+
+\begin{definicja}[Bibliografia]
+Bibliografia (gr. \textit{biblion} --- książka, \textit{graphein} --- pisać) to uporządkowany alfabetycznie lub tematycznie wykaz publikacji i innych źródeł wykorzystanych przy pisaniu pracy naukowej. Stanowi integralną część każdej pracy dyplomowej i umieszczana jest na jej końcu, przed ewentualnymi załącznikami.
+\end{definicja}
+
+\begin{wazne}
+Bibliografia musi zawierać \textbf{wszystkie} źródła, do których odwołujesz się w przypisach, ale \textbf{tylko} te źródła. Nie dopisuj pozycji, których nie cytowałeś --- to nierzetelne. Nie pomijaj też żadnego cytowanego źródła --- to błąd formalny.
+\end{wazne}
+
+## Kolejność i grupowanie pozycji
+
+Sposób uporządkowania bibliografii zależy od wymagań Twojej uczelni oraz charakteru pracy. Istnieją dwa główne podejścia: bibliografia jednolita (wszystkie źródła w jednym wykazie) oraz bibliografia pogrupowana (źródła podzielone na kategorie).
+
+\sectionheader{acadnavy}{Bibliografia jednolita}
+
+W większości prac licencjackich stosuje się bibliografię jednolitą --- wszystkie pozycje umieszczone są w jednym wykazie, uporządkowanym alfabetycznie według nazwisk autorów (lub tytułów w przypadku prac zbiorowych i dokumentów bez autora).
+
+\begin{zasada}[Porządek alfabetyczny]
+Pozycje bibliograficzne szereguje się alfabetycznie według:
+\begin{navylist}
+\item Nazwiska pierwszego autora (bez względu na liczbę współautorów)
+\item Jeśli brak autora --- według pierwszego słowa tytułu (pomijając rodzajniki)
+\item Przy kilku pracach tego samego autora --- chronologicznie (od najstarszej)
+\item Przy kilku pracach tego samego autora z tego samego roku --- dodając litery a, b, c przy roku (np. 2020a, 2020b)
+\end{navylist}
+\end{zasada}
+
+\begin{przyklad}[Porządek alfabetyczny]
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\small
+Adamczyk J., \textit{Zarządzanie projektami}, Warszawa 2019.
+
+Bielski M., \textit{Organizacje. Istota, struktury, procesy}, Łódź 2004.
+
+Bielski M., \textit{Podstawy teorii organizacji i zarządzania}, Warszawa 2002.
+
+\textit{Encyklopedia zarządzania}, red. A. Stabryła, Kraków 2020.
+
+Griffin R.W., \textit{Podstawy zarządzania organizacjami}, przeł. M. Rusiński, Warszawa 2017.
+
+Kowalski A., Nowak B., Wiśniewski C., \textit{Metody badawcze}, Poznań 2021.
+\end{tcolorbox}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Bibliografia pogrupowana}
+
+W niektórych pracach, szczególnie interdyscyplinarnych lub korzystających z różnorodnych typów źródeł, stosuje się podział bibliografii na kategorie. Ułatwia to czytelnikowi orientację w wykorzystanych materiałach.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Kategoria}} & \textcolor{white}{\textbf{Co zawiera?}} \\
+Źródła & Akty prawne, dokumenty archiwalne, materiały źródłowe, dane statystyczne \\
+\rowcolor{acadlightnavy} Opracowania & Monografie, artykuły naukowe, rozdziały z prac zbiorowych \\
+Netografia & Źródła internetowe (strony www, artykuły online) \\
+\rowcolor{acadlightnavy} Inne & Wywiady, materiały niepublikowane, prace dyplomowe \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Sprawdź wytyczne swojej uczelni. Niektóre wydziały wymagają konkretnego podziału bibliografii (np. osobno literatura polska i obcojęzyczna, osobno akty prawne). Inne preferują bibliografię jednolitą. W razie wątpliwości --- zapytaj promotora.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Zasady ogólne sporządzania bibliografii}
+
+Niezależnie od wybranego systemu opisu bibliograficznego, obowiązują pewne uniwersalne zasady:
+
+\begin{forestlist}
+\item \textbf{Konsekwencja} --- raz przyjęty styl opisu stosuj w całej bibliografii
+\item \textbf{Kompletność} --- podawaj wszystkie wymagane elementy opisu
+\item \textbf{Dokładność} --- przepisuj dane bibliograficzne ze strony tytułowej, nie z okładki
+\item \textbf{Jednolitość interpunkcji} --- stosuj te same znaki przestankowe między elementami
+\item \textbf{Czytelność} --- wyróżniaj tytuły kursywą, zachowuj przejrzysty układ
+\end{forestlist}
+
+\begin{blad}
+\textbf{Typowy błąd:} Mieszanie stylów opisu w jednej bibliografii.
+
+Przykład błędu: jedna pozycja opisana według stylu APA, inna według stylu tradycyjnego z przypisami. To świadczy o braku staranności i obniża ocenę pracy.
+\end{blad}
+
+\sectionbreak
+
+## Opis bibliograficzny książki (przykłady)
+
+Książka (monografia) to najczęściej cytowany typ źródła w pracach licencjackich. Prawidłowy opis bibliograficzny książki powinien zawierać określone elementy, ułożone w ustalonej kolejności.
+
+\sectionheader{acadnavy}{Elementy opisu bibliograficznego książki}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadforest, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadforest}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Uwagi}} \\
+Autor (Autorzy) & Nazwisko, inicjał imienia (lub pełne imię) \\
+\rowcolor{acadlightforest} Tytuł & Kursywą; z podtytułem po dwukropku \\
+Tłumacz & Jeśli dotyczy: ``przeł.'' + imię i nazwisko \\
+\rowcolor{acadlightforest} Miejsce wydania & Nazwa miasta (bez kraju) \\
+Rok wydania & Rok pierwszego lub cytowanego wydania \\
+\rowcolor{acadlightforest} Wydawnictwo & Opcjonalnie (zależy od stylu uczelni) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Skąd brać dane?]
+Dane bibliograficzne przepisuj ze \textbf{strony tytułowej} książki, a nie z okładki czy grzbietu. Strona tytułowa zawiera pełne, oficjalne informacje. Rok wydania znajdziesz na stronie redakcyjnej (zwykle na odwrocie strony tytułowej).
+\end{zasada}
+
+\sectionheader{acadnavy}{Książka jednego autora}
+
+To najprostszy przypadek. Schemat opisu:
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Nazwisko I., \textit{Tytuł książki}, Miejsce wydania Rok.
+
+\textbf{lub z wydawnictwem:}\\
+Nazwisko I., \textit{Tytuł książki}, Wydawnictwo, Miejsce wydania Rok.
+\end{tcolorbox}
+
+\begin{przyklad}[Książki jednego autora]
+\begin{goldlist}
+\item Kowalski J., \textit{Metodologia badań społecznych}, Warszawa 2020.
+\item Nowak Anna, \textit{Psychologia motywacji}, PWN, Warszawa 2019.
+\item Stoner J.A.F., \textit{Kierowanie}, przeł. A. Ehrlich, PWE, Warszawa 2001.
+\item Drucker P.F., \textit{Praktyka zarządzania}, przeł. T. Basiuk, MT Biznes, Warszawa 2022.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Książka dwóch lub trzech autorów}
+
+Przy dwóch lub trzech autorach wymieniamy wszystkich, oddzielając ich nazwiska przecinkami:
+
+\begin{przyklad}[Książki kilku autorów]
+\begin{goldlist}
+\item Kowalski J., Nowak A., \textit{Podstawy zarządzania}, Kraków 2021.
+\item Bielski M., Adamczyk J., Wiśniewski P., \textit{Organizacja i zarządzanie}, PWN, Warszawa 2018.
+\item Kotler P., Keller K.L., \textit{Marketing}, przeł. J. Środa, Rebis, Poznań 2020.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Książka więcej niż trzech autorów}
+
+Gdy autorów jest więcej niż trzech, podajemy nazwisko pierwszego autora i dodajemy skrót oznaczający ``i inni'':
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadcopper, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadcopper}\textcolor{white}{\textbf{Skrót}} & \textcolor{white}{\textbf{Znaczenie i zastosowanie}} \\
+i in. & ``i inni'' --- polski skrót \\
+\rowcolor{acadlightcopper} et al. & łac. \textit{et alii} --- ``i inni'' --- skrót międzynarodowy \\
+i wsp. & ``i współpracownicy'' --- rzadziej stosowany \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{przyklad}[Książka wielu autorów]
+\begin{goldlist}
+\item Robbins S.P. i in., \textit{Zachowania w organizacji}, PWE, Warszawa 2021.
+\item Griffin R.W. et al., \textit{Management}, Boston 2019.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Praca zbiorowa pod redakcją}
+
+Gdy książka jest pracą zbiorową (różni autorzy piszą różne rozdziały) i nie ma jednego autora, opis zaczynamy od tytułu lub od nazwiska redaktora:
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Wariant 1 --- tytuł na początku:}\\
+\textit{Tytuł pracy zbiorowej}, red. I. Nazwisko, Miejsce wydania Rok.
+
+\textbf{Wariant 2 --- redaktor na początku:}\\
+Nazwisko I. (red.), \textit{Tytuł pracy zbiorowej}, Miejsce wydania Rok.
+\end{tcolorbox}
+
+\begin{przyklad}[Prace zbiorowe]
+\begin{goldlist}
+\item \textit{Współczesne metody zarządzania}, red. M. Przybyła, Wrocław 2020.
+\item Koźmiński A.K., Piotrowski W. (red.), \textit{Zarządzanie. Teoria i praktyka}, PWN, Warszawa 2021.
+\item \textit{Encyklopedia pedagogiczna XXI wieku}, red. T. Pilch, Żak, Warszawa 2003.
+\end{goldlist}
+\end{przyklad}
+
+\begin{wazne}
+Skróty ``red.'' (redakcja/redaktor) używamy przy jednym redaktorze. Przy kilku redaktorach niektórzy stosują ``red.'' (redakcja), inni ``red. nauk.'' (redakcja naukowa). Bądź konsekwentny w całej bibliografii.
+\end{wazne}
+
+\sectionheader{acadnavy}{Książka wielotomowa i kolejne wydania}
+
+Czasami konieczne jest podanie dodatkowych informacji:
+
+\begin{przyklad}[Przypadki szczególne]
+\textbf{Konkretny tom:}
+\begin{goldlist}
+\item Tatarkiewicz W., \textit{Historia filozofii}, t. 2, PWN, Warszawa 2019.
+\end{goldlist}
+
+\textbf{Wydanie inne niż pierwsze:}
+\begin{goldlist}
+\item Czarniawska B., \textit{Trzy nurty badań nad społeczeństwem}, wyd. 3, Warszawa 2018.
+\item Stoner J., \textit{Kierowanie}, wyd. 2 zm., PWE, Warszawa 2006.
+\end{goldlist}
+
+\textbf{Książka tłumaczona:}
+\begin{goldlist}
+\item Frankl V., \textit{Człowiek w poszukiwaniu sensu}, przeł. A. Wolnicka, Czarna Owca, Warszawa 2018.
+\end{goldlist}
+\end{przyklad}
+
+\sectionbreak
+
+## Opis artykułu z czasopisma
+
+Artykuły z czasopism naukowych to podstawowe źródło aktualnej wiedzy. Ich prawidłowy opis różni się od opisu książki --- musi zawierać informacje o czasopiśmie, w którym artykuł został opublikowany.
+
+\sectionheader{acadnavy}{Elementy opisu artykułu}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadnavy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadnavy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Uwagi}} \\
+Autor (Autorzy) & Jak w przypadku książki \\
+\rowcolor{acadlightnavy} Tytuł artykułu & Kursywą lub w cudzysłowie (zależy od stylu) \\
+Nazwa czasopisma & W cudzysłowie lub kursywą (odwrotnie niż tytuł) \\
+\rowcolor{acadlightnavy} Rok wydania & Rok publikacji numeru \\
+Numer/zeszyt & Numer rocznika, tomu, zeszytu \\
+\rowcolor{acadlightnavy} Strony & Zakres stron, na których znajduje się artykuł \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Tytuł artykułu vs nazwa czasopisma]
+W opisie bibliograficznym należy odróżnić tytuł artykułu od nazwy czasopisma. Najczęściej stosuje się konwencję:
+\begin{goldlist}
+\item Tytuł artykułu --- \textbf{kursywą}
+\item Nazwa czasopisma --- \textbf{w cudzysłowie}
+\end{goldlist}
+Lub odwrotnie (tytuł w cudzysłowie, czasopismo kursywą). Wybierz jeden wariant i stosuj konsekwentnie.
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=acadlightnavy, colframe=acadnavy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Nazwisko I., \textit{Tytuł artykułu}, ``Nazwa Czasopisma'' rok, nr X, s. xx--xx.
+
+\textbf{lub:}\\
+Nazwisko I., \textit{Tytuł artykułu}, ``Nazwa Czasopisma'' rok, t. X, nr Y, s. xx--xx.
+\end{tcolorbox}
+
+\begin{przyklad}[Artykuły z czasopism naukowych]
+\begin{goldlist}
+\item Kowalski A., \textit{Motywacja pracowników w sektorze IT}, ``Zarządzanie Zasobami Ludzkimi'' 2022, nr 3, s. 45--62.
+\item Nowak J., Wiśniewski P., \textit{Analiza rynku pracy absolwentów}, ``Edukacja Ekonomistów i Menedżerów'' 2021, t. 59, nr 1, s. 127--145.
+\item Sułkowski Ł., \textit{Epistemologia i metodologia zarządzania}, ``Przegląd Organizacji'' 2020, nr 7, s. 3--10.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Czasopisma zagraniczne}
+
+Przy opisie artykułów z czasopism zagranicznych stosujemy te same zasady, zachowując oryginalną pisownię tytułów:
+
+\begin{przyklad}[Artykuły z czasopism zagranicznych]
+\begin{goldlist}
+\item Porter M.E., \textit{The Five Competitive Forces That Shape Strategy}, ``Harvard Business Review'' 2008, vol. 86, no. 1, pp. 78--93.
+\item Herzberg F., \textit{One More Time: How Do You Motivate Employees?}, ``Harvard Business Review'' 1968, vol. 46, no. 1, pp. 53--62.
+\end{goldlist}
+\end{przyklad}
+
+\begin{wskazowka}
+W czasopismach anglojęzycznych zamiast ``nr'' używaj ``no.'' (number), zamiast ``t.'' --- ``vol.'' (volume), zamiast ``s.'' --- ``pp.'' (pages) lub ``p.'' (jedna strona). Zachowaj spójność z językiem źródła.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Artykuły z czasopism popularnonaukowych i prasy}
+
+Artykuły z prasy codziennej i czasopism popularnych opisuje się podobnie, ale z podaniem dokładnej daty:
+
+\begin{przyklad}[Artykuły prasowe]
+\begin{goldlist}
+\item Kowalski J., \textit{Rynek pracy w 2023 roku}, ``Rzeczpospolita'' z 15.03.2023, s. A12.
+\item Nowak A., \textit{Trendy w edukacji}, ``Polityka'' 2023, nr 12, s. 34--37.
+\end{goldlist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Typowy błąd:} Brak numerów stron w opisie artykułu.
+
+Numer stron to obowiązkowy element opisu artykułu! Pozwala czytelnikowi zlokalizować tekst w czasopiśmie. Wyjątek stanowią artykuły elektroniczne, które mogą nie mieć tradycyjnej paginacji.
+\end{blad}
+
+\sectionbreak
+
+## Opis rozdziału z pracy zbiorowej
+
+Często korzystasz nie z całej pracy zbiorowej, ale z konkretnego rozdziału napisanego przez określonego autora. W takim przypadku musisz opisać zarówno rozdział, jak i całą publikację, w której się znajduje.
+
+\sectionheader{acadnavy}{Struktura opisu rozdziału}
+
+Opis rozdziału z pracy zbiorowej składa się z dwóch części:
+\begin{navylist}
+\item \textbf{Część pierwsza} --- informacje o rozdziale (autor, tytuł rozdziału)
+\item \textbf{Część druga} --- informacje o całej publikacji (tytuł, redaktor, miejsce, rok, strony)
+\end{navylist}
+
+Te części łączy się wyrażeniem ``[w:]'' lub ``w:''.
+
+\begin{tcolorbox}[enhanced, colback=acadlightforest, colframe=acadforest, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Nazwisko I., \textit{Tytuł rozdziału}, [w:] \textit{Tytuł pracy zbiorowej}, red. I. Nazwisko, Miejsce wydania Rok, s. xx--xx.
+\end{tcolorbox}
+
+\begin{przyklad}[Rozdziały z prac zbiorowych]
+\begin{goldlist}
+\item Kowalski J., \textit{Metody motywowania pracowników}, [w:] \textit{Współczesne zarządzanie zasobami ludzkimi}, red. A. Nowak, PWN, Warszawa 2021, s. 123--145.
+\item Zięba R., \textit{Bezpieczeństwo międzynarodowe po zimnej wojnie}, [w:] \textit{Bezpieczeństwo międzynarodowe}, red. D. Bobrow, E. Haliżak, Warszawa 2018, s. 15--42.
+\item Pilch T., \textit{Środowisko wychowawcze}, [w:] \textit{Encyklopedia pedagogiczna XXI wieku}, t. 6, red. T. Pilch, Żak, Warszawa 2007, s. 197--203.
+\end{goldlist}
+\end{przyklad}
+
+\begin{wazne}
+Podanie numeru stron rozdziału jest \textbf{obowiązkowe}! To jeden z najczęściej pomijanych elementów opisu. Bez numerów stron opis jest niekompletny.
+\end{wazne}
+
+\sectionheader{acadnavy}{Kilku redaktorów}
+
+Gdy praca zbiorowa ma kilku redaktorów, wymieniamy ich wszystkich (do trzech) lub stosujemy skrót ``i in.'':
+
+\begin{przyklad}[Praca zbiorowa z kilkoma redaktorami]
+\begin{goldlist}
+\item Nowak A., \textit{Teorie organizacji}, [w:] \textit{Zarządzanie. Teoria i praktyka}, red. A.K. Koźmiński, W. Piotrowski, PWN, Warszawa 2020, s. 65--98.
+\item Wiśniewski P., \textit{Metody badawcze}, [w:] \textit{Metodologia nauk społecznych}, red. J. Kowalski i in., Kraków 2019, s. 45--78.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Hasło z encyklopedii lub słownika}
+
+Hasła encyklopedyczne i słownikowe opisuje się podobnie jak rozdziały z prac zbiorowych:
+
+\begin{przyklad}[Hasła encyklopedyczne]
+\begin{goldlist}
+\item Sztompka P., \textit{Socjologia}, [w:] \textit{Encyklopedia socjologii}, t. 4, red. W. Kwaśniewicz, Oficyna Naukowa, Warszawa 2002, s. 114--119.
+\item \textit{Motywacja}, [w:] \textit{Słownik psychologii}, red. J. Siuta, Kraków 2005, s. 156--157.
+\end{goldlist}
+\end{przyklad}
+
+\sectionbreak
+
+## Źródła internetowe — jak cytować?
+
+Źródła internetowe stanowią coraz większą część bibliografii współczesnych prac naukowych. Jednak ich cytowanie wymaga szczególnej ostrożności --- zarówno w kwestii wiarygodności, jak i poprawności opisu bibliograficznego.
+
+\sectionheader{acadnavy}{Elementy opisu źródła internetowego}
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadteal, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadteal}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Uwagi}} \\
+Autor & Jeśli znany; może być osoba lub instytucja \\
+\rowcolor{acadlightteal} Tytuł strony/artykułu & Kursywą \\
+Nazwa portalu/serwisu & Jeśli istotna dla identyfikacji \\
+\rowcolor{acadlightteal} Adres URL & Pełny adres strony \\
+Data dostępu & Kiedy przeglądałeś stronę \\
+\rowcolor{acadlightteal} Data publikacji & Jeśli podana na stronie \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{zasada}[Data dostępu --- obowiązkowa!]
+Treści internetowe mogą być modyfikowane lub usuwane. Dlatego \textbf{zawsze} podawaj datę dostępu do źródła --- informuje ona, kiedy strona była dostępna i w jakiej wersji ją widziałeś.
+\end{zasada}
+
+\begin{tcolorbox}[enhanced, colback=acadlightteal, colframe=acadteal, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Autor, \textit{Tytuł}, adres URL [dostęp: DD.MM.RRRR].
+
+\textbf{lub:}\\
+Autor, \textit{Tytuł} [online], Nazwa portalu, data publikacji, adres URL [dostęp: DD.MM.RRRR].
+\end{tcolorbox}
+
+\sectionheader{acadnavy}{Artykuły online z czasopism naukowych}
+
+Artykuły z czasopism dostępne online opisuje się jak tradycyjne artykuły, dodając informację o dostępie elektronicznym:
+
+\begin{przyklad}[Artykuły naukowe online]
+\begin{goldlist}
+\item Kowalski J., \textit{Analiza rynku pracy}, ``Ekonomia i Zarządzanie'' 2022, nr 4, s. 23--45, https://example.com/artykul [dostęp: 15.03.2024].
+\item Nowak A., \textit{Digital transformation in SMEs}, ``Journal of Management'' 2023, vol. 15, no. 2, pp. 112--130. DOI: 10.1234/jm.2023.15.2.112.
+\end{goldlist}
+\end{przyklad}
+
+\begin{wskazowka}
+Jeśli artykuł ma numer DOI (Digital Object Identifier), podaj go zamiast lub obok adresu URL. DOI to stały identyfikator, który nie zmienia się, nawet gdy zmieni się adres strony.
+\end{wskazowka}
+
+\sectionheader{acadnavy}{Strony internetowe instytucji}
+
+Oficjalne strony instytucji, organizacji i urzędów to wartościowe źródła danych. Jako autora podaj nazwę instytucji:
+
+\begin{przyklad}[Strony instytucji]
+\begin{goldlist}
+\item GUS, \textit{Rocznik Statystyczny 2023}, https://stat.gov.pl/rocznik2023 [dostęp: 10.01.2024].
+\item Ministerstwo Edukacji i Nauki, \textit{Strategia rozwoju szkolnictwa wyższego}, https://www.gov.pl/web/edukacja [dostęp: 5.02.2024].
+\item WHO, \textit{Global Health Statistics 2023}, https://www.who.int/data [dostęp: 20.03.2024].
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Strony bez autora}
+
+Gdy autor nie jest podany, opis zaczyna się od tytułu:
+
+\begin{przyklad}[Strony bez autora]
+\begin{goldlist}
+\item \textit{Historia Krakowa}, https://www.krakow.pl/historia [dostęp: 12.04.2024].
+\item \textit{Regulamin studiów UW}, https://www.uw.edu.pl/regulamin [dostęp: 1.09.2023].
+\end{goldlist}
+\end{przyklad}
+
+\begin{blad}
+\textbf{Czego NIE cytować z Internetu:}
+\begin{burgundylist}
+\item Wikipedii (jako źródła głównego --- można użyć do znalezienia właściwych źródeł)
+\item Prac studenckich z serwisów typu ``ściąga.pl''
+\item Blogów i forów bez weryfikacji naukowej
+\item Stron komercyjnych z treściami reklamowymi
+\item Źródeł bez autora i daty, których nie można zweryfikować
+\end{burgundylist}
+\end{blad}
+
+\sectionheader{acadnavy}{Dzielenie długich adresów URL}
+
+Długie adresy internetowe mogą sprawiać problemy w składzie tekstu. Zasady ich dzielenia:
+
+\begin{forestlist}
+\item Dziel adres \textbf{przed} znakiem specjalnym (/, ?, =, \&), nie po nim
+\item Nigdy nie dodawaj łącznika przy dzieleniu adresu
+\item Nie skracaj ani nie modyfikuj adresu
+\item Rozważ użycie usług skracania linków lub podanie numeru DOI
+\end{forestlist}
+
+\sectionbreak
+
+## Akty prawne i orzecznictwo
+
+W pracach z zakresu prawa, administracji, bezpieczeństwa i wielu innych dziedzin konieczne jest cytowanie aktów prawnych i orzeczeń sądowych. Ich opis bibliograficzny rządzi się specyficznymi zasadami.
+
+\sectionheader{acadnavy}{Akty prawne}
+
+Opis aktu prawnego powinien umożliwić jego jednoznaczną identyfikację i odnalezienie w oficjalnym publikatorze.
+
+\begin{tcolorbox}[enhanced, colback=white, colframe=acadburgundy, boxrule=1pt, arc=0pt, left=0mm, right=0mm, top=0mm, bottom=0mm]
+\begin{tabularx}{\textwidth}{L X}
+\rowcolor{acadburgundy}\textcolor{white}{\textbf{Element}} & \textcolor{white}{\textbf{Uwagi}} \\
+Rodzaj aktu & Ustawa, rozporządzenie, dyrektywa itp. \\
+\rowcolor{acadlightburgundy} Data uchwalenia/wydania & Pełna data (dzień, miesiąc, rok) \\
+Tytuł aktu & Oficjalna nazwa \\
+\rowcolor{acadlightburgundy} Publikator & Dz.U., M.P., Dz.Urz. UE --- numer, pozycja \\
+Zmiany & Informacja o późniejszych zmianach (jeśli istotna) \\
+\end{tabularx}
+\end{tcolorbox}
+
+\begin{tcolorbox}[enhanced, colback=acadlightburgundy, colframe=acadburgundy, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Rodzaj aktu z dnia DD miesiąca RRRR r. --- Tytuł aktu (Dz.U. z RRRR r. Nr X, poz. Y).
+
+\textbf{lub po 2012 r.:}\\
+Rodzaj aktu z dnia DD miesiąca RRRR r. --- Tytuł aktu (Dz.U. z RRRR r. poz. Y).
+\end{tcolorbox}
+
+\begin{przyklad}[Akty prawne]
+\textbf{Konstytucja:}
+\begin{goldlist}
+\item Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. (Dz.U. z 1997 r. Nr 78, poz. 483 z późn. zm.).
+\end{goldlist}
+
+\textbf{Ustawy:}
+\begin{goldlist}
+\item Ustawa z dnia 27 lipca 2005 r. --- Prawo o szkolnictwie wyższym (Dz.U. z 2005 r. Nr 164, poz. 1365 z późn. zm.).
+\item Ustawa z dnia 20 lipca 2018 r. --- Prawo o szkolnictwie wyższym i nauce (Dz.U. z 2018 r. poz. 1668).
+\end{goldlist}
+
+\textbf{Rozporządzenia:}
+\begin{goldlist}
+\item Rozporządzenie Ministra Nauki i Szkolnictwa Wyższego z dnia 27 września 2018 r. w sprawie studiów (Dz.U. z 2018 r. poz. 1861).
+\end{goldlist}
+\end{przyklad}
+
+\begin{wazne}
+Nazwy organów wydających akty prawne piszemy \textbf{wielką literą}: Ustawa, Rozporządzenie Ministra, Dyrektywa Parlamentu Europejskiego. Nazwy miesięcy piszemy małą literą.
+\end{wazne}
+
+\sectionheader{acadnavy}{Akty prawa Unii Europejskiej}
+
+Akty prawa UE publikowane są w Dzienniku Urzędowym Unii Europejskiej (Dz.Urz. UE):
+
+\begin{przyklad}[Akty prawa UE]
+\begin{goldlist}
+\item Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych (RODO) (Dz.Urz. UE L 119 z 4.05.2016, s. 1).
+\item Dyrektywa Parlamentu Europejskiego i Rady 2014/24/UE z dnia 26 lutego 2014 r. w sprawie zamówień publicznych (Dz.Urz. UE L 94 z 28.03.2014, s. 65).
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Orzecznictwo}
+
+Orzeczenia sądów (wyroki, postanowienia, uchwały) cytuje się, podając:
+
+\begin{tcolorbox}[enhanced, colback=acadlightslate, colframe=acadslate, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Schemat:}\\
+Rodzaj orzeczenia Nazwa sądu z dnia DD.MM.RRRR r., sygn. akt: XXX/YY, publikator lub ``niepubl.''.
+\end{tcolorbox}
+
+\begin{przyklad}[Orzeczenia sądowe]
+\begin{goldlist}
+\item Wyrok Trybunału Konstytucyjnego z dnia 11 maja 2007 r., sygn. akt: K 2/07, OTK ZU 2007, nr 5A, poz. 48.
+\item Wyrok Sądu Najwyższego z dnia 15 marca 2018 r., sygn. akt: III CSK 387/17, OSNC 2019, nr 2, poz. 24.
+\item Wyrok Naczelnego Sądu Administracyjnego z dnia 22 czerwca 2020 r., sygn. akt: II OSK 234/20, LEX nr 3045678.
+\item Wyrok TSUE z dnia 13 maja 2014 r. w sprawie C-131/12, \textit{Google Spain}, ECLI:EU:C:2014:317.
+\end{goldlist}
+\end{przyklad}
+
+\sectionheader{acadnavy}{Porządkowanie aktów prawnych w bibliografii}
+
+Akty prawne w bibliografii pogrupowanej umieszcza się zazwyczaj w osobnej sekcji ``Akty prawne'' lub ``Źródła prawa''. Porządek może być:
+
+\begin{navylist}
+\item \textbf{Hierarchiczny} --- od aktów najwyższej rangi (Konstytucja, ustawy, rozporządzenia)
+\item \textbf{Chronologiczny} --- od najstarszych do najnowszych
+\item \textbf{Alfabetyczny} --- według tytułów aktów
+\end{navylist}
+
+\begin{wskazowka}
+W pracach prawniczych często stosuje się podział na: prawo krajowe, prawo UE, prawo międzynarodowe. Każda kategoria może być dodatkowo uporządkowana hierarchicznie lub chronologicznie.
+\end{wskazowka}
+
+\sectionbreak
+
+## Podsumowanie rozdziału
+
+W tym rozdziale omówiliśmy zasady sporządzania bibliografii --- od porządku alfabetycznego, przez opisy różnych typów źródeł, po specyfikę cytowania aktów prawnych i źródeł internetowych.
+
+\begin{tcolorbox}[enhanced, colback=acadlightgold, colframe=acadgold, boxrule=1pt, arc=3pt, left=4mm, right=4mm, top=3mm, bottom=3mm]
+\textbf{Kluczowe wnioski z tego rozdziału:}
+\begin{forestlist}
+\item Bibliografia musi zawierać wszystkie i tylko te źródła, które cytujesz w pracy
+\item Stosuj konsekwentnie jeden styl opisu bibliograficznego w całej pracy
+\item Dane bibliograficzne przepisuj ze strony tytułowej, nie z okładki
+\item Tytuły wyróżniaj kursywą, nazwy czasopism --- cudzysłowem (lub odwrotnie)
+\item W opisie artykułu zawsze podawaj numery stron
+\item W opisie rozdziału z pracy zbiorowej podawaj zarówno dane rozdziału, jak i całej publikacji
+\item Źródła internetowe wymagają podania daty dostępu
+\item Nie cytuj Wikipedii, notatek studenckich ani niezweryfikowanych źródeł internetowych
+\item Akty prawne opisuj ze wskazaniem publikatora (Dz.U., Dz.Urz. UE)
+\item Sprawdź wymagania swojej uczelni --- mogą różnić się od ogólnych zasad
+\end{forestlist}
+\end{tcolorbox}
+
+\begin{wskazowka}
+Ćwiczenie: Przygotuj opisy bibliograficzne dla 5 różnych typów źródeł: książki jednego autora, artykułu z czasopisma, rozdziału z pracy zbiorowej, strony internetowej i aktu prawnego. Sprawdź, czy Twoje opisy są kompletne i konsekwentne.
+\end{wskazowka}
+
+W kolejnym rozdziale omówimy formatowanie pracy w MS Word --- dowiesz się, jak ustawić czcionkę, marginesy, interlinię oraz jak tworzyć automatyczny spis treści i poprawnie numerować strony.
